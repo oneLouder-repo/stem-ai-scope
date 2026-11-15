@@ -1,115 +1,136 @@
 {
- "generated": "2026-11-15T00:34:45+00:00",
+ "generated": "2026-11-15T01:24:35+00:00",
  "sources": {
   "mila": {
-   "status": "error",
-   "feed": null,
-   "count": 0,
-   "error": "no feed found"
+   "status": "ok",
+   "method": "scraped",
+   "feed": "https://mila.quebec/en/news",
+   "count": 6,
+   "undated": 0
   },
   "amii": {
-   "status": "error",
-   "feed": null,
-   "count": 0,
-   "error": "no feed found"
+   "status": "ok",
+   "method": "scraped",
+   "feed": "https://www.amii.ca/updates-insights",
+   "count": 6,
+   "undated": 0
   },
   "vector": {
    "status": "ok",
+   "method": "feed",
    "feed": "https://vectorinstitute.ai/feed/",
    "count": 2
   },
   "cifar": {
    "status": "ok",
+   "method": "feed",
    "feed": "https://cifar.ca/feed/",
    "count": 11
   },
   "sri": {
    "status": "ok",
+   "method": "feed",
    "feed": "https://srinstitute.utoronto.ca/news?format=rss",
    "count": 8
   },
   "maiei": {
    "status": "ok",
+   "method": "feed",
    "feed": "https://montrealethics.ai/feed/",
    "count": 8
   },
   "maiei-brief": {
    "status": "ok",
+   "method": "feed",
    "feed": "https://brief.montrealethics.ai/feed",
    "count": 4
   },
   "obvia": {
-   "status": "error",
-   "feed": null,
-   "count": 0,
-   "error": "no feed found"
+   "status": "ok",
+   "method": "scraped",
+   "feed": "https://www.obvia.ca/actualites",
+   "count": 10,
+   "undated": 0
   },
   "actua": {
    "status": "ok",
+   "method": "feed",
    "feed": "https://actua.ca/feed/",
    "count": 0
   },
   "digitalmoment": {
-   "status": "error",
-   "feed": null,
-   "count": 0,
-   "error": "no feed found"
+   "status": "ok",
+   "method": "scraped",
+   "feed": "https://www.digitalmoment.org/news",
+   "count": 9,
+   "undated": 0
   },
   "fsc": {
-   "status": "error",
-   "feed": "https://fsc-ccf.ca/feed/",
-   "count": 0,
-   "error": "https://fsc-ccf.ca/feed/: XML or text declaration not at start of entity: line 1, column 3"
+   "status": "ok",
+   "method": "scraped",
+   "feed": "https://fsc-ccf.ca/",
+   "count": 5,
+   "undated": 0
   },
   "ctf": {
    "status": "ok",
+   "method": "feed",
    "feed": "https://www.ctf-fce.ca/feed/",
    "count": 3
   },
   "ecampus": {
-   "status": "error",
-   "feed": "https://ecampusontario.ca/feed/",
-   "count": 0,
-   "error": "https://ecampusontario.ca/feed/: HTTP Error 404: Not Found; https://ecampusontario.ca/feed/: HTTP Error 404: Not Found"
+   "status": "ok",
+   "method": "scraped",
+   "feed": "https://ecampusontario.ca/",
+   "count": 2,
+   "undated": 0
   },
   "edcan": {
-   "status": "error",
-   "feed": "https://www.edcan.ca/feed/",
-   "count": 0,
-   "error": "https://www.edcan.ca/feed/: HTTP Error 500: Internal Server Error"
+   "status": "ok",
+   "method": "scraped",
+   "feed": "https://www.edcan.ca/",
+   "count": 6,
+   "undated": 0
   },
   "dayofai-ca": {
    "status": "ok",
+   "method": "feed",
    "feed": "https://raise.mit.edu/feed/",
    "count": 0
   },
   "indigenous-ai": {
    "status": "ok",
+   "method": "feed",
    "feed": "https://www.indigenous-ai.net/feed/",
    "count": 0
   },
   "abundant": {
    "status": "ok",
+   "method": "feed",
    "feed": "https://abundant-intelligences.net/feed/",
    "count": 0
   },
   "animikii": {
    "status": "ok",
+   "method": "feed",
    "feed": "https://newsriver.animikii.com/rss",
    "count": 9
   },
   "fnigc": {
    "status": "ok",
+   "method": "feed",
    "feed": "https://fnigc.ca/feed/",
    "count": 0
   },
   "nunatsiaq": {
    "status": "ok",
+   "method": "feed",
    "feed": "https://nunatsiaq.com/feed/",
    "count": 15
   },
   "aptn": {
    "status": "ok",
+   "method": "feed",
    "feed": "https://www.aptnnews.ca/feed/",
    "count": 10
   },
@@ -117,46 +138,50 @@
    "status": "error",
    "feed": "https://ilrtoday.ca/feed/",
    "count": 0,
-   "error": "https://ilrtoday.ca/feed/: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ilrtoday.ca'. (_ssl.c:1011)>; <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ilrtoday.ca'. (_ssl.c:1011)>"
+   "error": "https://ilrtoday.ca/feed/: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ilrtoday.ca'. (_ssl.c:1011)>; scrape: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ilrtoday.ca'. (_ssl.c:1011)>"
   },
   "blackinai": {
    "status": "error",
    "feed": null,
    "count": 0,
-   "error": "no feed found"
+   "error": "scrape: scrape: no article links found on listing page"
   },
   "dair": {
-   "status": "error",
-   "feed": null,
+   "status": "ok",
+   "method": "scraped",
+   "feed": "https://www.dair-institute.org/blog/",
    "count": 0,
-   "error": "no feed found"
+   "undated": 0
   },
   "ajl": {
-   "status": "error",
-   "feed": null,
-   "count": 0,
-   "error": "no feed found"
+   "status": "ok",
+   "method": "scraped",
+   "feed": "https://www.ajl.org/",
+   "count": 7,
+   "undated": 7
   },
   "afrotech": {
-   "status": "error",
-   "feed": null,
-   "count": 0,
-   "error": "no feed found"
+   "status": "ok",
+   "method": "scraped",
+   "feed": "https://afrotech.com/",
+   "count": 2,
+   "undated": 0
   },
   "afrotoronto": {
    "status": "error",
    "feed": null,
    "count": 0,
-   "error": "no feed found"
+   "error": "scrape: scrape: no article links found on listing page"
   },
   "tmu-di": {
    "status": "error",
    "feed": null,
    "count": 0,
-   "error": "no feed found"
+   "error": "scrape: scrape: no article links found on listing page"
   },
   "ethoslabs": {
    "status": "ok",
+   "method": "feed",
    "feed": "https://ethoslab.ca/feed/",
    "count": 0
   },
@@ -164,26 +189,30 @@
    "status": "error",
    "feed": null,
    "count": 0,
-   "error": "no feed found"
+   "error": "scrape: HTTP Error 404: Not Found"
   },
   "serpentine": {
-   "status": "error",
-   "feed": null,
+   "status": "ok",
+   "method": "scraped",
+   "feed": "https://www.serpentinegalleries.org/arts-technologies/",
    "count": 0,
-   "error": "no feed found"
+   "undated": 0
   },
   "hyperallergic": {
    "status": "ok",
+   "method": "feed",
    "feed": "https://hyperallergic.com/feed/",
    "count": 15
   },
   "artengine": {
    "status": "ok",
+   "method": "feed",
    "feed": "https://artengine.ca/feed/",
    "count": 0
   },
   "ada": {
    "status": "ok",
+   "method": "feed",
    "feed": "https://www.adalovelaceinstitute.org/feed/",
    "count": 0
   },
@@ -191,49 +220,56 @@
    "status": "error",
    "feed": null,
    "count": 0,
-   "error": "HTTP Error 403: Forbidden"
+   "error": "scrape: HTTP Error 403: Forbidden"
   },
   "nesta": {
    "status": "error",
-   "feed": "https://www.nesta.org.uk/feed/",
-   "count": 0,
-   "error": "https://www.nesta.org.uk/feed/: HTTP Error 404: Not Found"
-  },
-  "lcfi": {
-   "status": "error",
    "feed": null,
    "count": 0,
-   "error": "no feed found"
+   "error": "scrape: scrape: no article links found on listing page"
+  },
+  "lcfi": {
+   "status": "ok",
+   "method": "scraped",
+   "feed": "https://www.lcfi.ac.uk/",
+   "count": 2,
+   "undated": 0
   },
   "efi": {
-   "status": "error",
-   "feed": "https://efi.ed.ac.uk/feed/",
+   "status": "ok",
+   "method": "scraped",
+   "feed": "https://efi.ed.ac.uk/news/",
    "count": 0,
-   "error": "https://efi.ed.ac.uk/feed/: not well-formed (invalid token): line 5, column 381"
+   "undated": 0
   },
   "cbd": {
    "status": "ok",
+   "method": "feed",
    "feed": "https://connectedbydata.org/feed.xml",
    "count": 2
   },
   "rpf": {
    "status": "ok",
+   "method": "feed",
    "feed": "https://www.raspberrypi.org/blog/feed/",
    "count": 10
   },
   "cas": {
-   "status": "error",
-   "feed": null,
+   "status": "ok",
+   "method": "scraped",
+   "feed": "https://www.computingatschool.org.uk/forum-news-blogs",
    "count": 0,
-   "error": "no feed found"
+   "undated": 0
   },
   "govuk-dfe": {
    "status": "ok",
+   "method": "feed",
    "feed": "https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=department-for-education",
    "count": 15
   },
   "govuk-dsit": {
    "status": "ok",
+   "method": "feed",
    "feed": "https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=department-for-science-innovation-and-technology",
    "count": 0
   },
@@ -241,82 +277,96 @@
    "status": "error",
    "feed": null,
    "count": 0,
-   "error": "no feed found"
+   "error": "scrape: scrape: no article links found on listing page"
   },
   "dsjp": {
-   "status": "error",
-   "feed": null,
-   "count": 0,
-   "error": "no feed found"
+   "status": "ok",
+   "method": "scraped",
+   "feed": "https://digital-skills-jobs.europa.eu/en/latest/news",
+   "count": 8,
+   "undated": 0
   },
   "kicampus": {
-   "status": "error",
-   "feed": null,
-   "count": 0,
-   "error": "no feed found"
+   "status": "ok",
+   "method": "scraped",
+   "feed": "https://ki-campus.org/en/blog",
+   "count": 3,
+   "undated": 3
   },
   "ainow": {
    "status": "ok",
+   "method": "feed",
    "feed": "https://ainowinstitute.org/feed",
    "count": 10
   },
   "datasociety": {
    "status": "ok",
+   "method": "feed",
    "feed": "https://datasociety.net/feed/",
    "count": 0
   },
   "aihub": {
    "status": "ok",
+   "method": "feed",
    "feed": "https://aihub.org/feed/",
    "count": 15
   },
   "conversation-ca-ai": {
    "status": "ok",
+   "method": "feed",
    "feed": "https://theconversation.com/ca/topics/artificial-intelligence-ai-90/articles.atom",
    "count": 15
   },
   "geist": {
    "status": "ok",
+   "method": "feed",
    "feed": "https://www.michaelgeist.ca/feed/",
    "count": 10
   },
   "betakit": {
    "status": "ok",
+   "method": "feed",
    "feed": "https://betakit.com/feed/",
    "count": 15
   },
   "csp": {
    "status": "ok",
+   "method": "feed",
    "feed": "https://sciencepolicy.ca/feed/",
    "count": 6
   },
   "enc": {
-   "status": "error",
-   "feed": null,
-   "count": 0,
-   "error": "no feed found"
+   "status": "ok",
+   "method": "scraped",
+   "feed": "https://educationnewscanada.com/",
+   "count": 10,
+   "undated": 0
   },
   "academica": {
    "status": "ok",
+   "method": "feed",
    "feed": "https://academica.ca/feed/",
    "count": 10
   },
   "techpolicy": {
    "status": "ok",
+   "method": "feed",
    "feed": "https://feeds.captivate.fm/techpolicypress/",
    "count": 15
   },
   "unesco-aied": {
-   "status": "error",
-   "feed": null,
+   "status": "ok",
+   "method": "scraped",
+   "feed": "https://www.unesco.org/en/digital-education/artificial-intelligence",
    "count": 0,
-   "error": "no feed found"
+   "undated": 0
   },
   "oecd-ai": {
-   "status": "error",
-   "feed": null,
-   "count": 0,
-   "error": "no feed found"
+   "status": "ok",
+   "method": "scraped",
+   "feed": "https://oecd.ai/en/wonk",
+   "count": 4,
+   "undated": 0
   },
   "yt-mila": {
    "status": "error",
@@ -379,19 +429,21 @@
    "error": "HTTP Error 404: Not Found"
   },
   "pod-radicalai": {
-   "status": "error",
-   "feed": null,
-   "count": 0,
-   "error": "no feed found"
+   "status": "ok",
+   "method": "scraped",
+   "feed": "https://www.radicalai.org/",
+   "count": 2,
+   "undated": 2
   },
   "pod-mystery-ai-hype": {
    "status": "error",
    "feed": null,
    "count": 0,
-   "error": "no feed found"
+   "error": "scrape: scrape: no article links found on listing page"
   },
   "bsky-ada": {
    "status": "ok",
+   "method": "feed",
    "feed": "https://bsky.app/profile/adalovelaceinst.bsky.social/rss",
    "count": 0
   },
@@ -403,16 +455,19 @@
   },
   "bsky-dair": {
    "status": "ok",
+   "method": "feed",
    "feed": "https://bsky.app/profile/dairinstitute.bsky.social/rss",
    "count": 0
   },
   "bsky-ainow": {
    "status": "ok",
+   "method": "feed",
    "feed": "https://bsky.app/profile/ainowinstitute.bsky.social/rss",
    "count": 0
   },
   "bsky-geist": {
    "status": "ok",
+   "method": "feed",
    "feed": "https://bsky.app/profile/mgeist.bsky.social/rss",
    "count": 0
   },
