@@ -1,0 +1,100 @@
+# Strategy brief: AI, STEM learning and community in Canada (and what the UK and EU add)
+
+*STEM AI Scope · prepared November 2026 for an incoming AI strategy lead at a national youth STEM outreach charity · scan window May 11 – November 15, 2026*
+
+## 1. Purpose and method
+
+This brief sets out the state of play across AI think tanks, innovation hubs, public education bodies and public-facing university AI labs. It focuses on what matters for a charity that reaches young people, educators and communities through STEM programs. It draws on 27 weekly roundups (about 100 dated, source-checked items) plus foundational literature. Every claim links to its source, and items not found in a verifiable source were left out. Canada is the primary lens. The UK and EU are used where they offer models, evidence or benchmarks.
+
+## 2. The big picture
+
+Three things happened in 2026 that shape the next three years.
+
+**First, Canada moved from a research strategy to an adoption-and-literacy strategy.** The federal *AI for All* strategy launched on June 4 after more than 11,000 consultation submissions ([Amii](https://www.amii.ca/updates-insights/ai-for-all-national-ai-strategy)). It keeps the research engine running: the Canada CIFAR AI Chairs grow from 143 toward 200 ([CIFAR](https://cifar.ca/cifarnews/2026/06/04/statement-on-canadas-national-ai-strategy/)). But its new emphasis is adoption, compute and skills. Law-firm analyses list a $500M Tech Growth Fund, $700M more for compute access and a target of up to 250,000 AI-relevant jobs by 2031 ([Baker McKenzie](https://www.bakermckenzie.com/en/insight/publications/2026/06/canada-federal-government-releases-refreshed-national-ai-strategy), [DLA Piper](https://www.dlapiper.com/en/insights/publications/2026/06/canada-unveils-national-ai-strategy)). Sovereign compute (up to $890M through SCIP, open only to not-for-profits, post-secondaries and consortia) is a parallel pillar ([Torys](https://www.torys.com/en/our-latest-thinking/publications/2026/05/canada-launches-ai-scip)).
+
+**Second, there is still no AI law.** The strategy relies on privacy reform and online-safety legislation rather than AI-specific regulation ([Geist](https://www.michaelgeist.ca/2026/06/ai-for-all-details-to-follow-government-releases-a-big-spending-ai-strategy-that-is-still-short-on-the-specifics-that-matter/)). The minister frames trust and safety as the *foundation* of adoption, with a goal of lifting business adoption from 12% to 60% ([The Hub](https://thehub.ca/2026/09/30/canadas-ai-minister-outlines-his-vision-for-balancing-innovation-and-safety/)). For youth organisations this matters: safeguarding expectations fall on program providers, schools and boards, not on a federal regulator.
+
+**Third, literacy became infrastructure.** Literacy is now treated like compute or talent: something the state funds at national scale. That creates both a funding opportunity and a definitional contest over what "AI literacy" means.
+
+## 3. Who is doing what
+
+### National AI institutes (Amii, Mila, Vector) and CIFAR
+
+The three institutes now act as public-education organisations as well as research labs.
+
+- **Amii** leads the [National AI Literacy Initiative](https://www.amii.ca/updates-insights/amii-leads-national-ai-literacy-initiative). It has three streams (post-secondary students, educators, all Canadians) and a free three-hour course, funded with $13M ([Daily Hive](https://dailyhive.com/canada/ai-free-course-canada)). Amii also runs a $2.7M Alberta K-12 AI kit partnership, the AI Workforce Readiness program for post-secondary instructors across a [57-institution consortium](https://www.amii.ca/updates-insights/ai-workforce-readiness-program-expands-curriculum-focus), and cohorts with [young Black founders through ACCEC](https://www.amii.ca/updates-insights/amii-delivers-ai-literacy-programs-to-accec-to-empower-young-black-founders).
+- **Mila** has the most developed Indigenous program in the ecosystem. It runs [Indigenous Pathfinders in AI](https://mila.quebec/en/news/indigenous-pathfinders-in-ai-discover-the-third-cohorts-ideas-in-action) (third cohort in 2026) and the Indigenous AI Gathering, and co-founded the [Indigenous AI Advisory Circle](https://mila.quebec/en/news/mila-and-cifar-launch-the-indigenous-ai-advisory-circle). Its safety and ethics work now reaches youth directly, for example a [suicide-prevention guardrail pilot for chatbots](https://mila.quebec/en/news/mila-and-roost-launch-suicide-prevention-guardrail-pilot-to-help-make-ai-chatbots-safer-for). It is also building public-interest infrastructure, including an [open-source AI layer with Mozilla](https://mila.quebec/en/news/mila-and-mozilla-announce-new-initiative-to-build-trustworthy-open-source-ai-for-everyone).
+- **Vector** focuses on Ontario's economy and on safety tools. Its [Ontario snapshot](https://vectorinstitute.ai/?p=26983) shows non-technical jobs requiring AI skills up 61%, a strong argument for AI literacy beyond STEM careers. Its open-source [UnBias-Plus](https://www.bnnbloomberg.ca/press-releases/2026/06/30/vector-institute-releases-unbias-plus-a-free-open-source-ai-tool-to-detect-and-rewrite-bias-in-text/) tool is directly usable in classroom ethics activities.
+- The three institutes jointly run the **AI4Good Lab**, now ten years old, for women and gender-diverse people ([Amii](https://www.amii.ca/updates-insights/celebrating-10-years-of-the-ai4good-lab-edmonton)).
+
+### Think tanks and university institutes
+
+- **Schwartz Reisman Institute (U of T)** shapes federal policy (nine [recommendations on AI transparency](https://srinstitute.utoronto.ca/news/sri-submits-recommendations-to-federal-consultation-on-ai-transparency)). It has appointed AI-literacy scholar [Kaitlyn Regehr](https://srinstitute.utoronto.ca/news/kaitlyn-regehr-appointed-inaugural-sri-global-fellow) to study AI's effects on children and young people, a natural research partner.
+- **Montreal AI Ethics Institute** publishes the open [State of AI Ethics Report](https://montrealethics.ai/saier-vol-8-landing/) (Vol. 8, 91 contributors).
+- **Canadian Science Policy Centre** has become the main venue for Indigenous innovation and sovereignty arguments about the strategy ([Canavera & Chartrand](https://sciencepolicy.ca/posts/building-canadas-ai-advantage-through-indigenous-innovation/); [Maleki](https://sciencepolicy.ca/posts/who-actually-decides/)).
+- **Diversity Institute (TMU)** produces the equity-focused survey evidence, for example that only [45% of young AI users disclose their use](https://www.torontomu.ca/diversity/news-events/2026/08/new-national-study-young-canadians-embrace-ai-but-see-ai-generated-work-as-cheating/).
+
+### Education system actors
+
+- The **Canadian Teachers' Federation** is the most important critical voice. It says the strategy's teacher training covers only [3,000 of 420,000 educators](https://educationnewscanada.com/article/organization/17565/1205490/Canadian-Teachers-Federation-Calls-for-Stronger-K-12-Protections-in-National-AI-Strategy-.htm). It has published a [policy brief](https://www.educationnewscanada.com/article/education/level/k12/3/1215572/policies-to-protect-students-educators-and-public-education-in-the-ai-age-.html) on children's data, cognitive offloading and AI companions, and argues the literacy initiative puts [adoption before safety](https://www.educationnewscanada.com/article/education/level/k12/3/1223177/canadian-teachers-federation-concerned-national-ai-literacy-initiative-puts-adoption-before-safety.html).
+- **Provinces** still own curriculum. Commentators note there is no single Canadian model and few board-level policies ([Tech Policy Press](https://techpolicy.press/canadas-ai-strategy-must-address-the-technologys-use-in-k12-education); [Global News](https://globalnews.ca/news/11891996/canada-ai-strategy-kindergarten-learning/)).
+- **Universities** are organising at sector level (the [Council of Ontario Universities' AI Task Force](https://ontariosuniversities.ca/news/charting-a-path-forward-for-ontario-universities-in-the-age-of-ai/)) and arguing students need "fluency", not just literacy ([The Conversation](https://educationnewscanada.com/article/organization/32271/1206474/Beyond-literacy-students-need-to-be-fluent-with-AI-.htm)).
+
+### STEM and digital-literacy non-profits
+
+Actua, Digital Moment and others are the delivery layer for youth. Actua welcomed both the strategy and the literacy initiative but warned that CanCode support is lower than in earlier rounds and that Canada ranks [42nd of 47](https://actua.ca/news-views/ai-strategy-statement) on AI literacy and training. Actua's [AI Exchange](https://www.torontomu.ca/engineering-architectural-science/stories-events/stories/2026/10/actua-partners-with-tmu-to-host-ai-conference-to-empower-educators/) with MIT RAISE and TMU positioned it as a convenor for K-12 teacher AI literacy. Digital Moment launched a youth [AI literacy hub with the Canadian Commission for UNESCO](https://www.digitalmoment.org/news/digital-moment-and-the-canadian-commission-for-unesco-launch-a-national-ai-literacy-hub-for-youth-in-canada) and is attracting corporate funding (RBC, CIRA).
+
+## 4. What the evidence says about learners and educators
+
+- **Use is near-universal; preparation is not.** Three-quarters of students use generative AI for schoolwork, and 59% of educators say the system is not preparing them for an AI-enabled workplace ([KPMG](https://kpmg.com/ca/en/media/2026/09/majority-of-students-use-ai-but-educators-sound-alarm.html)).
+- **Teachers fear cognitive offloading.** In a survey of 756 grade 6–12 teachers, 95.6% believe some students use AI for homework and 83.6% see declining critical thinking ([Fraser/Leger via The Hub](https://thehub.ca/2026/08/28/canadian-teachers-say-ai-is-doing-students-homework-and-their-thinking/)).
+- **Educator confidence is the bottleneck.** Actua's 2025 baseline found 84% of youth want to learn more about AI but only 48% of educators feel skilled with AI in class ([Actua](https://actua.ca/news-views/ai-report)). UK data shows the same pattern, with a two-to-one training gap between private and state schools ([Computing at School](https://www.computingatschool.org.uk/forum-news-blogs/2026/may/state-of-the-nation-ai-in-education-what-educators-need-to-know/)).
+- **Adults are part of the picture.** One in five working-age Canadians struggles with basic literacy, which shapes who can benefit from AI tools ([United for Literacy](https://www.unitedforliteracy.ca/About/News/What-artificial-intelligence-means-adult-literacy-Canada)). The UK and Scotland are piloting community AI literacy with homeless and low-income adults ([Edinburgh Futures Institute](https://efi.ed.ac.uk/edinburgh-futures-institute-and-phoenix-court-deliver-ai-literacy-challenge/)).
+
+## 5. Indigenous AI and Indigenous futurism
+
+Indigenous-led AI is the most dynamic and strategically significant thread in the Canadian landscape. Three layers are visible:
+
+1. **Governance:** the Mila–CIFAR [Indigenous AI Advisory Circle](https://mila.quebec/en/news/mila-and-cifar-launch-the-indigenous-ai-advisory-circle), plus long-standing frameworks such as FNIGC's [OCAP® principles](https://fnigc.ca/what-we-do/ocap-and-information-governance), the CARE principles (Carroll et al., 2020) and the [Indigenous Protocol and AI position paper](https://doi.org/10.11573/spectrum.library.concordia.ca.00986506) (Lewis, 2020).
+2. **Applied projects:** SFU's [FLAIR](https://www.educationnewscanada.com/article/education/category/research/100/1225479/simon-fraser-universityoctober-29-2026-flair-project-at-sfu-harnesses-ai-to-revive-indigenous-languages.html) language-revitalization tools with Gwich'in and Kwakwaka'wakw partners, the [PolArctic–Mila](https://www.arctictoday.com/%F0%9F%87%A8%F0%9F%87%A6-mila-and-polarctic-canada-announce-partnership-to-advance-ai-powered-sea-ice-forecasting-in-the-canadian-arctic/) sea-ice forecasting partnership that combines Inuit knowledge with satellite data, and Pathfinders prototypes on land, health and data sovereignty.
+3. **Imagination and culture:** Skawennati's [augmented-reality Three Sisters](https://educationnewscanada.com/article/education/region/quebec/26/1210837/concordia-universityjuly-13-2026-skawennati-brings-indigenous-futurism-to-montreal-s-streets.html), Caroline Running Wolf's framing of [AI as a "painted pony"](https://uwaterloo.ca/global-engagement-seminar/events/public-talk-painted-pony-called-ai) to be shaped by Indigenous leadership, and the Abundant Intelligences research program (Lewis et al., 2024).
+
+Policy pressure is rising. Editorials argue that funding and procurement should flow to Indigenous-led AI and that "sovereignty" must include water, land and energy used by data centres. Budget 2026 added a $451.8M [Indigenous Workforce Readiness fund](https://www.hcamag.com/ca/specialization/transformation/canadas-2026-federal-budget-bets-on-building-a-workforce-from-within/596514). For a charity with long-standing Indigenous youth programming, the clear move is partnership under community data governance, not standalone content.
+
+## 6. Black communities and Afrofuturism
+
+The strategy's legitimacy problem with Black communities is explicit. Critics note the 27-member task force had no Black members and cite a letter from 60 Black scholars ([Afowork](https://maxpolicy.substack.com/p/without-black-voices-canadas-ai-strategy)). Earlier 2026 reports from the CanAfro Research Institute ([*Being Black in AI*](https://carleton.ca/africanstudies/2026/being-black-in-ai-evidence-trends-and-policy-futures-at-the-intersection-of-artificial-intelligence-and-african-caribbean-and-black-communities-in-canada)) and TMU's Lincoln Alexander School of Law ([*Black Futures by Design*](https://www.torontomu.ca/law/news-events/2026/02/black-futures-by-design-advancing-racial-justice-in-canadas-ai-governance/)) set out the evidence and governance asks. Program responses are emerging: Amii with ACCEC, the federal [Black Canadian Communities Program](https://www.canada.ca/en/employment-social-development/news/2026/09/government-of-canada-launches-black-canadian-communities-program.html), and Black-led youth STEAM programs that use speculative design (see the [Warwick-hosted study](https://warwick.ac.uk/fac/cross_fac/eduport/edufund/projects/yang/projects/reimagining-ai-exploring-speculative-design-workshops-for-supporting-bipoc-youth-critical-ai-6747a1/)).
+
+Afrofuturism is now a recognised *design method* for AI, not only an aesthetic. It is the basis of the [DIS 2026 workshop](https://research.google/pubs/meet-the-ai-moment-using-afrofuturism-and-technowomanism-together-as-technological-practice/) on Afrofuturism and technowomanism, UK youth programs such as [*Future Heads*](https://www.royalgreenwich.gov.uk/events/create-future-heads-young-voices-black-heritage-ai-futures-3), and the critical tradition of Benjamin (2019), Buolamwini and Gebru (2018) and DAIR ([Gebru interview](https://democracynow.org/2026/8/13/timnit_gebru)).
+
+## 7. Creative and cultural AI
+
+Canadian Heritage's [National Summit on AI and Culture](https://www.canada.ca/en/canadian-heritage/services/ai-culture-summit/what-we-heard.html) put copyright, transparency, Indigenous-led AI and cultural-sector AI literacy on the federal agenda. The strategy funds a $50M Creative Technology Program but does not address training-data IP ([Cultural Policy Hub](https://culturalpolicyhub.ocadu.ca/news/canadas-national-ai-strategy-key-overview-and-what-it-means-canadas-arts-culture-and-heritage)). Artists want agency, accountability and a policy role ([Arts Etobicoke roundtable](https://culturalpolicyhub.ocadu.ca/sites/default/files/report-pdfs/Hub_ArtsEtobicoke_AI_ArtistsAIandPolicyEvent_July2026_SummaryReport_EN.pdf)). For STEM outreach, creative and humanities-based approaches (a [U of T history course](https://srinstitute.utoronto.ca/news/a-history-course-is-teaching-students-to-think-critically-about-ai) on AI is one example) widen who sees themselves in AI, echoing the Diversity Institute's warning that [STEM alone won't prepare us](https://www.torontomu.ca/diversity/news-events/2026/05/rethinking-ai-skills-why-stem-alone-wont-prepare-us-for-whats-ahead/).
+
+## 8. UK and EU: models and benchmarks
+
+- **EU:** The EU–OECD [AILit Framework](https://education.ec.europa.eu/node/3537) (4 dimensions, 19 competences) is the best available curriculum reference. The AI Act's Article 4 literacy duty survived the Omnibus in softened form ([KI-Campus](https://ki-campus.org/en/blog/eu-ai-act-ai-omnibus-recalibrates-article-4-ai-literacy-remains-mandatory)), and an [AI-literacy certificate for 15-year-olds](https://www.euronews.com/2026/11/05/eu-plans-to-deliver-ai-literacy-certificates-to-students) is planned for 2027–28. Commission reports find [mixed classroom results](https://www.brusselstimes.com/2328535/europes-classrooms-face-mixed-results-as-generative-ai-reshapes-learning) and stress ongoing teacher training.
+- **UK:** The state is investing in AI tutoring and testbeds and in [TechFirst](https://workplacejournal.co.uk/2026/06/government-launches-ai-jobs-scheme-for-young-people/) for 400,000 disadvantaged students. The [Seldon report](https://www.resultsense.com/news/2026-09-22-seldon-report-ai-schools-framework/) calls for Ofsted-checked school AI strategies. Public deliberation is strong ([Edinburgh citizens' assembly proposal](https://efi.ed.ac.uk/citizens-assembly-key-to-giving-public-a-voice-on-ai/), Connected by Data, the Ada Lovelace Institute). The Raspberry Pi Foundation's **Experience AI** is the clearest scaled NGO model, with Google.org-funded expansions in [Australia/Aotearoa](https://www.raspberrypi.org/blog/supporting-ai-education-for-150000-learners-in-aotearoa-new-zealand-and-australia/) that work with Māori partners.
+
+## 9. Risks
+
+1. **Definition capture:** "AI literacy" could shrink to tool adoption. Teachers and ethicists are pushing back.
+2. **Safety liability:** with no AI law, youth providers carry the safeguarding risk for chatbots, data and AI companions.
+3. **Equity gaps:** state vs private school training gaps, rural connectivity, and exclusion of Black and Indigenous communities from governance.
+4. **Funding squeeze:** the CanCode envelope is smaller per learner, and federal literacy money flows mainly through one institute.
+5. **Measurement:** the literacy initiative lacks a public impact framework, a gap a credible NGO can fill.
+
+## 10. Opportunities and recommendations
+
+1. **Claim the out-of-school youth gap.** Federal programs mostly target post-secondary learners and teachers. Propose Actua as the youth delivery partner for the National AI Literacy Initiative and the Essentials stream.
+2. **Define "critical AI literacy" publicly.** Publish an Actua framework mapped to AILit and UNESCO competencies, including safety, bias, environmental cost and data rights. This answers the CTF's concerns directly.
+3. **Build Indigenous AI programming *with* communities.** Partner with Mila Pathfinders alumni, FLAIR and the Advisory Circle, and adopt OCAP for any youth data.
+4. **Commit to Black youth AI pathways.** Partner with ACCEC, Ethos Lab and Black-led STEAM groups, use Afrofuturist speculative design, and target the Black Canadian Communities Program and corporate funders.
+5. **Make creativity a core method.** Run speculative-futures and arts-based AI modules in camps, drawing on Indigenous futurism and Afrofuturism.
+6. **Close the educator-confidence gap.** Build on the AI Exchange with a standing community of practice for STEM instructors, with recognised micro-credentials.
+7. **Measure and publish.** Reuse Actua's 2025 youth and educator baselines to track change annually. That is evidence the national system currently lacks.
+8. **Keep scanning.** This platform's weekly scan will flag new funding calls, provincial guidance and partner moves.
+
+## References
+
+See the [APA bibliography](bibliography.html) for every source in the scan plus the foundational works cited here.

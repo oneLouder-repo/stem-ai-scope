@@ -1,0 +1,22 @@
+{
+  "_readme": "Foundational works cited in the brief. 'apa' uses *asterisks* for italics. Add entries freely; they render on the Bibliography page.",
+  "items": [
+    {"apa": "Bender, E. M., Gebru, T., McMillan-Major, A., & Shmitchell, S. (2021). On the dangers of stochastic parrots: Can language models be too big? In *Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency* (pp. 610–623). ACM.", "url": "https://doi.org/10.1145/3442188.3445922"},
+    {"apa": "Benjamin, R. (2019). *Race after technology: Abolitionist tools for the New Jim Code*. Polity.", "url": ""},
+    {"apa": "Buolamwini, J., & Gebru, T. (2018). Gender shades: Intersectional accuracy disparities in commercial gender classification. *Proceedings of Machine Learning Research, 81*, 77–91.", "url": "https://proceedings.mlr.press/v81/buolamwini18a.html"},
+    {"apa": "Carroll, S. R., Garba, I., Figueroa-Rodríguez, O. L., Holbrook, J., Lovett, R., Materechera, S., Parsons, M., Raseroka, K., Rodriguez-Lonebear, D., Rowe, R., Sara, R., Walker, J. D., Anderson, J., & Hudson, M. (2020). The CARE principles for Indigenous data governance. *Data Science Journal, 19*(1), 43.", "url": "https://doi.org/10.5334/dsj-2020-043"},
+    {"apa": "Dillon, G. L. (Ed.). (2012). *Walking the clouds: An anthology of Indigenous science fiction*. University of Arizona Press.", "url": ""},
+    {"apa": "Eaton, S. E. (2023). Postplagiarism: Transdisciplinary ethics and integrity in the age of artificial intelligence and neurotechnology. *International Journal for Educational Integrity, 19*, Article 23.", "url": "https://doi.org/10.1007/s40979-023-00144-1"},
+    {"apa": "European Commission & OECD. (2026). *AI literacy framework for primary and secondary education (AILit)*.", "url": "https://education.ec.europa.eu/node/3537"},
+    {"apa": "First Nations Information Governance Centre. (n.d.). *The First Nations principles of OCAP®*.", "url": "https://fnigc.ca/what-we-do/ocap-and-information-governance"},
+    {"apa": "Lewis, J. E. (Ed.). (2020). *Indigenous protocol and artificial intelligence position paper*. Indigenous Protocol and Artificial Intelligence Working Group & CIFAR.", "url": "https://doi.org/10.11573/spectrum.library.concordia.ca.00986506"},
+    {"apa": "Lewis, J. E., Whaanga, H., & Yolgörmez, C. (2024). Abundant intelligences: Placing AI within Indigenous knowledge frameworks. *AI & Society*.", "url": "https://link.springer.com/article/10.1007/s00146-024-02099-4"},
+    {"apa": "Long, D., & Magerko, B. (2020). What is AI literacy? Competencies and design considerations. In *Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems* (pp. 1–16). ACM.", "url": "https://doi.org/10.1145/3313831.3376727"},
+    {"apa": "Miao, F., & Cukurova, M. (2024). *AI competency framework for teachers*. UNESCO.", "url": "https://www.unesco.org/en/digital-education/artificial-intelligence"},
+    {"apa": "Miao, F., & Holmes, W. (2023). *Guidance for generative AI in education and research*. UNESCO.", "url": "https://doi.org/10.54675/EWZM9535"},
+    {"apa": "Miao, F., & Shiohira, K. (2024). *AI competency framework for students*. UNESCO.", "url": "https://www.unesco.org/en/digital-education/artificial-intelligence"},
+    {"apa": "OECD. (2026). *OECD digital education outlook 2026: Exploring effective uses of generative AI in education*. OECD Publishing.", "url": "https://www.oecd.org/en/publications/2026/01/oecd-digital-education-outlook-2026_940e0dd8.html"},
+    {"apa": "Touretzky, D., Gardner-McCune, C., Martin, F., & Seehorn, D. (2019). Envisioning AI for K-12: What should every child know about AI? *Proceedings of the AAAI Conference on Artificial Intelligence, 33*(1), 9795–9799.", "url": "https://doi.org/10.1609/aaai.v33i01.33019795"},
+    {"apa": "Womack, Y. L. (2013). *Afrofuturism: The world of Black sci-fi and fantasy culture*. Lawrence Hill Books.", "url": ""}
+  ]
+}

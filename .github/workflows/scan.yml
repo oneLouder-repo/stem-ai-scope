@@ -1,0 +1,52 @@
+name: Harvest feeds & weekly scan
+
+on:
+  schedule:
+    - cron: "15 10 * * *"     # daily feed harvest, 10:15 UTC (6:15 AM Halifax)
+  workflow_dispatch:
+    inputs:
+      week:
+        description: "Build/rebuild a roundup for this ISO week (e.g. 2026-W47). Leave blank for last week."
+        required: false
+  push:
+    branches: [main]
+    paths: ["data/sources.json"]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: scan
+  cancel-in-progress: false
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Harvest all feeds
+        run: python scripts/harvest_feeds.py --days 60
+
+      - name: Weekly roundup (Mondays, or on manual run)
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          SCAN_MODEL: ${{ vars.SCAN_MODEL }}
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ] && [ -n "${{ inputs.week }}" ]; then
+            python scripts/weekly_scan.py --week "${{ inputs.week }}" --force
+          elif [ "$(date -u +%u)" = "1" ] || [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            python scripts/weekly_scan.py
+          else
+            echo "Not Monday: feeds harvested, no new roundup."
+          fi
+
+      - name: Commit changes
+        run: |
+          git config user.name "stem-ai-scope-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          if git diff --cached --quiet; then echo "No changes"; else git commit -m "Scan: $(date -u +%Y-%m-%d)" && git push; fi

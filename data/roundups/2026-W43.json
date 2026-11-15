@@ -1,0 +1,10 @@
+{
+ "id": "2026-W43",
+ "start": "2026-10-19",
+ "end": "2026-10-25",
+ "headline": "Quiet week in the verified record",
+ "digest": "The backfill scan found no verified, dated, in-scope items for this week. The automated scan only adds items it can link to a real source, so this week stays empty instead of padded. See the weeks either side for continuity.",
+ "item_ids": [],
+ "generated_by": "backfill-research",
+ "generated_at": "2026-11-15T00:00:00+00:00"
+}
