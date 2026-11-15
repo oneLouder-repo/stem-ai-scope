@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-15T01:24:35+00:00",
+ "generated": "2026-11-15T17:14:05+00:00",
  "sources": {
   "mila": {
    "status": "ok",
@@ -25,7 +25,7 @@
    "status": "ok",
    "method": "feed",
    "feed": "https://cifar.ca/feed/",
-   "count": 11
+   "count": 10
   },
   "sri": {
    "status": "ok",
@@ -375,34 +375,34 @@
    "error": "HTTP Error 404: Not Found"
   },
   "yt-amii": {
-   "status": "error",
-   "feed": null,
-   "count": 0,
-   "error": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxxisInVr7upxv1yUhSgdBA: HTTP Error 404: Not Found"
+   "status": "ok",
+   "method": "feed",
+   "feed": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxxisInVr7upxv1yUhSgdBA",
+   "count": 9
   },
   "yt-vector": {
-   "status": "error",
-   "feed": null,
-   "count": 0,
-   "error": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFCbqKIQ-8mca0zmMVziAfg: HTTP Error 404: Not Found"
+   "status": "ok",
+   "method": "feed",
+   "feed": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFCbqKIQ-8mca0zmMVziAfg",
+   "count": 5
   },
   "yt-cifar": {
-   "status": "error",
-   "feed": null,
-   "count": 0,
-   "error": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZj1nnTIiutUjEg-22e8UTA: HTTP Error 404: Not Found"
+   "status": "ok",
+   "method": "feed",
+   "feed": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZj1nnTIiutUjEg-22e8UTA",
+   "count": 0
   },
   "yt-sri": {
-   "status": "error",
-   "feed": null,
-   "count": 0,
-   "error": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXmZkD_OFXayyq8Pr3c13ow: HTTP Error 404: Not Found"
+   "status": "ok",
+   "method": "feed",
+   "feed": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXmZkD_OFXayyq8Pr3c13ow",
+   "count": 15
   },
   "yt-turing": {
-   "status": "error",
-   "feed": null,
-   "count": 0,
-   "error": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqUddmx15-B9s1fsUn3AEBw: HTTP Error 404: Not Found"
+   "status": "ok",
+   "method": "feed",
+   "feed": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqUddmx15-B9s1fsUn3AEBw",
+   "count": 0
   },
   "yt-ada": {
    "status": "error",
@@ -411,10 +411,10 @@
    "error": "HTTP Error 404: Not Found"
   },
   "yt-rpf": {
-   "status": "error",
-   "feed": null,
-   "count": 0,
-   "error": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsUyEbIMzpE-zdfwmB9zFeA: HTTP Error 404: Not Found"
+   "status": "ok",
+   "method": "feed",
+   "feed": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsUyEbIMzpE-zdfwmB9zFeA",
+   "count": 5
   },
   "yt-raise": {
    "status": "error",
