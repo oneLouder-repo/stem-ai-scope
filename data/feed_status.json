@@ -1,1 +1,440 @@
-{"generated": null, "sources": {}}
+{
+ "generated": "2026-11-15T00:34:45+00:00",
+ "sources": {
+  "mila": {
+   "status": "error",
+   "feed": null,
+   "count": 0,
+   "error": "no feed found"
+  },
+  "amii": {
+   "status": "error",
+   "feed": null,
+   "count": 0,
+   "error": "no feed found"
+  },
+  "vector": {
+   "status": "ok",
+   "feed": "https://vectorinstitute.ai/feed/",
+   "count": 2
+  },
+  "cifar": {
+   "status": "ok",
+   "feed": "https://cifar.ca/feed/",
+   "count": 11
+  },
+  "sri": {
+   "status": "ok",
+   "feed": "https://srinstitute.utoronto.ca/news?format=rss",
+   "count": 8
+  },
+  "maiei": {
+   "status": "ok",
+   "feed": "https://montrealethics.ai/feed/",
+   "count": 8
+  },
+  "maiei-brief": {
+   "status": "ok",
+   "feed": "https://brief.montrealethics.ai/feed",
+   "count": 4
+  },
+  "obvia": {
+   "status": "error",
+   "feed": null,
+   "count": 0,
+   "error": "no feed found"
+  },
+  "actua": {
+   "status": "ok",
+   "feed": "https://actua.ca/feed/",
+   "count": 0
+  },
+  "digitalmoment": {
+   "status": "error",
+   "feed": null,
+   "count": 0,
+   "error": "no feed found"
+  },
+  "fsc": {
+   "status": "error",
+   "feed": "https://fsc-ccf.ca/feed/",
+   "count": 0,
+   "error": "https://fsc-ccf.ca/feed/: XML or text declaration not at start of entity: line 1, column 3"
+  },
+  "ctf": {
+   "status": "ok",
+   "feed": "https://www.ctf-fce.ca/feed/",
+   "count": 3
+  },
+  "ecampus": {
+   "status": "error",
+   "feed": "https://ecampusontario.ca/feed/",
+   "count": 0,
+   "error": "https://ecampusontario.ca/feed/: HTTP Error 404: Not Found; https://ecampusontario.ca/feed/: HTTP Error 404: Not Found"
+  },
+  "edcan": {
+   "status": "error",
+   "feed": "https://www.edcan.ca/feed/",
+   "count": 0,
+   "error": "https://www.edcan.ca/feed/: HTTP Error 500: Internal Server Error"
+  },
+  "dayofai-ca": {
+   "status": "ok",
+   "feed": "https://raise.mit.edu/feed/",
+   "count": 0
+  },
+  "indigenous-ai": {
+   "status": "ok",
+   "feed": "https://www.indigenous-ai.net/feed/",
+   "count": 0
+  },
+  "abundant": {
+   "status": "ok",
+   "feed": "https://abundant-intelligences.net/feed/",
+   "count": 0
+  },
+  "animikii": {
+   "status": "ok",
+   "feed": "https://newsriver.animikii.com/rss",
+   "count": 9
+  },
+  "fnigc": {
+   "status": "ok",
+   "feed": "https://fnigc.ca/feed/",
+   "count": 0
+  },
+  "nunatsiaq": {
+   "status": "ok",
+   "feed": "https://nunatsiaq.com/feed/",
+   "count": 15
+  },
+  "aptn": {
+   "status": "ok",
+   "feed": "https://www.aptnnews.ca/feed/",
+   "count": 10
+  },
+  "ilr": {
+   "status": "error",
+   "feed": "https://ilrtoday.ca/feed/",
+   "count": 0,
+   "error": "https://ilrtoday.ca/feed/: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ilrtoday.ca'. (_ssl.c:1011)>; <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ilrtoday.ca'. (_ssl.c:1011)>"
+  },
+  "blackinai": {
+   "status": "error",
+   "feed": null,
+   "count": 0,
+   "error": "no feed found"
+  },
+  "dair": {
+   "status": "error",
+   "feed": null,
+   "count": 0,
+   "error": "no feed found"
+  },
+  "ajl": {
+   "status": "error",
+   "feed": null,
+   "count": 0,
+   "error": "no feed found"
+  },
+  "afrotech": {
+   "status": "error",
+   "feed": null,
+   "count": 0,
+   "error": "no feed found"
+  },
+  "afrotoronto": {
+   "status": "error",
+   "feed": null,
+   "count": 0,
+   "error": "no feed found"
+  },
+  "tmu-di": {
+   "status": "error",
+   "feed": null,
+   "count": 0,
+   "error": "no feed found"
+  },
+  "ethoslabs": {
+   "status": "ok",
+   "feed": "https://ethoslab.ca/feed/",
+   "count": 0
+  },
+  "ocadu-hub": {
+   "status": "error",
+   "feed": null,
+   "count": 0,
+   "error": "no feed found"
+  },
+  "serpentine": {
+   "status": "error",
+   "feed": null,
+   "count": 0,
+   "error": "no feed found"
+  },
+  "hyperallergic": {
+   "status": "ok",
+   "feed": "https://hyperallergic.com/feed/",
+   "count": 15
+  },
+  "artengine": {
+   "status": "ok",
+   "feed": "https://artengine.ca/feed/",
+   "count": 0
+  },
+  "ada": {
+   "status": "ok",
+   "feed": "https://www.adalovelaceinstitute.org/feed/",
+   "count": 0
+  },
+  "turing": {
+   "status": "error",
+   "feed": null,
+   "count": 0,
+   "error": "HTTP Error 403: Forbidden"
+  },
+  "nesta": {
+   "status": "error",
+   "feed": "https://www.nesta.org.uk/feed/",
+   "count": 0,
+   "error": "https://www.nesta.org.uk/feed/: HTTP Error 404: Not Found"
+  },
+  "lcfi": {
+   "status": "error",
+   "feed": null,
+   "count": 0,
+   "error": "no feed found"
+  },
+  "efi": {
+   "status": "error",
+   "feed": "https://efi.ed.ac.uk/feed/",
+   "count": 0,
+   "error": "https://efi.ed.ac.uk/feed/: not well-formed (invalid token): line 5, column 381"
+  },
+  "cbd": {
+   "status": "ok",
+   "feed": "https://connectedbydata.org/feed.xml",
+   "count": 2
+  },
+  "rpf": {
+   "status": "ok",
+   "feed": "https://www.raspberrypi.org/blog/feed/",
+   "count": 10
+  },
+  "cas": {
+   "status": "error",
+   "feed": null,
+   "count": 0,
+   "error": "no feed found"
+  },
+  "govuk-dfe": {
+   "status": "ok",
+   "feed": "https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=department-for-education",
+   "count": 15
+  },
+  "govuk-dsit": {
+   "status": "ok",
+   "feed": "https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=department-for-science-innovation-and-technology",
+   "count": 0
+  },
+  "ec-education": {
+   "status": "error",
+   "feed": null,
+   "count": 0,
+   "error": "no feed found"
+  },
+  "dsjp": {
+   "status": "error",
+   "feed": null,
+   "count": 0,
+   "error": "no feed found"
+  },
+  "kicampus": {
+   "status": "error",
+   "feed": null,
+   "count": 0,
+   "error": "no feed found"
+  },
+  "ainow": {
+   "status": "ok",
+   "feed": "https://ainowinstitute.org/feed",
+   "count": 10
+  },
+  "datasociety": {
+   "status": "ok",
+   "feed": "https://datasociety.net/feed/",
+   "count": 0
+  },
+  "aihub": {
+   "status": "ok",
+   "feed": "https://aihub.org/feed/",
+   "count": 15
+  },
+  "conversation-ca-ai": {
+   "status": "ok",
+   "feed": "https://theconversation.com/ca/topics/artificial-intelligence-ai-90/articles.atom",
+   "count": 15
+  },
+  "geist": {
+   "status": "ok",
+   "feed": "https://www.michaelgeist.ca/feed/",
+   "count": 10
+  },
+  "betakit": {
+   "status": "ok",
+   "feed": "https://betakit.com/feed/",
+   "count": 15
+  },
+  "csp": {
+   "status": "ok",
+   "feed": "https://sciencepolicy.ca/feed/",
+   "count": 6
+  },
+  "enc": {
+   "status": "error",
+   "feed": null,
+   "count": 0,
+   "error": "no feed found"
+  },
+  "academica": {
+   "status": "ok",
+   "feed": "https://academica.ca/feed/",
+   "count": 10
+  },
+  "techpolicy": {
+   "status": "ok",
+   "feed": "https://feeds.captivate.fm/techpolicypress/",
+   "count": 15
+  },
+  "unesco-aied": {
+   "status": "error",
+   "feed": null,
+   "count": 0,
+   "error": "no feed found"
+  },
+  "oecd-ai": {
+   "status": "error",
+   "feed": null,
+   "count": 0,
+   "error": "no feed found"
+  },
+  "yt-mila": {
+   "status": "error",
+   "feed": null,
+   "count": 0,
+   "error": "HTTP Error 404: Not Found"
+  },
+  "yt-amii": {
+   "status": "error",
+   "feed": null,
+   "count": 0,
+   "error": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxxisInVr7upxv1yUhSgdBA: HTTP Error 404: Not Found"
+  },
+  "yt-vector": {
+   "status": "error",
+   "feed": null,
+   "count": 0,
+   "error": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFCbqKIQ-8mca0zmMVziAfg: HTTP Error 404: Not Found"
+  },
+  "yt-cifar": {
+   "status": "error",
+   "feed": null,
+   "count": 0,
+   "error": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZj1nnTIiutUjEg-22e8UTA: HTTP Error 404: Not Found"
+  },
+  "yt-sri": {
+   "status": "error",
+   "feed": null,
+   "count": 0,
+   "error": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXmZkD_OFXayyq8Pr3c13ow: HTTP Error 404: Not Found"
+  },
+  "yt-turing": {
+   "status": "error",
+   "feed": null,
+   "count": 0,
+   "error": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqUddmx15-B9s1fsUn3AEBw: HTTP Error 404: Not Found"
+  },
+  "yt-ada": {
+   "status": "error",
+   "feed": null,
+   "count": 0,
+   "error": "HTTP Error 404: Not Found"
+  },
+  "yt-rpf": {
+   "status": "error",
+   "feed": null,
+   "count": 0,
+   "error": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsUyEbIMzpE-zdfwmB9zFeA: HTTP Error 404: Not Found"
+  },
+  "yt-raise": {
+   "status": "error",
+   "feed": null,
+   "count": 0,
+   "error": "HTTP Error 404: Not Found"
+  },
+  "yt-dair": {
+   "status": "error",
+   "feed": null,
+   "count": 0,
+   "error": "HTTP Error 404: Not Found"
+  },
+  "pod-radicalai": {
+   "status": "error",
+   "feed": null,
+   "count": 0,
+   "error": "no feed found"
+  },
+  "pod-mystery-ai-hype": {
+   "status": "error",
+   "feed": null,
+   "count": 0,
+   "error": "no feed found"
+  },
+  "bsky-ada": {
+   "status": "ok",
+   "feed": "https://bsky.app/profile/adalovelaceinst.bsky.social/rss",
+   "count": 0
+  },
+  "bsky-turing": {
+   "status": "error",
+   "feed": null,
+   "count": 0,
+   "error": "https://bsky.app/profile/turinginst.bsky.social/rss: HTTP Error 404: Not Found"
+  },
+  "bsky-dair": {
+   "status": "ok",
+   "feed": "https://bsky.app/profile/dairinstitute.bsky.social/rss",
+   "count": 0
+  },
+  "bsky-ainow": {
+   "status": "ok",
+   "feed": "https://bsky.app/profile/ainowinstitute.bsky.social/rss",
+   "count": 0
+  },
+  "bsky-geist": {
+   "status": "ok",
+   "feed": "https://bsky.app/profile/mgeist.bsky.social/rss",
+   "count": 0
+  },
+  "li-actua": {
+   "status": "link-only",
+   "feed": null,
+   "count": 0
+  },
+  "li-mila": {
+   "status": "link-only",
+   "feed": null,
+   "count": 0
+  },
+  "li-amii": {
+   "status": "link-only",
+   "feed": null,
+   "count": 0
+  },
+  "li-cifar": {
+   "status": "link-only",
+   "feed": null,
+   "count": 0
+  }
+ }
+}
