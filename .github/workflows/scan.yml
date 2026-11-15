@@ -44,6 +44,9 @@ jobs:
             echo "Not Monday: feeds harvested, no new roundup."
           fi
 
+      - name: Rebuild offline bundle
+        run: python scripts/build_bundle.py
+
       - name: Commit changes
         run: |
           git config user.name "stem-ai-scope-bot"

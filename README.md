@@ -23,7 +23,7 @@ Everything is plain HTML, CSS and JavaScript with no build step. Data is JSON, a
 
 `.github/workflows/scan.yml` runs **every day at 10:15 UTC** (and whenever `data/sources.json` changes):
 
-1. `scripts/harvest_feeds.py` reads every source in `data/sources.json` and writes `data/feed.json` and `data/feed_status.json`. It handles RSS/Atom, auto-discovers feeds from homepages, resolves YouTube handles and reads Bluesky profiles. It uses the Python standard library only.
+1. `scripts/harvest_feeds.py` reads every source in `data/sources.json` and writes `data/feed.json` and `data/feed_status.json`. It handles RSS/Atom, auto-discovers feeds from homepages, resolves YouTube handles and reads Bluesky profiles. For sites with no feed, it **scrapes the news listing page**: it collects article links (optionally filtered by a `link_pattern` regex), then reads each article's title, description and date. It uses the Python standard library only.
 2. **On Mondays**, `scripts/weekly_scan.py` builds a roundup for the previous Monday–Sunday week. It filters the harvested items to the scan scope, scores them (Canada first, UK/EU second, extra weight on focus areas), keeps the top 15 and writes `data/roundups/YYYY-Www.json`.
 3. The workflow commits the changes, and GitHub Pages republishes.
 
@@ -39,13 +39,11 @@ Everything is plain HTML, CSS and JavaScript with no build step. Data is JSON, a
 - **Update the summary or brief:** edit the Markdown in `content/`.
 - **Add literature:** append to `data/literature.json` (APA string, with `*asterisks*` for italics).
 
-## Local preview
+## Local / offline use
 
-```bash
-python -m http.server 8000   # then open http://localhost:8000
-```
+Download the repo as a ZIP (Code → Download ZIP), unzip it and **double-click `index.html`**. When a page is opened from disk it reads `data/bundle.js`, a snapshot of all the data that the Action rebuilds on every run, so no server is needed. (Fonts fall back to system fonts if you're offline.)
 
-Pages load JSON with `fetch`, so opening the HTML files directly (`file://`) will not work.
+To refresh the data locally: `python scripts/harvest_feeds.py && python scripts/weekly_scan.py && python scripts/build_bundle.py`. Or serve live files with `python -m http.server 8000`.
 
 ## Turn on GitHub Pages
 

@@ -52,7 +52,15 @@
     const m = x => MONTHS[x.getMonth()].slice(0, 3);
     return A.getMonth() === B.getMonth() ? `${m(A)} ${A.getDate()}–${B.getDate()}, ${B.getFullYear()}` : `${m(A)} ${A.getDate()} – ${m(B)} ${B.getDate()}, ${B.getFullYear()}`;
   };
-  const getJSON = async p => { const r = await fetch(p, { cache: "no-cache" }); if (!r.ok) throw new Error(p + " " + r.status); return r.json(); };
+  const BUNDLE = window.SCOPE_DATA || null;  // present when opened from disk (see scripts/build_bundle.py)
+  const getJSON = async p => {
+    if (BUNDLE) { if (p in BUNDLE) return BUNDLE[p]; throw new Error(p + " not in offline bundle"); }
+    const r = await fetch(p, { cache: "no-cache" }); if (!r.ok) throw new Error(p + " " + r.status); return r.json();
+  };
+  const getText = async p => {
+    if (BUNDLE && p in BUNDLE) return BUNDLE[p];
+    const r = await fetch(p, { cache: "no-cache" }); if (!r.ok) throw new Error(p + " " + r.status); return r.text();
+  };
   const store = {
     get(k) { try { return localStorage.getItem(k); } catch { return null; } },
     set(k, v) { try { localStorage.setItem(k, v); } catch { /* ignore */ } },
@@ -336,7 +344,7 @@
 
   async function doc() {
     const src = document.body.dataset.src;
-    const text = await (await fetch(src, { cache: "no-cache" })).text();
+    const text = await getText(src);
     $("#doc").innerHTML = md(text);
     const hs = [...document.querySelectorAll("#doc h2")];
     const words = text.replace(/[#>*|\-\[\]()]/g, " ").split(/\s+/).filter(Boolean).length;
@@ -398,7 +406,7 @@
         list.map(s => {
           const x = st.sources[s.id];
           const status = s.feed === null ? `<span class="status-link">link only</span>` : !x ? `<span class="faint">pending</span>` :
-            x.status === "ok" ? `<span class="status-ok">● ${x.count} recent</span>${x.feed ? ` <a class="faint" href="${esc(x.feed)}">feed</a>` : ""}` : `<span class="status-error" title="${esc(x.error || "")}">● not reachable</span>`;
+            x.status === "ok" ? `<span class="status-ok">● ${x.count} recent${x.method === "scraped" ? " (page scrape)" : ""}</span>${x.feed ? ` <a class="faint" href="${esc(x.feed)}">feed</a>` : ""}` : `<span class="status-error" title="${esc(x.error || "")}">● not reachable</span>`;
           return `<tr><td><a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.name)}</a></td><td>${esc(s.region)}</td><td>${esc(s.type)}</td><td>${status}</td></tr>`;
         }).join("") + `</tbody></table></div>`;
     }).join("");
@@ -411,6 +419,6 @@
   if (run) run().catch(e => {
     console.error(e);
     const main = document.querySelector("main");
-    main?.insertAdjacentHTML("afterbegin", `<div class="wrap"><p class="notice">Could not load data (${esc(e.message)}). If you opened this file directly, serve the folder instead: <code>python -m http.server</code>.</p></div>`);
+    main?.insertAdjacentHTML("afterbegin", `<div class="wrap"><p class="notice">Could not load data (${esc(e.message)}). If you opened this file directly, make sure <code>data/bundle.js</code> exists (run <code>python scripts/build_bundle.py</code>), or serve the folder with <code>python -m http.server</code>.</p></div>`);
   });
 })();

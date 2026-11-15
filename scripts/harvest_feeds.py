@@ -9,6 +9,9 @@ Standard library only, so it runs anywhere (GitHub Actions, a laptop, a cron box
 - YouTube handles (@name) are resolved to a channel id and read from
   https://www.youtube.com/feeds/videos.xml?channel_id=...
 - Bluesky handles are read from https://bsky.app/profile/<handle>/rss
+- If there is no working feed, the listing page is scraped: article links are
+  collected (optionally filtered by "link_pattern") and each article page is read
+  for its title, description and publication date (meta tags, <time>, URL or text).
 - Per-source status (ok / error message, item count, resolved feed URL) is
   written to data/feed_status.json so the Sources page can show what works.
 
@@ -146,6 +149,116 @@ def youtube_feed(handle):
     return f"https://www.youtube.com/feeds/videos.xml?channel_id={m.group(1)}"
 
 
+
+# ---------- page scraping for sites without RSS ----------
+SKIP_PATH = re.compile(r"/(tag|tags|category|categories|page|author|authors|about|contact|search|login|subscribe|"
+                       r"privacy|terms|careers|jobs|donate|events?-calendar|cdn-cgi|wp-content|feed)(/|$)|\.(pdf|jpe?g|png|gif|svg|zip)$", re.I)
+DATE_META = [
+    r'<meta[^>]+(?:property|name|itemprop)=["\'](?:article:published_time|og:published_time|datePublished|date|dc\.date|publish[-_]?date|pubdate)["\'][^>]+content=["\']([^"\']+)',
+    r'<meta[^>]+content=["\']([^"\']+)["\'][^>]+(?:property|name|itemprop)=["\'](?:article:published_time|datePublished|date|pubdate)["\']',
+    r'"datePublished"\s*:\s*"([^"]+)"',
+    r'<time[^>]+datetime=["\']([^"\']+)',
+]
+MONTHS_RE = r"(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Sept|Oct|Nov|Dec)[a-z]*\.?"
+TEXT_DATE = [
+    re.compile(MONTHS_RE + r"\s+(\d{1,2}),?\s+(20\d\d)", re.I),
+    re.compile(r"(\d{1,2})\s+" + MONTHS_RE + r",?\s+(20\d\d)", re.I),
+]
+MON = {m: i + 1 for i, m in enumerate(["jan", "feb", "mar", "apr", "may", "jun", "jul", "aug", "sep", "oct", "nov", "dec"])}
+
+
+def meta(doc, *names):
+    for n in names:
+        m = re.search(r'<meta[^>]+(?:property|name)=["\']' + n + r'["\'][^>]+content=["\']([^"\']*)', doc, re.I) or \
+            re.search(r'<meta[^>]+content=["\']([^"\']*)["\'][^>]+(?:property|name)=["\']' + n + r'["\']', doc, re.I)
+        if m and m.group(1).strip():
+            return html.unescape(m.group(1).strip())
+    return ""
+
+
+def find_date(doc, url):
+    for rx in DATE_META:
+        m = re.search(rx, doc, re.I)
+        if m:
+            d = parse_date(m.group(1))
+            if d:
+                return d
+    m = re.search(r"/(20\d\d)[/-](\d{1,2})(?:[/-](\d{1,2}))?/", url)
+    if m:
+        return dt.datetime(int(m.group(1)), int(m.group(2)), int(m.group(3) or 1), tzinfo=dt.timezone.utc)
+    body = strip_html(doc, 20000)
+    for rx in TEXT_DATE:
+        m = rx.search(body)
+        if m:
+            g = m.groups()
+            try:
+                if g[0][:3].lower() in MON:
+                    return dt.datetime(int(g[2]), MON[g[0][:3].lower()], int(g[1]), tzinfo=dt.timezone.utc)
+                return dt.datetime(int(g[2]), MON[g[1][:3].lower()], int(g[0]), tzinfo=dt.timezone.utc)
+            except ValueError:
+                pass
+    return None
+
+
+def listing_links(src):
+    page = src.get("scrape_url") or src["url"]
+    raw, final, _ = fetch(page)
+    doc = raw.decode("utf-8", "ignore")
+    host = urllib.parse.urlparse(final).netloc
+    base = urllib.parse.urlparse(final).path.rstrip("/")
+    pat = re.compile(src["link_pattern"]) if src.get("link_pattern") else None
+    seen, out = set(), []
+    for m in re.finditer(r'<a\b[^>]*href=["\']([^"\'#]+)["\'][^>]*>(.*?)</a>', doc, re.I | re.S):
+        href = urllib.parse.urljoin(final, html.unescape(m.group(1))).split("#")[0]
+        u = urllib.parse.urlparse(href)
+        if u.scheme not in ("http", "https") or u.netloc != host or href.rstrip("/") == final.rstrip("/"):
+            continue
+        if pat:
+            if not pat.search(href):
+                continue
+        else:
+            path = u.path.rstrip("/")
+            if SKIP_PATH.search(path) or u.query:
+                continue
+            depth = len([x for x in path.split("/") if x])
+            if base and not path.startswith(base + "/"):
+                continue
+            if depth < 2 and not re.search(r"20\d\d", path) and len(path) < 25:
+                continue
+        text = strip_html(m.group(2), 220)
+        if href in seen:
+            continue
+        seen.add(href)
+        out.append((href, text))
+    # Prefer links whose anchor text looks like a headline.
+    out.sort(key=lambda x: -min(len(x[1]), 80))
+    return [x for x in out if len(x[1]) >= 20][: src.get("scrape_max", 10)] or out[: src.get("scrape_max", 10)]
+
+
+def scrape_source(src, since, max_items):
+    links = listing_links(src)
+    if not links:
+        raise ValueError("scrape: no article links found on listing page")
+
+    def one(link):
+        url, text = link
+        try:
+            raw, final, ctype = fetch(url)
+            doc = raw.decode("utf-8", "ignore")
+        except Exception:
+            return None
+        title = meta(doc, "og:title", "twitter:title") or text
+        m = re.search(r"<title[^>]*>(.*?)</title>", doc, re.I | re.S)
+        if not title and m:
+            title = strip_html(m.group(1), 200)
+        summary = meta(doc, "og:description", "description", "twitter:description")
+        return {"title": strip_html(title, 200), "link": final, "date": find_date(doc, final), "summary": strip_html(summary)}
+
+    with ThreadPoolExecutor(max_workers=4) as ex:
+        items = [x for x in ex.map(one, links) if x and x["title"]]
+    return items
+
+
 def candidates(src):
     if src.get("youtube"):
         yield youtube_feed(src["youtube"])
@@ -155,10 +268,22 @@ def candidates(src):
         return
     if src.get("feed"):
         yield src["feed"]
-    if src.get("url"):
-        d = discover(src["url"])
+    if src.get("url") and not src.get("scrape_only"):
+        try:
+            d = discover(src["url"])
+        except Exception:
+            d = None
         if d:
             yield d
+
+
+def to_item(src, it):
+    return {
+        "source": src["id"], "source_name": src["name"], "category": src.get("category", ""),
+        "region": src.get("region", ""), "type": src.get("type", "blog"),
+        "title": strip_html(it["title"], 200), "url": it["link"],
+        "date": it["date"].isoformat() if it["date"] else None, "summary": it["summary"],
+    }
 
 
 def harvest_one(src, since, max_items):
@@ -173,27 +298,22 @@ def harvest_one(src, since, max_items):
             except Exception as e:  # try next candidate
                 errors.append(f"{url}: {e}")
                 continue
-            out = []
-            for it in items:
-                if not it["title"] or not it["link"]:
-                    continue
-                if it["date"] and it["date"] < since:
-                    continue
-                out.append({
-                    "source": src["id"],
-                    "source_name": src["name"],
-                    "category": src.get("category", ""),
-                    "region": src.get("region", ""),
-                    "type": src.get("type", "blog"),
-                    "title": strip_html(it["title"], 200),
-                    "url": it["link"],
-                    "date": it["date"].isoformat() if it["date"] else None,
-                    "summary": it["summary"],
-                })
+            out = [to_item(src, it) for it in items
+                   if it["title"] and it["link"] and not (it["date"] and it["date"] < since)]
             out.sort(key=lambda x: x["date"] or "", reverse=True)
-            return src["id"], out[:max_items], {"status": "ok", "feed": url, "count": len(out[:max_items])}
+            return src["id"], out[:max_items], {"status": "ok", "method": "feed", "feed": url, "count": len(out[:max_items])}
     except Exception as e:
         errors.append(str(e))
+    if not src.get("youtube") and not src.get("bluesky") and src.get("scrape", True):
+        try:
+            items = scrape_source(src, since, max_items)
+            out = [to_item(src, it) for it in items if not (it["date"] and it["date"] < since)]
+            out.sort(key=lambda x: x["date"] or "", reverse=True)
+            return src["id"], out[:max_items], {"status": "ok", "method": "scraped",
+                                                "feed": src.get("scrape_url") or src["url"], "count": len(out[:max_items]),
+                                                "undated": sum(1 for x in out[:max_items] if not x["date"])}
+        except Exception as e:
+            errors.append(f"scrape: {e}")
     return src["id"], [], {"status": "error", "feed": src.get("feed") or None, "count": 0,
                             "error": "; ".join(errors)[:400] or "no feed found"}
 
