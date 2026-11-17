@@ -1,6 +1,589 @@
 {
- "generated": "2026-11-16T20:31:03+00:00",
+ "generated": "2026-11-17T19:12:50+00:00",
  "items": [
+  {
+   "source": "nunatsiaq",
+   "source_name": "Nunatsiaq News",
+   "category": "indigenous",
+   "region": "Canada",
+   "type": "news",
+   "title": "Inuksuk Drum Dancers perform at Aqqusariaq open house",
+   "url": "https://nunatsiaq.com/stories/article/inuksuk-drum-dancers-perform-at-aqqusariaq-open-house/",
+   "date": "2026-11-17T18:30:16+00:00",
+   "summary": ""
+  },
+  {
+   "source": "sri",
+   "source_name": "Schwartz Reisman Institute (U of T)",
+   "category": "institute",
+   "region": "Canada",
+   "type": "blog",
+   "title": "The Human Variable explores psychology for the AI age",
+   "url": "https://srinstitute.utoronto.ca/news/the-human-variable-psychology-for-the-ai-age",
+   "date": "2026-11-17T18:20:03+00:00",
+   "summary": "Convened by SRI Research Lead Michael Inzlicht, The Human Variable brought psychologists, philosophers, and computer scientists together to ask what the human mind can tell us about AI—and what AI can tell us about the human mind."
+  },
+  {
+   "source": "betakit",
+   "source_name": "BetaKit",
+   "category": "policy",
+   "region": "Canada",
+   "type": "news",
+   "title": "Physical AI company Promise Robotics announces $40-million Series B round",
+   "url": "https://betakit.com/physical-ai-company-promise-robotics-announces-40-million-series-b-round/",
+   "date": "2026-11-17T17:24:26+00:00",
+   "summary": "Toronto-based robotics company has factories in Calgary and near Edmonton. The post Physical AI company Promise Robotics announces $40-million Series B round first appeared on BetaKit ."
+  },
+  {
+   "source": "nunatsiaq",
+   "source_name": "Nunatsiaq News",
+   "category": "indigenous",
+   "region": "Canada",
+   "type": "news",
+   "title": "RCMP conducts ‘largest drug seizure destined for Nunavut’",
+   "url": "https://nunatsiaq.com/stories/article/rcmp-conducts-largest-drug-seizure-destined-for-nunavut/",
+   "date": "2026-11-17T17:24:03+00:00",
+   "summary": "In what the RCMP calls “the largest drug seizure destined for Nunavut,” police seized five kilograms of cocaine in southern Canada in August, a news release issued Tuesday says."
+  },
+  {
+   "source": "nunatsiaq",
+   "source_name": "Nunatsiaq News",
+   "category": "indigenous",
+   "region": "Canada",
+   "type": "news",
+   "title": "Two children killed in sliding tragedy in Kimmirut",
+   "url": "https://nunatsiaq.com/stories/article/two-children-killed-in-sliding-tragedy-in-kimmirut/",
+   "date": "2026-11-17T17:13:35+00:00",
+   "summary": "Kimmirut is in mourning after two young sisters were killed while sliding Sunday afternoon."
+  },
+  {
+   "source": "betakit",
+   "source_name": "BetaKit",
+   "category": "policy",
+   "region": "Canada",
+   "type": "news",
+   "title": "How Québec Tech companies are turning breakthrough technologies into global growth",
+   "url": "https://betakit.com/how-quebec-tech-companies-are-turning-breakthrough-technologies-into-global-growth/",
+   "date": "2026-11-17T17:00:00+00:00",
+   "summary": "Three Stage V companies share lessons from growing abroad and how Québec Tech can help them take the next steps. The post How Québec Tech companies are turning breakthrough technologies into global growth first appeared on BetaKit ."
+  },
+  {
+   "source": "hyperallergic",
+   "source_name": "Hyperallergic",
+   "category": "creative",
+   "region": "International",
+   "type": "news",
+   "title": "RIP to the National Historic Preservation Act",
+   "url": "https://hyperallergic.com/rip-to-the-national-historic-preservation-act/",
+   "date": "2026-11-17T16:44:12+00:00",
+   "summary": "The Act survived Republican and Democratic administrations, recessions, and wars, but its health declined precipitously this year after a devastating bout of congressional malpractice. There’s still time to save it."
+  },
+  {
+   "source": "conversation-ca-ai",
+   "source_name": "The Conversation Canada – AI",
+   "category": "policy",
+   "region": "Canada",
+   "type": "news",
+   "title": "What AI regulation could learn from the most hazardous industries in the world",
+   "url": "https://theconversation.com/what-ai-regulation-could-learn-from-the-most-hazardous-industries-in-the-world-295475",
+   "date": "2026-11-17T16:25:49+00:00",
+   "summary": "Drawing lessons from other industries could help reinforce the safety of AI systems."
+  },
+  {
+   "source": "hyperallergic",
+   "source_name": "Hyperallergic",
+   "category": "creative",
+   "region": "International",
+   "type": "news",
+   "title": "Who Gets Remembered in Art History? New Free Online Course Explores Women Who Shaped Indonesian Art",
+   "url": "https://hyperallergic.com/who-gets-remembered-in-art-history-new-free-online-course-explores-women-who-shaped-indonesian-art/",
+   "date": "2026-11-17T16:15:00+00:00",
+   "summary": "Co-developed by National Gallery Singapore and independent curator Alia Swastika, the course foregrounds women’s contributions to Indonesian art."
+  },
+  {
+   "source": "nunatsiaq",
+   "source_name": "Nunatsiaq News",
+   "category": "indigenous",
+   "region": "Canada",
+   "type": "news",
+   "title": "GN, University of Ottawa partner to train doctors in Iqaluit",
+   "url": "https://nunatsiaq.com/stories/article/gn-university-of-ottawa-partner-to-train-doctors-in-iqaluit/",
+   "date": "2026-11-17T16:07:07+00:00",
+   "summary": "The Government of Nunavut is partnering with the University of Ottawa to train family medicine residents in Iqaluit, in an effort to improve access to primary care and encourage more doctors to practise in the territory."
+  },
+  {
+   "source": "csp",
+   "source_name": "Canadian Science Policy Centre",
+   "category": "policy",
+   "region": "Canada",
+   "type": "blog",
+   "title": "Editorial from the President",
+   "url": "https://sciencepolicy.ca/posts/editorial-from-the-president-2/",
+   "date": "2026-11-17T15:27:55+00:00",
+   "summary": "Sovereignty has traditionally been understood in terms of territory, borders, and the authority of the state. Those dimensions remain fundamental, but they are no longer sufficient. In a world shaped by technological competition, economic pressure, and rapidly changing alliances and complicated, interconnected and yet…"
+  },
+  {
+   "source": "betakit",
+   "source_name": "BetaKit",
+   "category": "policy",
+   "region": "Canada",
+   "type": "news",
+   "title": "Why Glowtify made an unlikely bet on industrial manufacturing",
+   "url": "https://betakit.com/why-glowtify-made-an-unlikely-bet-on-industrial-manufacturing/",
+   "date": "2026-11-17T15:00:00+00:00",
+   "summary": "Some of North America's most sophisticated manufacturers have a surprisingly simple problem: getting noticed. The post Why Glowtify made an unlikely bet on industrial manufacturing first appeared on BetaKit ."
+  },
+  {
+   "source": "betakit",
+   "source_name": "BetaKit",
+   "category": "policy",
+   "region": "Canada",
+   "type": "news",
+   "title": "How Canada gets to space on its own terms",
+   "url": "https://betakit.com/how-canada-gets-to-space-on-its-own-terms/",
+   "date": "2026-11-17T14:56:39+00:00",
+   "summary": "NordSpace & Canada Rocket Company CEOs explain how a Falcon 9 ride-share pullback could catalyze our nation's sovereign space goals. The post How Canada gets to space on its own terms first appeared on BetaKit ."
+  },
+  {
+   "source": "conversation-ca-ai",
+   "source_name": "The Conversation Canada – AI",
+   "category": "policy",
+   "region": "Canada",
+   "type": "news",
+   "title": "Smarter healthcare, unequal outcomes? The risks of AI in southern Africa",
+   "url": "https://theconversation.com/smarter-healthcare-unequal-outcomes-the-risks-of-ai-in-southern-africa-295757",
+   "date": "2026-11-17T14:48:54+00:00",
+   "summary": "What appears to be an objective assessment of health need may instead reflect who can reach clinics, and which facilities have functioning digital infrastructure."
+  },
+  {
+   "source": "nunatsiaq",
+   "source_name": "Nunatsiaq News",
+   "category": "indigenous",
+   "region": "Canada",
+   "type": "news",
+   "title": "Nunavut coroner schedules inquest into Rankin Inlet man’s death",
+   "url": "https://nunatsiaq.com/stories/article/nunavut-coroner-schedules-inquest-into-rankin-inlet-mans-death/",
+   "date": "2026-11-17T14:30:11+00:00",
+   "summary": "Nunavut’s chief coroner has scheduled an inquest into the death of a 21-year-old Rankin Inlet man who was shot and killed by police five years ago. The inquest is set for Nov."
+  },
+  {
+   "source": "conversation-ca-ai",
+   "source_name": "The Conversation Canada – AI",
+   "category": "policy",
+   "region": "Canada",
+   "type": "news",
+   "title": "‘Strict liability’: The legal standard that could help rein in AI",
+   "url": "https://theconversation.com/strict-liability-the-legal-standard-that-could-help-rein-in-ai-295390",
+   "date": "2026-11-17T13:41:07+00:00",
+   "summary": "Making AI accountable for “strict liability” in court would shift risk from the public to the companies seeking fortunes."
+  },
+  {
+   "source": "nunatsiaq",
+   "source_name": "Nunatsiaq News",
+   "category": "indigenous",
+   "region": "Canada",
+   "type": "news",
+   "title": "NTI vice-president candidates share ambitions",
+   "url": "https://nunatsiaq.com/stories/article/nti-vice-president-candidates-share-ambitions/",
+   "date": "2026-11-17T13:30:55+00:00",
+   "summary": "This story was updated on Tuesday, November 17, 2026, at 1:26 p.m. ET. Nunatsiaq News reached out to each of the four candidates running to become one of two vice-presidents at Nunavut Tunngavik Inc. in its Dec. 14 election."
+  },
+  {
+   "source": "betakit",
+   "source_name": "BetaKit",
+   "category": "policy",
+   "region": "Canada",
+   "type": "news",
+   "title": "Canada’s real-time rail payment system has arrived. Here’s why most consumers will have to wait to use it",
+   "url": "https://betakit.com/canadas-real-time-rail-payment-system-has-arrived-heres-why-heres-why-most-consumers-will-have-to-wait-to-use-it/",
+   "date": "2026-11-17T12:00:00+00:00",
+   "summary": "Eight payment participants are on board, but not all have products ready for the system. The post Canada’s real-time rail payment system has arrived. Here’s why most consumers will have to wait to use it first appeared on BetaKit ."
+  },
+  {
+   "source": "aihub",
+   "source_name": "AIhub",
+   "category": "institute",
+   "region": "International",
+   "type": "blog",
+   "title": "Controllable AI and the power of local knowledge: an interview with Carmen Amo Alonso",
+   "url": "https://aihub.org/2026/11/17/controllable-ai-and-the-power-of-local-knowledge-an-interview-with-carmen-amo-alonso/",
+   "date": "2026-11-17T11:00:47+00:00",
+   "summary": "We spoke with Carmen Amo Alonso, incoming Assistant Professor at UC Berkeley, about how ideas from control theory can help make AI systems safer and more reliable. We discussed the diffusion of information in networks, the risks of AI, as exemplified by the Hugging Face hack, and end with some sage advice for early ca…"
+  },
+  {
+   "source": "hyperallergic",
+   "source_name": "Hyperallergic",
+   "category": "creative",
+   "region": "International",
+   "type": "news",
+   "title": "Latinx Art’s New Visionaries",
+   "url": "https://hyperallergic.com/latinx-arts-new-visionaries/",
+   "date": "2026-11-17T11:00:00+00:00",
+   "summary": "Arlene Dávila on the rallying cry of contemporary Latinx artists, Stephanie Wambugu on Mary Lovelace O’Neal, and Martin Puryear’s quiet revolution."
+  },
+  {
+   "source": "betakit",
+   "source_name": "BetaKit",
+   "category": "policy",
+   "region": "Canada",
+   "type": "news",
+   "title": "Heylist closes $3.1 million to fuel the niche creator economy",
+   "url": "https://betakit.com/heylist-closes-3-1-million-to-fuel-the-niche-creator-economy/",
+   "date": "2026-11-17T11:00:00+00:00",
+   "summary": "Montréal startup connects brands like L’Oréal and KitchenAid with nano-influencers. The post Heylist closes $3.1 million to fuel the niche creator economy first appeared on BetaKit ."
+  },
+  {
+   "source": "geist",
+   "source_name": "Michael Geist (law & tech policy)",
+   "category": "policy",
+   "region": "Canada",
+   "type": "blog",
+   "title": "What Happened to Competition? Why Sovereignty Is the Wrong Answer to Quebecor’s Bid for Telus",
+   "url": "https://www.michaelgeist.ca/2026/11/what-happened-to-competition-why-sovereignty-is-the-wrong-answer-to-quebecors-bid-for-telus/?utm_source=rss&utm_medium=rss&utm_campaign=what-happened-to-competition-why-sovereignty-is-the-wrong-answer-to-quebecors-bid-for-telus",
+   "date": "2026-11-17T05:05:40+00:00",
+   "summary": "Rogers v. Rogers , the exceptional one-person play, recently ran in Ottawa, giving attendees a chance to relive the battle over control of Rogers and competition law’s role in Canada. Prioritizing wireless competition seemed like an obvious policy position at the time, but it appears to have been short-lived. This wee…"
+  },
+  {
+   "source": "academica",
+   "source_name": "Academica Top Ten",
+   "category": "policy",
+   "region": "Canada",
+   "type": "news",
+   "title": "U of T to host ON’s first Fusion Energy Research Chair",
+   "url": "https://academica.ca/top-ten/u-of-t-to-host-ons-first-fusion-energy-research-chair/",
+   "date": "2026-11-17T05:00:00+00:00",
+   "summary": "The University of Toronto has been selected to host Ontario’s first Fusion Energy Research Chair. The Centre for Fusion Energy Research Chair will focus on plasma physics for fusion energy. The chair is supported by a $5M joint investment by the federal and provincial governments. It will support industry partnerships…"
+  },
+  {
+   "source": "academica",
+   "source_name": "Academica Top Ten",
+   "category": "policy",
+   "region": "Canada",
+   "type": "news",
+   "title": "NWT switch to BC school curriculum causes challenges for students applying to postsecondary",
+   "url": "https://academica.ca/top-ten/nwt-switch-to-bc-school-curriculum-causes-challenges-for-students-applying-to-postsecondary/",
+   "date": "2026-11-17T05:00:00+00:00",
+   "summary": "The Government of the Northwest Territories’ switch to British Columbia’s school curriculum is reportedly causing challenges for high school students who are applying to universities. NWT began transitioning from the Alberta curriculum to the BC curriculum in 2023, so this is the first year that students are applying …"
+  },
+  {
+   "source": "academica",
+   "source_name": "Academica Top Ten",
+   "category": "policy",
+   "region": "Canada",
+   "type": "news",
+   "title": "Cégeps announce renovation projects",
+   "url": "https://academica.ca/top-ten/cegeps-announce-renovation-projects/",
+   "date": "2026-11-17T05:00:00+00:00",
+   "summary": "Two cégeps have announced major renovation projects. Cégep de Rimouski will be undertaking an $11M renovation of its pink tower, which will include improvements to the rooms and common areas, new insulation and windows, and a new ventilation system. Work will begin in January, and the interior work is expected to be c…"
+  },
+  {
+   "source": "academica",
+   "source_name": "Academica Top Ten",
+   "category": "policy",
+   "region": "Canada",
+   "type": "news",
+   "title": "Niagara joins military-connected learner consortium",
+   "url": "https://academica.ca/top-ten/niagara-joins-military-connected-learner-consortium/",
+   "date": "2026-11-17T05:00:00+00:00",
+   "summary": "Niagara College has announced that it has joined the Canadian Military, Veteran and Family Connected Campus Consortium (CMVF3C). As a member, Niagara will support military-connected learners through the application process in areas that include institutional system navigation, campus support access, and recognition of…"
+  },
+  {
+   "source": "academica",
+   "source_name": "Academica Top Ten",
+   "category": "policy",
+   "region": "Canada",
+   "type": "news",
+   "title": "Extending French-language laws to the cégep system would benefit culture, media: Opinion",
+   "url": "https://academica.ca/top-ten/extending-french-language-laws-to-the-cegep-system-would-benefit-culture-media-opinion/",
+   "date": "2026-11-17T05:00:00+00:00",
+   "summary": "In a recent article for Le Devoir, Marie-Lou Bouchard (Cégep de Rosemont), Georges-Rémy Fortin (Collège de Bois-de-Boulogne), and Aïcha Van Dun (Cégep de L’Assomption) argue in favour of extending Québec’s Bill 101 to cégeps. They assert that doing this would help youth to connect with Francophone ideas and thinkers, …"
+  },
+  {
+   "source": "academica",
+   "source_name": "Academica Top Ten",
+   "category": "policy",
+   "region": "Canada",
+   "type": "news",
+   "title": "UWinnipeg denies liability in sexual assault case",
+   "url": "https://academica.ca/top-ten/uwinnipeg-denies-liability-in-sexual-assault-case/",
+   "date": "2026-11-17T05:00:00+00:00",
+   "summary": "The University of Winnipeg has filed a statement of defence and crossclaim in the Court of King’s Bench in response to a lawsuit related to a reported 2019 sexual assault by a former assistant professor. The lawsuit alleges that the university did not have proper oversight over the perpetrator, and that the university…"
+  },
+  {
+   "source": "academica",
+   "source_name": "Academica Top Ten",
+   "category": "policy",
+   "region": "Canada",
+   "type": "news",
+   "title": "Implementing universal design for learning in the classroom: Opinion",
+   "url": "https://academica.ca/top-ten/implementing-universal-design-for-learning-in-the-classroom-opinion/",
+   "date": "2026-11-17T05:00:00+00:00",
+   "summary": "In a recent article for Times Higher Ed, Helen Black (Western Sydney University) explains how educators can implement universal design for learning. Black recommends reorganizing content into structured modules that are aligned with learning outcomes, using shorter lectures that are also available as captioned videos …"
+  },
+  {
+   "source": "academica",
+   "source_name": "Academica Top Ten",
+   "category": "policy",
+   "region": "Canada",
+   "type": "news",
+   "title": "Royal Roads, Zhejiang International Studies University establish joint institute",
+   "url": "https://academica.ca/top-ten/royal-roads-zhejiang-international-studies-university-establish-joint-institute/",
+   "date": "2026-11-17T05:00:00+00:00",
+   "summary": "Royal Roads University has partnered with Zhejiang International Studies University in China to establish a joint institute. Through this joint institute, students can complete a four-year dual undergraduate degree while studying in China. The partnership will enable students to attain a four-year dual degree—includin…"
+  },
+  {
+   "source": "academica",
+   "source_name": "Academica Top Ten",
+   "category": "policy",
+   "region": "Canada",
+   "type": "news",
+   "title": "Trent celebrates expansion of International Institute for Environmental Studies",
+   "url": "https://academica.ca/top-ten/trent-celebrates-expansion-of-international-institute-for-environmental-studies/",
+   "date": "2026-11-17T05:00:00+00:00",
+   "summary": "Trent University has announced that the University of Reims Champagne-Ardenne (URCA) has joined the International Institute for Environmental Studies, a global research network that is headquartered at Trent. As a member, URCA will contribute its distinct expertise, perspectives, and experience to the network. “Establ…"
+  },
+  {
+   "source": "academica",
+   "source_name": "Academica Top Ten",
+   "category": "policy",
+   "region": "Canada",
+   "type": "news",
+   "title": "Olds horses in quarantine awaiting test results",
+   "url": "https://academica.ca/top-ten/olds-horses-in-quarantine-awaiting-test-results/",
+   "date": "2026-11-17T05:00:00+00:00",
+   "summary": "Horses at Olds College of Agriculture & Technology were put in quarantine last week due to a potential “highly contagious but not life-threatening” animal health issue. The college said that effective November 11, no horses would be permitted to enter or leave campus until further notice. CTV News reports that the mea…"
+  },
+  {
+   "source": "enc",
+   "source_name": "Education News Canada",
+   "category": "policy",
+   "region": "Canada",
+   "type": "news",
+   "title": "Montreal - Students reeling from police violence at Nov. 13 education austerity protest",
+   "url": "https://educationnewscanada.com/article/education/level/university/1/1228860/students-reeling-from-police-violence-at-nov-13-education-austerity-protest.html",
+   "date": "2026-11-17T00:00:00+00:00",
+   "summary": "Montreal - Students reeling from police violence at Nov. 13 education austerity protest"
+  },
+  {
+   "source": "enc",
+   "source_name": "Education News Canada",
+   "category": "policy",
+   "region": "Canada",
+   "type": "news",
+   "title": "University of Ottawa - University of Ottawa reaches tentative deal with striking part-time professors",
+   "url": "https://educationnewscanada.com/article/education/level/university/1/1228905/university-of-ottawa-reaches-tentative-deal-with-striking-part-time-professors.html",
+   "date": "2026-11-17T00:00:00+00:00",
+   "summary": "University of Ottawa - University of Ottawa reaches tentative deal with striking part-time professors"
+  },
+  {
+   "source": "enc",
+   "source_name": "Education News Canada",
+   "category": "policy",
+   "region": "Canada",
+   "type": "news",
+   "title": "University of Niagara Falls Canada - UNF named Diamond winner in two categories for Niagara Falls Review Readers",
+   "url": "https://educationnewscanada.com/article/education/level/university/1/1228833/unf-named-diamond-winner-in-two-categories-for-niagara-falls-review-readers-choice-awards.html",
+   "date": "2026-11-17T00:00:00+00:00",
+   "summary": "UNF wins Best Adult Education and Best Learning Centre in the Niagara Falls Review Readers' Choice AwardsUniversity of Niagara Falls Canada (UNF) has won two Diamond categories in the Niag. . ."
+  },
+  {
+   "source": "enc",
+   "source_name": "Education News Canada",
+   "category": "policy",
+   "region": "Canada",
+   "type": "news",
+   "title": "McGill University - Aaliyah Lahai MPP",
+   "url": "https://educationnewscanada.com/article/education/level/university/1/1228651/aaliyah-lahai-mpp-26-takes-second-place-at-aquahacking-challenge-finale.html",
+   "date": "2026-11-17T00:00:00+00:00",
+   "summary": "Alumni Aaliyah Lahai MPP '26 recently competed in the Great Lakes and St. Lawrence Binational AquaHacking Challenge Finale in Detroit on November 5.Her team, Limnetic Optical Solutions, took s. . ."
+  },
+  {
+   "source": "enc",
+   "source_name": "Education News Canada",
+   "category": "policy",
+   "region": "Canada",
+   "type": "news",
+   "title": "Memorial University - Fellow of the Royal Society of Canada advancing food sciences and nutrition research",
+   "url": "https://educationnewscanada.com/article/education/level/university/1/1228652/fellow-of-the-royal-society-of-canada-advancing-food-sciences-and-nutrition-research.html",
+   "date": "2026-11-17T00:00:00+00:00",
+   "summary": "Those are words Dr. Fereidoon Shahidi lives by - and a belief that's helped shape his research, pushing the boundaries of scientific knowledge.The University Research Professor in the Departme. . ."
+  },
+  {
+   "source": "enc",
+   "source_name": "Education News Canada",
+   "category": "policy",
+   "region": "Canada",
+   "type": "news",
+   "title": "Cape Breton University - CBU Hosts Inaugural Atlantic Accounting Symposium, Bringing Students and Industry Professionals Together",
+   "url": "https://educationnewscanada.com/article/education/level/university/1/1228649/cbu-hosts-inaugural-atlantic-accounting-symposium-bringing-students-and-industry-professionals-together.html",
+   "date": "2026-11-17T00:00:00+00:00",
+   "summary": "Cape Breton University welcomed students, faculty and industry professionals to campus on November 5, 2026, for the inaugural Atlantic Accounting Symposium, bringing together future accounting profess. . ."
+  },
+  {
+   "source": "enc",
+   "source_name": "Education News Canada",
+   "category": "policy",
+   "region": "Canada",
+   "type": "news",
+   "title": "Dawson College - Dawson celebrates CEGEP teachers",
+   "url": "https://educationnewscanada.com/article/education/level/colleges/2/1228787/dawson-celebrates-cegep-teachers-achievements-in-performa-master-teacher-program.html",
+   "date": "2026-11-17T00:00:00+00:00",
+   "summary": "Dawson College hosted a special celebration on behalf of Quebec's English-language colleges on the evening of Oct. 22, honouring CEGEP teachers and staff from 12 CEGEPs who completed the Perfo. . ."
+  },
+  {
+   "source": "enc",
+   "source_name": "Education News Canada",
+   "category": "policy",
+   "region": "Canada",
+   "type": "news",
+   "title": "Saskatchewan Polytechnic - Sask Polytech and RBC bring real-world banking challenge to high school students",
+   "url": "https://educationnewscanada.com/article/education/level/colleges/2/1228673/sask-polytech-and-rbc-bring-real-world-banking-challenge-to-high-school-students.html",
+   "date": "2026-11-17T00:00:00+00:00",
+   "summary": "High school students from across Saskatchewan put their business skills to the test at Saskatchewan Polytechnic's fourth annual business case competition, working on a simulated Royal Bank of Cana. . ."
+  },
+  {
+   "source": "enc",
+   "source_name": "Education News Canada",
+   "category": "policy",
+   "region": "Canada",
+   "type": "news",
+   "title": "Algonquin College - New video testimonials highlight Algonquin College real estate education success",
+   "url": "https://educationnewscanada.com/article/education/level/colleges/2/1228848/new-video-testimonials-highlight-algonquin-college-real-estate-education-success.html",
+   "date": "2026-11-17T00:00:00+00:00",
+   "summary": "Algonquin College is highlighting the success of its Real Estate Council of Ontario (RECO)-approved Real Estate Salesperson Program (RESP) through a series of video testimonials, showcasing the impact. . ."
+  },
+  {
+   "source": "enc",
+   "source_name": "Education News Canada",
+   "category": "policy",
+   "region": "Canada",
+   "type": "news",
+   "title": "Humber Polytechnic - TD and Humber Finance Society Teach Students Investing Basics",
+   "url": "https://educationnewscanada.com/article/education/level/colleges/2/1228426/td-and-humber-finance-society-teach-students-investing-basics.html",
+   "date": "2026-11-17T00:00:00+00:00",
+   "summary": "TD and the Humber Finance Society hosted a Lakeshore Campus session introducing students to investing basics, accounts and long-term saving.TD and the Humber Finance Society he. . ."
+  },
+  {
+   "source": "aptn",
+   "source_name": "APTN News",
+   "category": "indigenous",
+   "region": "Canada",
+   "type": "news",
+   "title": "InFocus: Is adopting permanent daylight saving time a mistake?",
+   "url": "https://www.aptnnews.ca/infocus/infocus-is-adopting-permanent-daylight-saving-time-a-mistake/",
+   "date": "2026-11-16T22:41:20+00:00",
+   "summary": "Many of us know how we feel when it’s time to change our clocks back... The post InFocus: Is adopting permanent daylight saving time a mistake? appeared first on APTN News ."
+  },
+  {
+   "source": "betakit",
+   "source_name": "BetaKit",
+   "category": "policy",
+   "region": "Canada",
+   "type": "news",
+   "title": "Shopify, Cohere leaders join call for Jensen Huang to be reinstated as Nvidia CEO",
+   "url": "https://betakit.com/shopify-cohere-leaders-join-call-for-jensen-huang-to-be-reinstated-as-nvidia-ceo/",
+   "date": "2026-11-16T22:21:30+00:00",
+   "summary": "Tobias Lütke, Aidan Gomez co-sign open letter asking for Nvidia to bring Huang back. The post Shopify, Cohere leaders join call for Jensen Huang to be reinstated as Nvidia CEO first appeared on BetaKit ."
+  },
+  {
+   "source": "hyperallergic",
+   "source_name": "Hyperallergic",
+   "category": "creative",
+   "region": "International",
+   "type": "news",
+   "title": "Why Is the Whitney Museum Selling a De Kooning Painting?",
+   "url": "https://hyperallergic.com/why-is-the-whitney-museum-selling-a-de-kooning-painting/",
+   "date": "2026-11-16T22:08:38+00:00",
+   "summary": "“Yellow River” (1958) was deaccessioned and will be auctioned at Christie's just three years after it was gifted to the museum in 2023."
+  },
+  {
+   "source": "hyperallergic",
+   "source_name": "Hyperallergic",
+   "category": "creative",
+   "region": "International",
+   "type": "news",
+   "title": "Talking Art and Data With Mona Chalabi",
+   "url": "https://hyperallergic.com/talking-art-and-data-with-mona-chalabi/",
+   "date": "2026-11-16T21:18:55+00:00",
+   "summary": "The award-winning journalist and artist talks about her first book. Plus, Carolina A. Miranda on two new Guadalupe Rosales tomes out this fall."
+  },
+  {
+   "source": "afrotech",
+   "source_name": "AfroTech",
+   "category": "black",
+   "region": "International",
+   "type": "news",
+   "title": "Connected By Design: This Is How Verizon Turned Up At AFROTECH 2026 - AfroTech",
+   "url": "https://afrotech.com/verizon-afrotech-connected-2026",
+   "date": "2026-11-16T21:16:42+00:00",
+   "summary": "Swag on the daily, mocktails on deck and a VIP Lounge where the real connections happened. Here’s how Verizon showed out at AFROTECH 2026 in Houston."
+  },
+  {
+   "source": "hyperallergic",
+   "source_name": "Hyperallergic",
+   "category": "creative",
+   "region": "International",
+   "type": "news",
+   "title": "What Mary Lovelace O'Neal Left Behind",
+   "url": "https://hyperallergic.com/what-mary-lovelace-oneal-left-behind/",
+   "date": "2026-11-16T21:11:07+00:00",
+   "summary": "\"Requiem\" is a fitting self-elegy for the painter, precisely because nothing about it feels mournful."
+  },
+  {
+   "source": "betakit",
+   "source_name": "BetaKit",
+   "category": "policy",
+   "region": "Canada",
+   "type": "news",
+   "title": "Telus pulls out of two government-backed AI data centres in Vancouver",
+   "url": "https://betakit.com/telus-pulls-out-of-two-government-backed-ai-data-centres-in-vancouver/",
+   "date": "2026-11-16T21:01:59+00:00",
+   "summary": "Projects were among first to advance under federal government’s sovereign AI data centre initiative. The post Telus pulls out of two government-backed AI data centres in Vancouver first appeared on BetaKit ."
+  },
+  {
+   "source": "hyperallergic",
+   "source_name": "Hyperallergic",
+   "category": "creative",
+   "region": "International",
+   "type": "news",
+   "title": "Latinx Artists Are the New Visionaries",
+   "url": "https://hyperallergic.com/latinx-artists-are-the-new-visionaries/",
+   "date": "2026-11-16T20:59:20+00:00",
+   "summary": "Without guarantees of commercial or institutional rewards, their work stems from a shared conviction: We have rich cultures to offer, and we will tell our stories by any means necessary."
+  },
+  {
+   "source": "hyperallergic",
+   "source_name": "Hyperallergic",
+   "category": "creative",
+   "region": "International",
+   "type": "news",
+   "title": "What Does Frida Kahlo Mean Today?",
+   "url": "https://hyperallergic.com/what-does-frida-kahlo-mean-today/",
+   "date": "2026-11-16T20:43:21+00:00",
+   "summary": "A new documentary poses this question across socio-cultural contexts, steering clear of whitewashing the artist’s personal history."
+  },
+  {
+   "source": "nunatsiaq",
+   "source_name": "Nunatsiaq News",
+   "category": "indigenous",
+   "region": "Canada",
+   "type": "news",
+   "title": "Various Molson, Coors beer brands under nationwide recall",
+   "url": "https://nunatsiaq.com/stories/article/various-molson-coors-beer-brands-under-nationwide-recall/",
+   "date": "2026-11-16T20:30:35+00:00",
+   "summary": "A national food recall for several brands of beer due to “metal contamination” does not affect products on Nunavut’s beer and wine store shelves, the Finance Department announced Friday. The recall was first announced Nov."
+  },
+  {
+   "source": "conversation-ca-ai",
+   "source_name": "The Conversation Canada – AI",
+   "category": "policy",
+   "region": "Canada",
+   "type": "news",
+   "title": "Data centres may consume far more water than developers suggest",
+   "url": "https://theconversation.com/data-centres-may-consume-far-more-water-than-developers-suggest-296245",
+   "date": "2026-11-16T20:17:01+00:00",
+   "summary": "To get a complete picture of their water use, data centres must account for both onsite water use and the water used elsewhere to generate the power they need."
+  },
   {
    "source": "hyperallergic",
    "source_name": "Hyperallergic",
@@ -33,6 +616,17 @@
    "url": "https://nunatsiaq.com/stories/article/beatrice-deer-honoured-for-album-of-inuit-legends/",
    "date": "2026-11-16T19:30:36+00:00",
    "summary": "Beatrice Deer has two more awards for her mantle. On Nov. 8, the Nunavik singer-songwriter brought home Félix awards from the Adisq Gala in Montreal for her album Inuit Legend."
+  },
+  {
+   "source": "afrotech",
+   "source_name": "AfroTech",
+   "category": "black",
+   "region": "International",
+   "type": "news",
+   "title": "This 27-Year-Old’s Doll Company Is Now Sold At A Major Retailer In Texas - AfroTech",
+   "url": "https://afrotech.com/the-melanie-dolls-now-sold-at-the-h-e-b-on-macgregor-houston",
+   "date": "2026-11-16T19:14:46+00:00",
+   "summary": "The Melanie Dolls, founded by 27-year-old Datreese Thomas to instill confidence in young girls, is now sold at a Houston H-E-B."
   },
   {
    "source": "hyperallergic",
@@ -88,17 +682,6 @@
    "url": "https://www.aptnnews.ca/reportages/en-entretien-lartiste-multidisciplinaire-de-renommee-nadia-myre/",
    "date": "2026-11-16T17:46:50+00:00",
    "summary": "Nadia Myre nous partage son parcours, sa démarche artistique et la création du centre d’art... The post En entretien : l’artiste multidisciplinaire de renommée Nadia Myre. appeared first on APTN News ."
-  },
-  {
-   "source": "afrotech",
-   "source_name": "AfroTech",
-   "category": "black",
-   "region": "International",
-   "type": "news",
-   "title": "Eastside Golf, Founded By Morehouse Alums, Opens First Flagship Store At Atlanta’s Phipps Plaza - AfroTech",
-   "url": "https://afrotech.com/eastside-golf-opens-first-flagship-store-in-atlantas-phipps-plaza",
-   "date": "2026-11-16T17:44:29+00:00",
-   "summary": "Eastside Golf, founded by Morehouse College alums, opens its first flagship store in Atlanta's Phipps Plaza."
   },
   {
    "source": "aptn",
@@ -189,6 +772,17 @@
    "summary": "In this seminar from the Alberta Machine Intelligence Institute and the Department of Computing Science, Isaac Stone, PhD student at the University of Alberta, examines the limitations of traditional approaches to computer Bridge and presents alternatives based on comprehensive strategy selection. He describes algorit…"
   },
   {
+   "source": "ainow",
+   "source_name": "AI Now Institute",
+   "category": "community",
+   "region": "International",
+   "type": "blog",
+   "title": "AI Comes for Nursing",
+   "url": "https://ainowinstitute.org/publications/ai-comes-for-nursing",
+   "date": "2026-11-16T16:50:03+00:00",
+   "summary": "SUSAN IS FICTIONAL. But the pieces of her story are not. Her day reflects a composite of the experiences of real-world nurses with new AI technologies. In this report, we examine these experiences and document how nurses have unexpectedly found themselves on the frontlines of the AI industry.  AI in healthcare is ofte…"
+  },
+  {
    "source": "nunatsiaq",
    "source_name": "Nunatsiaq News",
    "category": "indigenous",
@@ -198,17 +792,6 @@
    "url": "https://nunatsiaq.com/stories/article/new-nunavut-minister-takes-on-energy-environment-portfolios/",
    "date": "2026-11-16T16:35:35+00:00",
    "summary": "Fred Pedersen is minister of environment, energy, and minister responsible for Qulliq Energy Corp. following his selection to cabinet on Nov. 5. Nunavut Premier John Main announced the assignments in a news release Monday morning."
-  },
-  {
-   "source": "afrotech",
-   "source_name": "AfroTech",
-   "category": "black",
-   "region": "International",
-   "type": "news",
-   "title": "Good American And SKIMS Co-Founder Emma Grede Says She Has A Stake In 60 Businesses - AfroTech",
-   "url": "https://afrotech.com/good-american-and-skims-co-founder-emma-grede-says-she-has-a-stake-in-60-businesses",
-   "date": "2026-11-16T15:57:51+00:00",
-   "summary": "Businesswoman and multi-millionaire Emma Grede says she has stake in 60 businesses through her family office, Popular Culture."
   },
   {
    "source": "csp",
@@ -359,10 +942,10 @@
    "category": "policy",
    "region": "Canada",
    "type": "blog",
-   "title": "Protected: Message From the Editors",
+   "title": "Message From the Editors",
    "url": "https://sciencepolicy.ca/posts/message-from-the-editors-4/",
    "date": "2026-11-16T15:05:13+00:00",
-   "summary": "This content is password-protected. To view it, please enter the password below. Password: The post Protected: Message From the Editors appeared first on CSPC ."
+   "summary": "If 2025 was a year of change, 2026 has been a year of reckoning. Shifting alliances, trade pressures, and fast-moving technologies have pushed a question that once sat at the margins of science policy to the centre of national debate: what does it mean for Canada to have real capacity of its own, and [...] The post Me…"
   },
   {
    "source": "fsc",
@@ -486,116 +1069,6 @@
    "summary": "Plus: Real-time rail’s first phase is finally here. The post Did Canada lose its AI chip champions? first appeared on BetaKit ."
   },
   {
-   "source": "academica",
-   "source_name": "Academica Top Ten",
-   "category": "policy",
-   "region": "Canada",
-   "type": "news",
-   "title": "TMU uses $25M gift to create scholarship fund for engineering, architectural science students",
-   "url": "https://academica.ca/top-ten/tmu-uses-25m-gift-to-create-scholarship-fund-for-engineering-architectural-science-students/",
-   "date": "2026-11-16T05:00:00+00:00",
-   "summary": "Toronto Metropolitan University has announced a $25M investment to create its largest-ever scholarship fund for the Faculty of Engineering and Architectural Science. The gift was made in honour of outgoing TMU President Mohamed Lachemi to celebrate his leadership and career. Of the gift, $10M will be set aside for ent…"
-  },
-  {
-   "source": "academica",
-   "source_name": "Academica Top Ten",
-   "category": "policy",
-   "region": "Canada",
-   "type": "news",
-   "title": "UBC receives funds from ERC Synergy Grants",
-   "url": "https://academica.ca/top-ten/ubc-receives-funds-from-erc-synergy-grants/",
-   "date": "2026-11-16T05:00:00+00:00",
-   "summary": "The European Research Council recently announced its Synergy Grants for 2026, and the University of British Columbia is among the beneficiaries. The grants will provide a total of €500M to 48 research teams, 17 of which include researchers from outside of Europe. UBC is participating in a $16M international collaborat…"
-  },
-  {
-   "source": "academica",
-   "source_name": "Academica Top Ten",
-   "category": "policy",
-   "region": "Canada",
-   "type": "news",
-   "title": "INRS, USherbrooke establish international partnerships",
-   "url": "https://academica.ca/top-ten/inrs-usherbrooke-establish-international-partnerships/",
-   "date": "2026-11-16T05:00:00+00:00",
-   "summary": "Two Québec postsecondary institutions have recently signed partnerships with international universities. The Institut national de la recherche scientifique and Okayama University have signed a new framework agreement focused on joint doctoral supervision. The agreement will allow for the co-supervision of students in …"
-  },
-  {
-   "source": "academica",
-   "source_name": "Academica Top Ten",
-   "category": "policy",
-   "region": "Canada",
-   "type": "news",
-   "title": "ONCAT launches project to support PLAR for former CAF members",
-   "url": "https://academica.ca/top-ten/oncat-launches-project-to-support-plar-for-former-caf-members/",
-   "date": "2026-11-16T05:00:00+00:00",
-   "summary": "The Ontario Council on Articulation and Transfer (ONCAT) has announced an initiative that will support prior learning assessment and recognition for former Canadian Armed Forces members. The project—co-led by Algonquin College and Fanshawe College—will allow former CAF members to convert their training and experience …"
-  },
-  {
-   "source": "academica",
-   "source_name": "Academica Top Ten",
-   "category": "policy",
-   "region": "Canada",
-   "type": "news",
-   "title": "SAIT student-run restaurant undergoes full renovation",
-   "url": "https://academica.ca/top-ten/sait-student-run-restaurant-undergoes-full-renovation/",
-   "date": "2026-11-16T05:00:00+00:00",
-   "summary": "The Highwood Kitchen + Bar—a 50-year restaurant in Calgary that is run by Southern Alberta Institute of Technology students—has been fully renovated. The 230-seat renovated restaurant features a new lounge area, a marketplace with food prepared by SAIT culinary students, and a large bar that is used by SAIT’s beverage…"
-  },
-  {
-   "source": "academica",
-   "source_name": "Academica Top Ten",
-   "category": "policy",
-   "region": "Canada",
-   "type": "news",
-   "title": "St Clair receives zero recommendations, earns Mature institutional designation from CQAAP",
-   "url": "https://academica.ca/top-ten/st-clair-receives-zero-recommendations-earns-mature-institutional-designation-from-cqaap/",
-   "date": "2026-11-16T05:00:00+00:00",
-   "summary": "St Clair College has announced that it is the first college in the history of the provincial College Quality Assurance Audit Process (CQAAP) to receive zero recommendations during an external audit. The audit took place over the course of a year and saw the college assessed against six provincial quality assurance sta…"
-  },
-  {
-   "source": "academica",
-   "source_name": "Academica Top Ten",
-   "category": "policy",
-   "region": "Canada",
-   "type": "news",
-   "title": "EducationPlannerBC says application portal affected by data breach",
-   "url": "https://academica.ca/top-ten/educationplannerbc-says-application-portal-affected-by-data-breach/",
-   "date": "2026-11-16T05:00:00+00:00",
-   "summary": "EducationPlannerBC has announced that its application portal was affected by a recent data breach. On November 3, an unauthorized actor gained access to a limited amount of applicant data, including names and contact details. The organization responded immediately to contain the incident and secure its systems, includ…"
-  },
-  {
-   "source": "academica",
-   "source_name": "Academica Top Ten",
-   "category": "policy",
-   "region": "Canada",
-   "type": "news",
-   "title": "U of T rejects working group report, recommendations",
-   "url": "https://academica.ca/top-ten/u-of-t-rejects-working-group-report-recommendations/",
-   "date": "2026-11-16T05:00:00+00:00",
-   "summary": "The University of Toronto has rejected a report and recommendations developed by its Muslim, Arab, and Palestinian Discrimination Working Group. The group was commissioned in November 2024 to review the university’s programs, activities, processes, and practices and offer recommendations that would respond to experien…"
-  },
-  {
-   "source": "academica",
-   "source_name": "Academica Top Ten",
-   "category": "policy",
-   "region": "Canada",
-   "type": "news",
-   "title": "Leth Polytech, TEAM-1 Academy renew wind turbine technician training partnership",
-   "url": "https://academica.ca/top-ten/leth-polytech-team-1-academy-renew-wind-turbine-technician-training-partnership/",
-   "date": "2026-11-16T05:00:00+00:00",
-   "summary": "Lethbridge Polytechnic and TEAM-1 Academy Inc have renewed a partnership focused on wind turbine technician safety training. Through the partnership, TEAM-1 Academy trainers provide safety, rescue, and technical training and certifications to Leth Polytech students and instructors. Leth Polytech’s Wind Turbine Shop wi…"
-  },
-  {
-   "source": "academica",
-   "source_name": "Academica Top Ten",
-   "category": "policy",
-   "region": "Canada",
-   "type": "news",
-   "title": "UQAM to offer graduate diploma in sign language interpreting",
-   "url": "https://academica.ca/top-ten/uqam-to-offer-graduate-diploma-in-sign-language-interpreting/",
-   "date": "2026-11-16T05:00:00+00:00",
-   "summary": "Université du Québec à Montréal will be offering a new graduate diploma in sign language interpreting. The DESS en interprétation français-langue des signes Québécoise is a fully online program that will provide students with graduate-level training in sign language interpreting. It will help interpreters refine their…"
-  },
-  {
    "source": "conversation-ca-ai",
    "source_name": "The Conversation Canada – AI",
    "category": "policy",
@@ -605,116 +1078,6 @@
    "url": "https://theconversation.com/anthropics-trillion-dollar-ipo-is-open-to-australians-theres-a-catch-for-small-investors-296603",
    "date": "2026-11-16T03:24:46+00:00",
    "summary": "As decades of US data show, getting a slice doesn’t guarantee getting a good deal. Here’s who usually profits from tech IPOs – and who misses out."
-  },
-  {
-   "source": "enc",
-   "source_name": "Education News Canada",
-   "category": "policy",
-   "region": "Canada",
-   "type": "news",
-   "title": "University of Winnipeg - The University of Winnipeg and Canadian Mennonite University conclude a 38-year joint initiative",
-   "url": "https://educationnewscanada.com/article/education/level/university/1/1227001/the-university-of-winnipeg-and-canadian-mennonite-university-conclude-a-38-year-joint-initiative.html",
-   "date": "2026-11-16T00:00:00+00:00",
-   "summary": "In 1988, The University of Winnipeg (UWinnipeg) and Canadian Mennonite University (CMU) began a longstanding partnership through Menno Simons College (MSC) to provide majors in International Developme. . ."
-  },
-  {
-   "source": "enc",
-   "source_name": "Education News Canada",
-   "category": "policy",
-   "region": "Canada",
-   "type": "news",
-   "title": "Toronto Metropolitan University - Dorothy Bakker appointed interim dean, School of Medicine",
-   "url": "https://educationnewscanada.com/article/education/level/university/1/1228657/dorothy-bakker-appointed-interim-dean-school-of-medicine.html",
-   "date": "2026-11-16T00:00:00+00:00",
-   "summary": "I am pleased to announce the appointment of Dr. Dorothy Bakker as interim dean of the School of Medicine, effective Nov. 14, 2026. A family physician, educator and experienced academic leader, D. . ."
-  },
-  {
-   "source": "enc",
-   "source_name": "Education News Canada",
-   "category": "policy",
-   "region": "Canada",
-   "type": "news",
-   "title": "Mount Saint Vincent University - MSVU Public Relations grads recognized as among the best in the business",
-   "url": "https://educationnewscanada.com/article/education/level/university/1/1228343/msvu-public-relations-grads-recognized-as-among-the-best-in-the-business.html",
-   "date": "2026-11-16T00:00:00+00:00",
-   "summary": "It's been an award-winning fall for MSVU Bachelor of Public Relations (BPR) and Master of Public Relations (MPR) graduates. The sector spotlights the best of the best through national and internat. . ."
-  },
-  {
-   "source": "enc",
-   "source_name": "Education News Canada",
-   "category": "policy",
-   "region": "Canada",
-   "type": "news",
-   "title": "University of New Brunswick - UNB co-leads research project to reduce injuries in long-term care",
-   "url": "https://educationnewscanada.com/article/education/level/university/1/1228360/unb-co-leads-research-project-to-reduce-injuries-in-long-term-care.html",
-   "date": "2026-11-16T00:00:00+00:00",
-   "summary": "Repositioning residents, assisting with transfers, and helping with daily care are routine parts of long-term care.Performed repeatedly throughout a shift, these physically demanding tasks can p. . ."
-  },
-  {
-   "source": "enc",
-   "source_name": "Education News Canada",
-   "category": "policy",
-   "region": "Canada",
-   "type": "news",
-   "title": "University of Windsor - Engineering students identify opportunities to improve patient care at local hospital",
-   "url": "https://educationnewscanada.com/article/education/level/university/1/1228347/engineering-students-identify-opportunities-to-improve-patient-care-at-local-hospital.html",
-   "date": "2026-11-16T00:00:00+00:00",
-   "summary": "For patients recovering in hospital, delays in rehabilitation and discharge can mean longer stays and an increased risk of complications. Two University of Windsor engineering students spent th. . ."
-  },
-  {
-   "source": "enc",
-   "source_name": "Education News Canada",
-   "category": "policy",
-   "region": "Canada",
-   "type": "news",
-   "title": "McGill University - A new mapping method could help Montreal and other cities keep more institutional and commercial food waste out of the dump",
-   "url": "https://educationnewscanada.com/article/education/level/university/1/1228340/a-new-mapping-method-could-help-montreal-and-other-cities-keep-more-institutional-and-commercial-food-waste-out-of-the-dump.html",
-   "date": "2026-11-16T00:00:00+00:00",
-   "summary": "Businesses and institutions in just six per cent of Montreal's mapped area account for about 100,000 tonnes of food waste sent to landfill each year - half of the total amount from non-household s. . ."
-  },
-  {
-   "source": "enc",
-   "source_name": "Education News Canada",
-   "category": "policy",
-   "region": "Canada",
-   "type": "news",
-   "title": "St. Lawrence College - SLC announces 2026 Premier",
-   "url": "https://educationnewscanada.com/article/education/level/colleges/2/1228510/slc-announces-2026-premier-s-awards-recipient.html",
-   "date": "2026-11-16T00:00:00+00:00",
-   "summary": "St. Lawrence College announces 2026 Premier's Awards recipientSt. Lawrence College (SLC) is pleased to announce its 2026 Premier's Award recipient is Christine Bruce, a 1997 graduate of SL. . ."
-  },
-  {
-   "source": "enc",
-   "source_name": "Education News Canada",
-   "category": "policy",
-   "region": "Canada",
-   "type": "news",
-   "title": "Conestoga College - Next Best Chef competition offers tuition awards to high school students",
-   "url": "https://educationnewscanada.com/article/education/level/colleges/2/1228421/next-best-chef-competition-offers-tuition-awards-to-high-school-students.html",
-   "date": "2026-11-16T00:00:00+00:00",
-   "summary": "Thirteen high school students competed in culinary and baking competitions during Conestoga's Next Best Chef event. Held at the college's Waterloo campus on October 29, the event offered parti. . ."
-  },
-  {
-   "source": "enc",
-   "source_name": "Education News Canada",
-   "category": "policy",
-   "region": "Canada",
-   "type": "news",
-   "title": "Durham College - What does AI mean for animal welfare? DC students take a closer look",
-   "url": "https://educationnewscanada.com/article/education/level/colleges/2/1228423/what-does-ai-mean-for-animal-welfare-dc-students-take-a-closer-look.html",
-   "date": "2026-11-16T00:00:00+00:00",
-   "summary": "Artificial intelligence (AI) is reshaping how people work across industries, from healthcare and business to skilled trades and even animal care. At Durham College (DC), students are exploring what th. . ."
-  },
-  {
-   "source": "enc",
-   "source_name": "Education News Canada",
-   "category": "policy",
-   "region": "Canada",
-   "type": "news",
-   "title": "Ontario - Ontario career college forced into layoffs as student funding stalls",
-   "url": "https://educationnewscanada.com/article/education/level/colleges/2/1228534/ontario-career-college-forced-into-layoffs-as-student-funding-stalls.html",
-   "date": "2026-11-16T00:00:00+00:00",
-   "summary": "Ontario - Ontario career college forced into layoffs as student funding stalls"
   },
   {
    "source": "csp",
@@ -772,17 +1135,6 @@
    "summary": "We’re starting to see what it means to be “masters of our destiny,” to “build Canada strong” and to “build, baby, build."
   },
   {
-   "source": "hyperallergic",
-   "source_name": "Hyperallergic",
-   "category": "creative",
-   "region": "International",
-   "type": "news",
-   "title": "Special Edition: Jesus",
-   "url": "https://hyperallergic.com/11-14-26-weekly-newsletter-2/",
-   "date": "2026-11-14T11:00:00+00:00",
-   "summary": "Mona Chalabi, Anne Anlin Cheng and Patty Chang, Miles Greenberg, Betsy James Wyeth, and the hottest memes about the Nvidia honeypot."
-  },
-  {
    "source": "aptn",
    "source_name": "APTN News",
    "category": "indigenous",
@@ -827,28 +1179,6 @@
    "summary": "A Manitoba-based organization is trying to raise $17 million to bring 3,000 Indigenous artefacts home... The post Manitoba group needs $17M to bring 3,000 Indigenous artefacts home appeared first on APTN News ."
   },
   {
-   "source": "hyperallergic",
-   "source_name": "Hyperallergic",
-   "category": "creative",
-   "region": "International",
-   "type": "news",
-   "title": "At NYC’s ADAA Art Fair, Unlimited Shrimp and $2K Diebenkorns",
-   "url": "https://hyperallergic.com/at-nycs-adaa-art-fair-unlimited-shrimp-and-2k-diebenkorns/",
-   "date": "2026-11-13T21:20:39+00:00",
-   "summary": "The Art Dealers Association of America’s chummy five-day show returns to the Upper East Side after quietly canceling last fall’s edition."
-  },
-  {
-   "source": "hyperallergic",
-   "source_name": "Hyperallergic",
-   "category": "creative",
-   "region": "International",
-   "type": "news",
-   "title": "45% of US Independent Arts Publications Face Existential Crisis, Report Finds",
-   "url": "https://hyperallergic.com/45-of-us-independent-arts-publications-face-existential-crisis-report-finds/",
-   "date": "2026-11-13T21:17:16+00:00",
-   "summary": "In addition to declining funding, the survey identified a disturbing correlation between censorship concerns and financial precarity."
-  },
-  {
    "source": "betakit",
    "source_name": "BetaKit",
    "category": "policy",
@@ -858,61 +1188,6 @@
    "url": "https://betakit.com/cohere-buys-ai-code-review-startup-cubic-as-acquisition-spree-continues/",
    "date": "2026-11-13T20:58:00+00:00",
    "summary": "Toronto AI firm has also completed purchase of Czech cybersecurity company Aisle. The post Cohere buys AI code review startup Cubic as acquisition spree continues first appeared on BetaKit ."
-  },
-  {
-   "source": "hyperallergic",
-   "source_name": "Hyperallergic",
-   "category": "creative",
-   "region": "International",
-   "type": "news",
-   "title": "The Secret Life of Hockney's Beverly Hills Housewife",
-   "url": "https://hyperallergic.com/the-secret-life-of-hockneys-beverly-hills-housewife/",
-   "date": "2026-11-13T20:51:24+00:00",
-   "summary": "Taking David Hockney’s painting of arts patron Betty Freeman as his subject, James Cahill tells the engrossing story of two friends who shaped the cultural landscape of 1960s Los Angeles."
-  },
-  {
-   "source": "hyperallergic",
-   "source_name": "Hyperallergic",
-   "category": "creative",
-   "region": "International",
-   "type": "news",
-   "title": "Tribal Groups Urge Congress to Halt Bill That Threatens Sacred Sites",
-   "url": "https://hyperallergic.com/tribal-groups-urge-congress-to-halt-bill-that-threatens-sacred-sites/",
-   "date": "2026-11-13T20:44:36+00:00",
-   "summary": "The Bipartisan American Affordability and Jobs Act would speed up permitting for major projects and could impact Indigenous sovereignty over culturally significant land."
-  },
-  {
-   "source": "hyperallergic",
-   "source_name": "Hyperallergic",
-   "category": "creative",
-   "region": "International",
-   "type": "news",
-   "title": "The Alchemical Possibilities of an Artist-Poet Collaboration",
-   "url": "https://hyperallergic.com/the-alchemical-possibilities-of-an-artist-poet-collaboration/",
-   "date": "2026-11-13T20:33:54+00:00",
-   "summary": "Four decades later, El Museo del Barrio restages Papo Colo's text-and-image show \"Octopus and Others.\""
-  },
-  {
-   "source": "nunatsiaq",
-   "source_name": "Nunatsiaq News",
-   "category": "indigenous",
-   "region": "Canada",
-   "type": "news",
-   "title": "Narwhal, seals and more adorn University of Ottawa wall",
-   "url": "https://nunatsiaq.com/stories/article/narwhal-seals-and-more-adorn-university-of-ottawa-wall/",
-   "date": "2026-11-13T20:30:00+00:00",
-   "summary": "Aija Komangapik painted a grey seal as part of a mural project at the University of Ottawa because it is an animal she knows well. “The grey seal is the one I catch, the one I use to prepare sealskins."
-  },
-  {
-   "source": "hyperallergic",
-   "source_name": "Hyperallergic",
-   "category": "creative",
-   "region": "International",
-   "type": "news",
-   "title": "Botanical Artists Show Us What We Stand to Lose",
-   "url": "https://hyperallergic.com/botanical-artists-show-us-what-we-stand-to-lose/",
-   "date": "2026-11-13T19:52:56+00:00",
-   "summary": "Works at the American Society of Botanical Artists' annual exhibition radiate with majesty, and the intricate sumptuousness is agonizing."
   },
   {
    "source": "yt-amii",
@@ -926,17 +1201,6 @@
    "summary": "Dynamic neural networks that grow and shrink at runtime are difficult to build with current ML frameworks, requiring orders of magnitude more memory than occupied by live weights. The authors propose Plastax, a jax-compatible library for building neural networks that grow, shrink and change at the individual connectio…"
   },
   {
-   "source": "nunatsiaq",
-   "source_name": "Nunatsiaq News",
-   "category": "indigenous",
-   "region": "Canada",
-   "type": "news",
-   "title": "John Amagoalik squares off with GN in court over home-care funding",
-   "url": "https://nunatsiaq.com/stories/article/john-amagoalik-squares-off-with-gn-in-court-over-home-care-funding/",
-   "date": "2026-11-13T19:13:52+00:00",
-   "summary": "Nunavut Chief Justice Susan Cooper reserved her decision after hearing lawyers for John Amagoalik argue the territorial government should pay for his private medical care in Iqaluit while government lawyers argued it shouldn’t."
-  },
-  {
    "source": "betakit",
    "source_name": "BetaKit",
    "category": "policy",
@@ -946,28 +1210,6 @@
    "url": "https://betakit.com/us-company-shift4-to-acquire-paramount-commerce-for-up-to-317-million-usd/",
    "date": "2026-11-13T18:58:38+00:00",
    "summary": "Toronto-based Paramount is one of the first participants in Canada’s Real-Time Rail system. The post US company Shift4 to acquire Paramount Commerce for up to $317 million USD first appeared on BetaKit ."
-  },
-  {
-   "source": "hyperallergic",
-   "source_name": "Hyperallergic",
-   "category": "creative",
-   "region": "International",
-   "type": "news",
-   "title": "Seven Museums to Host Solo Exhibitions Celebrating Wolf Kahn’s Centennial",
-   "url": "https://hyperallergic.com/seven-museums-to-host-solo-exhibitions-celebrating-wolf-kahns-centennial/",
-   "date": "2026-11-13T18:45:44+00:00",
-   "summary": "Museums in Germany, New York, and Vermont are among those to honor the late abstract landscape painter next year."
-  },
-  {
-   "source": "nunatsiaq",
-   "source_name": "Nunatsiaq News",
-   "category": "indigenous",
-   "region": "Canada",
-   "type": "news",
-   "title": "Arctic trash inspector reporting for duty",
-   "url": "https://nunatsiaq.com/stories/article/arctic-trash-inspector-reporting-for-duty/",
-   "date": "2026-11-13T18:30:53+00:00",
-   "summary": ""
   },
   {
    "source": "aptn",
@@ -1003,17 +1245,6 @@
    "summary": "In an open letter to Prime Minister Mark Carney and Indigenous Services Minister Mandy Gull... The post First Nations Leadership Council sends open letter to the prime minister, Indigenous Services over delay in passing Bill S-2 appeared first on APTN News ."
   },
   {
-   "source": "nunatsiaq",
-   "source_name": "Nunatsiaq News",
-   "category": "indigenous",
-   "region": "Canada",
-   "type": "news",
-   "title": "ᐱᓕᕆᔨᒻᒪᕇᑦ ᓈᒻᒪᒃᓴᙱᓗᐊᖅᑐᑦ ᓄᓇᕗᒥᑦ ᒐᕙᒪᒃᑯᑦ ‘ᒪᑦᑐᑎᑐᐃᓐᓇᖅᓯᒪᔭᖓ’ ᐱᓕᕆᐊᖃᕐᓂᕐᒥ ᑲᒪᒋᔭᖃᖅᑎᑦᑎᓂᕐᒥ ᓱᕈᓯᕐᓂ",
-   "url": "https://nunatsiaq.com/stories/article/experts-decry-gns-band-aid-approach-to-foster-care_inuk/",
-   "date": "2026-11-13T16:30:29+00:00",
-   "summary": "To read the English version of this story, please see Experts decry Nunavut’s ‘Band-Aid’ approach to foster care."
-  },
-  {
    "source": "dsjp",
    "source_name": "Digital Skills & Jobs Platform (EU)",
    "category": "policy",
@@ -1023,17 +1254,6 @@
    "url": "https://digital-skills-jobs.europa.eu/en/latest/news/brightskills-health-industry-skills-validation-survey",
    "date": "2026-11-13T16:21:53+00:00",
    "summary": "AI, data and digital skills are among the topics of a two-minute survey for the health industry, run by the Erasmus+ project BRIGHTskills."
-  },
-  {
-   "source": "nunatsiaq",
-   "source_name": "Nunatsiaq News",
-   "category": "indigenous",
-   "region": "Canada",
-   "type": "news",
-   "title": "Fresh face in cabinet expected to receive portfolio Monday",
-   "url": "https://nunatsiaq.com/stories/article/fresh-face-in-cabinet-expected-to-receive-portfolio-monday/",
-   "date": "2026-11-13T15:04:50+00:00",
-   "summary": "Fred Pedersen, the newest appointee to Nunavut’s cabinet, will receive his portfolio assignments on Monday, says Joanna Awa, press secretary for Premier John Main. The Cambridge Bay MLA was selected by his colleagues on Nov."
   },
   {
    "source": "dsjp",
@@ -1047,17 +1267,6 @@
    "summary": "With 500,000 roles needed in advanced digital skills, the new LEADSx2030 dashboard offers insights into Europe's evolving digital skills needs and helps stakeholders identify emerging demand."
   },
   {
-   "source": "betakit",
-   "source_name": "BetaKit",
-   "category": "policy",
-   "region": "Canada",
-   "type": "news",
-   "title": "EntrepreNorth secures $8-million initial close of fund for Indigenous entrepreneurs",
-   "url": "https://betakit.com/entreprenorth-secures-8-million-initial-close-of-fund-for-indigenous-entrepreneurs/",
-   "date": "2026-11-13T14:00:00+00:00",
-   "summary": "Sinew Impact Fund will provide more risk capital to early-stage Indigenous startups with ties to Canada’s North. The post EntrepreNorth secures $8-million initial close of fund for Indigenous entrepreneurs first appeared on BetaKit ."
-  },
-  {
    "source": "conversation-ca-ai",
    "source_name": "The Conversation Canada – AI",
    "category": "policy",
@@ -1069,17 +1278,6 @@
    "summary": "Pennsylvania lawmakers are moving to rein in license plate readers. A criminal justice scholar explains where their proposals fall between public safety and privacy."
   },
   {
-   "source": "nunatsiaq",
-   "source_name": "Nunatsiaq News",
-   "category": "indigenous",
-   "region": "Canada",
-   "type": "news",
-   "title": "Nunavut recovery centre rooted in Liberal push to legalize cannabis",
-   "url": "https://nunatsiaq.com/stories/article/nunavut-recovery-centre-rooted-in-liberal-push-to-legalize-cannabis/",
-   "date": "2026-11-13T13:30:53+00:00",
-   "summary": "On Nov. 13, the Aqqusariaq Recovery Centre in Iqaluit will officially welcome the public in for the first time as part of an open house."
-  },
-  {
    "source": "conversation-ca-ai",
    "source_name": "The Conversation Canada – AI",
    "category": "policy",
@@ -1089,17 +1287,6 @@
    "url": "https://theconversation.com/could-you-survive-without-microsoft-inside-the-costs-of-digital-dependence-296614",
    "date": "2026-11-13T12:09:36+00:00",
    "summary": "Digital choices have huge environmental costs but these are rarely counted up."
-  },
-  {
-   "source": "betakit",
-   "source_name": "BetaKit",
-   "category": "policy",
-   "region": "Canada",
-   "type": "news",
-   "title": "Q&A: Why Fintechs Canada’s director says Real-Time Rail needs the Big Six banks to succeed",
-   "url": "https://betakit.com/why-fintechs-canadas-director-says-real-time-rail-needs-the-big-six-banks-to-succeed/",
-   "date": "2026-11-13T11:00:00+00:00",
-   "summary": "Executive director Adriana Vega explains industry reactions to FinTech updates in Budget 2026. The post Q&A: Why Fintechs Canada’s director says Real-Time Rail needs the Big Six banks to succeed first appeared on BetaKit ."
   },
   {
    "source": "govuk-dfe",
@@ -1124,17 +1311,6 @@
    "summary": "By Steve Lundeberg University students with traits coveted in STEM fields are also the ones most prone to relying on artificial intelligence to the detriment of their cognitive skills, according to a new study by scientists at Oregon State University. Researchers in OSU’s colleges of Engineering and Liberal Arts offer…"
   },
   {
-   "source": "aptn",
-   "source_name": "APTN News",
-   "category": "indigenous",
-   "region": "Canada",
-   "type": "news",
-   "title": "ISC minister says she was not expecting Kinew’s comments about abolishing the Indian Act",
-   "url": "https://www.aptnnews.ca/nation-to-nation/isc-minister-says-she-was-not-expecting-kinews-comments-about-abolishing-the-indian-act/",
-   "date": "2026-11-12T23:23:57+00:00",
-   "summary": "Indigenous Services Minister Mandy Gull-Masty says she was as surprised as anyone when Manitoba Premier... The post ISC minister says she was not expecting Kinew’s comments about abolishing the Indian Act appeared first on APTN News ."
-  },
-  {
    "source": "conversation-ca-ai",
    "source_name": "The Conversation Canada – AI",
    "category": "policy",
@@ -1144,17 +1320,6 @@
    "url": "https://theconversation.com/from-ancient-asia-to-the-ai-age-has-chinas-beauty-stratagem-found-a-new-victim-in-nvidias-jensen-huang-296393",
    "date": "2026-11-12T20:25:32+00:00",
    "summary": "‘Honey traps’ have long been used to gain an advantage over a rival. In China, it is a tactic documented in stories that go back 2 millennia."
-  },
-  {
-   "source": "nunatsiaq",
-   "source_name": "Nunatsiaq News",
-   "category": "indigenous",
-   "region": "Canada",
-   "type": "news",
-   "title": "Nunavik’s new sex-education curriculum takes shape",
-   "url": "https://nunatsiaq.com/stories/article/nunaviks-new-sex-education-curriculum-takes-shape/",
-   "date": "2026-11-12T19:31:23+00:00",
-   "summary": "Nunavik’s sexuality education pilot project will initially cover four subjects, including healthy relationships, pregnancy, sexually transmitted infections and contraception."
   },
   {
    "source": "edcan",
@@ -1179,28 +1344,6 @@
    "summary": ""
   },
   {
-   "source": "betakit",
-   "source_name": "BetaKit",
-   "category": "policy",
-   "region": "Canada",
-   "type": "news",
-   "title": "Conexus Venture Capital raises additional $5 million for Fund II",
-   "url": "https://betakit.com/conexus-venture-capital-raises-additional-5-million-for-fund-ii/",
-   "date": "2026-11-12T17:33:32+00:00",
-   "summary": "Regina-based VC re-opened the fund earlier this year after increased demand from investors. The post Conexus Venture Capital raises additional $5 million for Fund II first appeared on BetaKit ."
-  },
-  {
-   "source": "betakit",
-   "source_name": "BetaKit",
-   "category": "policy",
-   "region": "Canada",
-   "type": "news",
-   "title": "Coraltalk wants universities to stop chasing AI cheaters and start measuring learning",
-   "url": "https://betakit.com/coraltalk-wants-universities-to-stop-chasing-ai-cheaters-and-start-measuring-learning/",
-   "date": "2026-11-12T16:00:00+00:00",
-   "summary": "Supported by YSpace’s ELLA program, the EdTech startup is using AI to make oral exams practical for universities. The post Coraltalk wants universities to stop chasing AI cheaters and start measuring learning first appeared on BetaKit ."
-  },
-  {
    "source": "cifar",
    "source_name": "CIFAR News",
    "category": "institute",
@@ -1210,28 +1353,6 @@
    "url": "https://cifar.ca/cifarnews/2026/11/12/cifar-researchers-awarded-e10-million-to-explore-how-the-brain-remembers-illness/",
    "date": "2026-11-12T14:40:15+00:00",
    "summary": "A connection made through CIFAR’s Child & Brain Development program has grown into an ambitious international research collaboration. CIFAR researchers Staci Bilbo and Tomás Ryan […] The post CIFAR researchers awarded €10 million to explore how the brain remembers illness appeared first on CIFAR ."
-  },
-  {
-   "source": "betakit",
-   "source_name": "BetaKit",
-   "category": "policy",
-   "region": "Canada",
-   "type": "news",
-   "title": "Qvyon Technologies emerges from stealth with $8 million USD to prepare physical AI for dangerous edge cases",
-   "url": "https://betakit.com/qvyon-technologies-emerges-from-stealth-with-8-million-usd-to-prepare-physical-ai-for-dangerous-edge-cases/",
-   "date": "2026-11-12T14:00:00+00:00",
-   "summary": "Former LeddarTech CEO’s new venture targets autonomous vehicle and robotics companies. The post Qvyon Technologies emerges from stealth with $8 million USD to prepare physical AI for dangerous edge cases first appeared on BetaKit ."
-  },
-  {
-   "source": "betakit",
-   "source_name": "BetaKit",
-   "category": "policy",
-   "region": "Canada",
-   "type": "news",
-   "title": "BluWave-ai secures $8.1 million for energy grid software as data centres strain load",
-   "url": "https://betakit.com/bluwave-ai-secures-8-1-million-for-energy-grid-software-as-data-centres-strain-load/",
-   "date": "2026-11-12T14:00:00+00:00",
-   "summary": "Nearly 10 years in, Ottawa company eyes surge in demand from AI infrastructure build-out. The post BluWave-ai secures $8.1 million for energy grid software as data centres strain load first appeared on BetaKit ."
   },
   {
    "source": "obvia",
@@ -1256,15 +1377,15 @@
    "summary": "Figure 1: The SteganoPrompt web interface. The green “Disclosure always on” banner signals that every encoded brief carries a short academic-integrity reminder that cannot be switched off, and offers ready-to-paste syllabus wording. Instructors paste the assignment into panel 1 (“Visible text”). Panel 2 (“Hidden instr…"
   },
   {
-   "source": "betakit",
-   "source_name": "BetaKit",
+   "source": "dsjp",
+   "source_name": "Digital Skills & Jobs Platform (EU)",
    "category": "policy",
-   "region": "Canada",
+   "region": "EU",
    "type": "news",
-   "title": "Northside Ventures aims to build “institutional angel investor” with $30-million USD second fund",
-   "url": "https://betakit.com/northside-ventures-aims-to-build-institutional-angel-investor-with-30-million-usd-second-fund/",
-   "date": "2026-11-12T11:00:00+00:00",
-   "summary": "The Toronto VC has closed $17 million to date to back Canadian tech startups at inception. The post Northside Ventures aims to build “institutional angel investor” with $30-million USD second fund first appeared on BetaKit ."
+   "title": "Youth in Latvia Compete in Riga Puzzle Day 2026",
+   "url": "https://digital-skills-jobs.europa.eu/en/latest/news/youth-latvia-compete-riga-puzzle-day-2026",
+   "date": "2026-11-12T11:24:39+00:00",
+   "summary": "On 5 November, the Code4Europe supported logic game \"Riga Puzzle Day\" took place at the Riga Event Centre \"Fantadroms\", where 304 students from 35 schools in Riga competed. Participants used ingenuity, logical thinking, and the ability to collaborate to solve the challenges of the game."
   },
   {
    "source": "conversation-ca-ai",
@@ -1287,17 +1408,6 @@
    "url": "/weeknotes/2026/11/12/emily-weeknotes",
    "date": "2026-11-12T00:00:00+00:00",
    "summary": "What I’ve been doing I’ve realised that I was somewhat naive in my presumptions about what winding up an organisation would look like. I had thought that as we approached the final six months that we’d be finishing off projects; catching up on all the loose ends we’ve created over the last 4-5 years; putting some effo…"
-  },
-  {
-   "source": "betakit",
-   "source_name": "BetaKit",
-   "category": "policy",
-   "region": "Canada",
-   "type": "news",
-   "title": "Jack Newton’s tips for a $1-billion acquisition",
-   "url": "https://betakit.com/jack-newtons-tips-for-a-1-billion-acquisition/",
-   "date": "2026-11-11T22:00:00+00:00",
-   "summary": "Plus: Nvidia’s governance problem. The post Jack Newton’s tips for a $1-billion acquisition first appeared on BetaKit ."
   },
   {
    "source": "conversation-ca-ai",
@@ -1344,17 +1454,6 @@
    "summary": "Speech delivered by Children's Minister at annual NCASC conference in Liverpool"
   },
   {
-   "source": "conversation-ca-ai",
-   "source_name": "The Conversation Canada – AI",
-   "category": "policy",
-   "region": "Canada",
-   "type": "news",
-   "title": "Why the doomsday prediction of 1960 matters today",
-   "url": "https://theconversation.com/why-the-doomsday-prediction-of-1960-matters-today-295817",
-   "date": "2026-11-11T14:22:47+00:00",
-   "summary": "A 1960 paper predicted population growth would end the world on November 13, 2026. Five lessons from a failed doomsday forecast for today’s scientists."
-  },
-  {
    "source": "govuk-dfe",
    "source_name": "GOV.UK – Department for Education news",
    "category": "policy",
@@ -1399,17 +1498,6 @@
    "summary": "Series of webinars on RISE reception quality in schools led by senior education sector experts."
   },
   {
-   "source": "conversation-ca-ai",
-   "source_name": "The Conversation Canada – AI",
-   "category": "policy",
-   "region": "Canada",
-   "type": "news",
-   "title": "Australia will impose mandatory safety rules on AI. Are we focused on the right risks?",
-   "url": "https://theconversation.com/australia-will-impose-mandatory-safety-rules-on-ai-are-we-focused-on-the-right-risks-296282",
-   "date": "2026-11-11T02:34:42+00:00",
-   "summary": "Australians may remain unprotected from known AI harms that are already widespread and serious."
-  },
-  {
    "source": "ainow",
    "source_name": "AI Now Institute",
    "category": "community",
@@ -1419,17 +1507,6 @@
    "url": "https://ainowinstitute.org/news/the-ai-safety-debate-has-lost-the-plot-we-asked-10-experts-what-the-real-nightmares-are",
    "date": "2026-11-10T20:51:35+00:00",
    "summary": "AI Now's Chief AI Scientist Heidy Khlaaf distinguishes between real concerns around AI safety and unsubstantiated extinction claims, while pointing to the existing field of risk assessment with its rigorous standards, techniques, and methods. The post The AI Safety Debate Has Lost the Plot. We Asked 10 Experts What th…"
-  },
-  {
-   "source": "conversation-ca-ai",
-   "source_name": "The Conversation Canada – AI",
-   "category": "policy",
-   "region": "Canada",
-   "type": "news",
-   "title": "AI has turned university assessments into a ‘wicked problem’ – and we don’t have all the answers",
-   "url": "https://theconversation.com/ai-has-turned-university-assessments-into-a-wicked-problem-and-we-dont-have-all-the-answers-294350",
-   "date": "2026-11-10T19:12:54+00:00",
-   "summary": "Unis must ensure degrees demonstrate students’ learning, rather than how well they’ve used artificial intelligence. But it’s an ongoing challenge."
   },
   {
    "source": "mila",
@@ -1507,17 +1584,6 @@
    "url": "https://www.michaelgeist.ca/2026/11/back-of-the-napkin-cultural-policy-the-governments-600-million-streaming-plan-copies-the-crtc-decision-it-killed-at-more-than-double-the-cost/?utm_source=rss&utm_medium=rss&utm_campaign=back-of-the-napkin-cultural-policy-the-governments-600-million-streaming-plan-copies-the-crtc-decision-it-killed-at-more-than-double-the-cost",
    "date": "2026-11-10T13:30:07+00:00",
    "summary": "The government quietly released details on Sunday of how it will allocate the $600 million it promised in June when it announced plans to kill the CRTC’s Online Streaming Act ruling on Internet streamer contributions. The plan largely copies the CRTC’s 2024 base contribution decision, with public tax dollars replacing…"
-  },
-  {
-   "source": "conversation-ca-ai",
-   "source_name": "The Conversation Canada – AI",
-   "category": "policy",
-   "region": "Canada",
-   "type": "news",
-   "title": "Artificial intelligence is desperately seeking its narrative",
-   "url": "https://theconversation.com/artificial-intelligence-is-desperately-seeking-its-narrative-296067",
-   "date": "2026-11-10T13:12:58+00:00",
-   "summary": "The world is grappling with the game-changing effects of AI and the storytelling around it. In the end it’s the dominant narrative that tends to influence whether or not new technology is adopted."
   },
   {
    "source": "govuk-dfe",
@@ -1960,6 +2026,17 @@
    "summary": "Zoya Yasmine / The Two Cultures / Licenced by CC-BY 4.0 By Cécilia Carron Artificial intelligence is forcing universities to reinvent how they teach and assess students’ knowledge. According to Dan Schwartz, an expert in learning science at Stanford, the challenge goes well beyond deciding whether to let AI into the c…"
   },
   {
+   "source": "dsjp",
+   "source_name": "Digital Skills & Jobs Platform (EU)",
+   "category": "policy",
+   "region": "EU",
+   "type": "news",
+   "title": "CodeWeek 2026 conference in Latvia – teachers discuss AI",
+   "url": "https://digital-skills-jobs.europa.eu/en/latest/news/codeweek-2026-conference-latvia-teachers-discuss-ai",
+   "date": "2026-11-03T12:10:55+00:00",
+   "summary": "Teachers gathered for the CodeWeek 2026 conference, organized as part of the activities of the Code4Europe project in partnership with the Latvian Information and Communications Technology Association (LIKTA), RTU Riga Business School, and the Foundation for growth (“Fonds AUGT”)."
+  },
+  {
    "source": "geist",
    "source_name": "Michael Geist (law & tech policy)",
    "category": "policy",
@@ -2178,17 +2255,6 @@
    "url": "https://ainowinstitute.org/news/who-will-get-to-define-the-danger",
    "date": "2026-10-29T14:27:18+00:00",
    "summary": "At the People's AI Assembly, the crowd, spilling onto the balconies, laughed at Mayor Zohran Mamdani’s jokes, cheered former antitrust chief Lina Khan, and hung on the every word of writers Arundhati Roy, Karen Hao and Naomi Klein. The post Who will get to define the danger? appeared first on AI Now Institute ."
-  },
-  {
-   "source": "geist",
-   "source_name": "Michael Geist (law & tech policy)",
-   "category": "policy",
-   "region": "Canada",
-   "type": "blog",
-   "title": "The Age Verification Bill That Won’t Die: How Bill S-209 Complicates the Government’s Bill C-34 Online Safety Plan",
-   "url": "https://www.michaelgeist.ca/2026/10/the-age-verification-bill-that-wont-die-how-bill-s-209-complicates-the-governments-bill-c-34-online-safety-plan/?utm_source=rss&utm_medium=rss&utm_campaign=the-age-verification-bill-that-wont-die-how-bill-s-209-complicates-the-governments-bill-c-34-online-safety-plan",
-   "date": "2026-10-29T12:52:14+00:00",
-   "summary": "Bill C-34, the government’s Safe Social Media Act , was touted as its approach to online age verification, adding a mandated age check for social media account creation for those under-16 and age verification for under-18s for access to pornographic content, all overseen by a new Digital Safety Commission . But it now…"
   },
   {
    "source": "dsjp",
@@ -2444,17 +2510,6 @@
    "summary": "On AI agents that act for us, a national AI council that advises for us, and who gets a say in either. Plus: two weeks to SAIER Volume 8. Source"
   },
   {
-   "source": "ainow",
-   "source_name": "AI Now Institute",
-   "category": "community",
-   "region": "International",
-   "type": "blog",
-   "title": "COP31 pledge on AI lacks climate targets, critics say",
-   "url": "https://ainowinstitute.org/news/cop31-pledge-on-ai-lacks-climate-targets-critics-say",
-   "date": "2026-10-27T20:29:30+00:00",
-   "summary": "Ahead of COP31, a proposed artificial intelligence pledge lacks any concrete climate targets and allows signatories to determine what steps they take. \"We can't trust them to grade their own homework,\" says AI Now's Alli Finn. The post COP31 pledge on AI lacks climate targets, critics say appeared first on AI Now Inst…"
-  },
-  {
    "source": "maiei-brief",
    "source_name": "The AI Ethics Brief (MAIEI newsletter)",
    "category": "community",
@@ -2488,17 +2543,6 @@
    "summary": "The inaugural convening led to a round of seed-funding for Indigenous-led projects Against the backdrop of the Rocky Mountains, Indigenous researchers from around the world […] The post Lighting a “community fire”: How the Radical Interdisciplinarity Forum on Indigenous Knowledges built a collective ready to make tran…"
   },
   {
-   "source": "aihub",
-   "source_name": "AIhub",
-   "category": "institute",
-   "region": "International",
-   "type": "blog",
-   "title": "Researchers get AI ‘drunk’ to expose new cyber security risks in chatbots",
-   "url": "https://aihub.org/2026/10/27/researchers-get-ai-drunk-to-expose-new-cyber-security-risks-in-chatbots/",
-   "date": "2026-10-27T12:14:29+00:00",
-   "summary": "By Kyle Mackey-Laws Fine-tuning large language models using drunken text makes them more likely to leak secrets and answer harmful questions, new UNSW-led research shows. UNSW researchers have shown that large language models (LLMs) can be pushed to imitate drunken behaviour – and that once they do, they are significa…"
-  },
-  {
    "source": "obvia",
    "source_name": "OBVIA – Observatoire international sur les impacts sociétaux de l'IA",
    "category": "community",
@@ -2530,17 +2574,6 @@
    "url": "https://www.youtube.com/watch?v=XU4bVXNkw8w",
    "date": "2026-10-27T09:22:45+00:00",
    "summary": "Artificial intelligence (AI) education is attracting growing attention from researchers and practitioners. Among emerging approaches, integrating learning about AI across the curriculum offers a powerful way to highlight the interdisciplinary nature of AI while engaging students through core subjects such as mathemati…"
-  },
-  {
-   "source": "lcfi",
-   "source_name": "Leverhulme Centre for the Future of Intelligence (Cambridge)",
-   "category": "institute",
-   "region": "UK",
-   "type": "blog",
-   "title": "Smarter universities? How China’s urban AI experiments are shaping governance - LCFI",
-   "url": "https://www.lcfi.ac.uk/news-events/blog/post/smarter-universities-how-chinas-urban-ai-experiments-are-shaping-governance",
-   "date": "2026-10-27T09:00:50+00:00",
-   "summary": "This blog was written by Lucy Zhang, alumna of MPhil in Ethics of AI, Data and Algorithms (2023 cohort), University of Cambridge. It is an adapted version of an assignment originally submitted for the MPhil programme. In the heart of Shenzhen, China, a significant change is underway. With 68% of the total Chinese popu…"
   },
   {
    "source": "yt-sri",
@@ -2882,17 +2915,6 @@
    "url": "https://montrealethics.ai/ai-policy-corner-the-privatization-of-ai-security-competing-with-states-cooperating-with-firms/",
    "date": "2026-10-13T13:19:40+00:00",
    "summary": "✍️By Ogadinma Enwereazu Ogadinma is a PhD student in Political Science, as well as a Graduate Affiliate at the Governance and Responsible AI Lab (GRAIL) at Purdue University. 📌 Editor’s Note: This article is part of our AI Policy Corner series, a collaboration between the Montreal AI Ethics Institute (MAIEI) and the G…"
-  },
-  {
-   "source": "dsjp",
-   "source_name": "Digital Skills & Jobs Platform (EU)",
-   "category": "policy",
-   "region": "EU",
-   "type": "news",
-   "title": "European Cybersecurity Month 2026",
-   "url": "https://digital-skills-jobs.europa.eu/en/latest/news/european-cybersecurity-month-2026",
-   "date": "2026-10-13T11:00:29+00:00",
-   "summary": "Each year in October, the European Cybersecurity Month (ECSM) raises awareness about online threats and underlines the importance of digital safety."
   },
   {
    "source": "oecd-ai",
@@ -3346,17 +3368,6 @@
    "summary": "✍️By Delainie Nichols Delainie is an Undergraduate Student in Cybersecurity and is a Research Assistant at the Governance and Responsible AI Lab (GRAIL), Purdue University. 📌 Editor’s Note: This article is part of our AI Policy Corner series, a collaboration between the Montreal AI Ethics Institute (MAIEI) and the Gov…"
   },
   {
-   "source": "csp",
-   "source_name": "Canadian Science Policy Centre",
-   "category": "policy",
-   "region": "Canada",
-   "type": "blog",
-   "title": "Ilse Treurnicht",
-   "url": "https://sciencepolicy.ca/posts/ilse-treurnicht/",
-   "date": "2026-09-29T08:15:56+00:00",
-   "summary": "Ilse Treurnicht’s career spans research, health and cleantech firms, innovation ecosystems, venture capital and public policy. She is an impact investor, former chair of the Public Policy Forum and a director of the Equality Fund. She chaired the Council of Canadian Academies expert panel on the State of Science, Tech…"
-  },
-  {
    "source": "rpf",
    "source_name": "Raspberry Pi Foundation blog (Experience AI)",
    "category": "education",
@@ -3498,17 +3509,6 @@
    "url": "https://srinstitute.utoronto.ca/news/from-legal-scarcity-to-legal-abundance-benjamin-alarie-on-superjustice",
    "date": "2026-09-22T12:40:55+00:00",
    "summary": "Benjamin Alarie’s new book argues that AI could move legal systems from scarcity to abundance. In conversation with SRI, he discusses personalized law, what must stay human in a courtroom, and why he believes legal scholarship has tilted too far toward pessimism."
-  },
-  {
-   "source": "dsjp",
-   "source_name": "Digital Skills & Jobs Platform (EU)",
-   "category": "policy",
-   "region": "EU",
-   "type": "news",
-   "title": "Europe in transition: skills, AI and jobs at the heart of SOTEU 2026",
-   "url": "https://digital-skills-jobs.europa.eu/en/latest/news/europe-transition-skills-ai-and-jobs-heart-soteu-2026",
-   "date": "2026-09-18T08:20:31+00:00",
-   "summary": "On 16 September, President von der Leyen addressed the European Parliament in her annual SOTEU address, with skills, AI and employment taking the centre stage. Check out our highlights from the speech."
   },
   {
    "source": "ajl",
