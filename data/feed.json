@@ -1,6 +1,160 @@
 {
- "generated": "2026-11-21T17:36:03+00:00",
+ "generated": "2026-11-22T17:51:41+00:00",
  "items": [
+  {
+   "source": "techpolicy",
+   "source_name": "Tech Policy Press",
+   "category": "policy",
+   "region": "International",
+   "type": "news",
+   "title": "Julián Posada on the People Powering AI and the Platforms Exploiting Them",
+   "url": "https://techpolicy.press/julian-posada-on-the-people-powering-ai-and-the-platforms-exploiting-them",
+   "date": "2026-11-22T14:15:00+00:00",
+   "summary": "Behind AI systems that can recognize a face or flag a hateful post is a person who labeled the data that trained it. Many of those people are doing invisible labor on platforms that pay by the task. In Platform Extractivism: Data Work and the People Powering Artificial Intelligence , published this fall by University …"
+  },
+  {
+   "source": "techpolicy",
+   "source_name": "Tech Policy Press",
+   "category": "policy",
+   "region": "International",
+   "type": "news",
+   "title": "Asia's Gig Workers Unite Across Borders to Fight for Rights",
+   "url": "https://techpolicy.press/asias-gig-workers-unite-across-borders-to-fight-for-rights",
+   "date": "2026-11-22T14:00:00+00:00",
+   "summary": "Tech Policy Press fellow Lam Le , who's based in Hanoi, recently attended a conference in Bangkok called the Second Regional Networking Visit for Platform Workers in Asia, where she had the opportunity to meet workers and organizers and observe their discussions. In this episode, she speaks with Justin Hendrix about w…"
+  },
+  {
+   "source": "conversation-ca-ai",
+   "source_name": "The Conversation Canada – AI",
+   "category": "policy",
+   "region": "Canada",
+   "type": "news",
+   "title": "Who gets to decide whether an AI data centre has a ‘social licence’ to operate?",
+   "url": "https://theconversation.com/who-gets-to-decide-whether-an-ai-data-centre-has-a-social-licence-to-operate-295729",
+   "date": "2026-11-22T12:51:27+00:00",
+   "summary": "Community support is increasingly important to AI data centre development. But who gets to decide whether a project has earned it?"
+  },
+  {
+   "source": "govuk-dfe",
+   "source_name": "GOV.UK – Department for Education news",
+   "category": "policy",
+   "region": "UK",
+   "type": "news",
+   "title": "Pupils learn money skills for real life in curriculum shake-up",
+   "url": "https://www.gov.uk/government/news/pupils-learn-money-skills-for-real-life-in-curriculum-shake-up",
+   "date": "2026-11-22T09:28:36+00:00",
+   "summary": "Pupils to learn money skills for real life in curriculum shake-up."
+  },
+  {
+   "source": "enc",
+   "source_name": "Education News Canada",
+   "category": "policy",
+   "region": "Canada",
+   "type": "news",
+   "title": "University of Prince Edward Island - UPEI student startup SeaHand Systems makes history with international win",
+   "url": "https://educationnewscanada.com/article/education/level/university/1/1229670/upei-student-startup-seahand-systems-makes-history-with-international-win.html",
+   "date": "2026-11-22T00:00:00+00:00",
+   "summary": "SeaHand Systems, founded by recent UPEI sustainable design engineering graduate Oluwatobi"
+  },
+  {
+   "source": "enc",
+   "source_name": "Education News Canada",
+   "category": "policy",
+   "region": "Canada",
+   "type": "news",
+   "title": "First Nations Executive Education - FNEE celebrates its 5th anniversary: A unique school, more relevant than ever",
+   "url": "https://educationnewscanada.com/article/education/level/university/1/1229622/fnee-celebrates-its-5th-anniversary-a-unique-school-more-relevant-than-ever.html",
+   "date": "2026-11-22T00:00:00+00:00",
+   "summary": "At a time when reconciliation and building relationships between governments and First Peoples are at the forefront of current events, First Nations Executive Education (FNEE) is celebrating its fifth. . ."
+  },
+  {
+   "source": "enc",
+   "source_name": "Education News Canada",
+   "category": "policy",
+   "region": "Canada",
+   "type": "news",
+   "title": "Brandon University - BU authors revisit Canada",
+   "url": "https://educationnewscanada.com/article/education/level/university/1/1229716/bu-authors-revisit-canada-s-first-cold-war-spy-crisis-in-new-book-from-university-of-toronto-press.html",
+   "date": "2026-11-22T00:00:00+00:00",
+   "summary": "Two Brandon University scholars have published a new history of one of the most dramatic episodes in Canada's postwar security history."
+  },
+  {
+   "source": "enc",
+   "source_name": "Education News Canada",
+   "category": "policy",
+   "region": "Canada",
+   "type": "news",
+   "title": "Memorial University - Virtual open house on Wednesday, November 25",
+   "url": "https://educationnewscanada.com/article/education/level/university/1/1229655/virtual-open-house-on-wednesday-november-25.html",
+   "date": "2026-11-22T00:00:00+00:00",
+   "summary": "Can't make it to campus? Bring Memorial to you.Join us for Memorial University's Virtual Open House on Wednesday, Nov. 25, from 4:30-8 p.m. NST and discover what your future at Memor. . ."
+  },
+  {
+   "source": "enc",
+   "source_name": "Education News Canada",
+   "category": "policy",
+   "region": "Canada",
+   "type": "news",
+   "title": "Concordia University - Concordia appoints Philippe-Edwin Bélanger to lead French-language and Francophonie initiatives",
+   "url": "https://educationnewscanada.com/article/education/level/university/1/1229418/concordia-appoints-philippe-edwin-belanger-to-lead-french-language-and-francophonie-initiatives.html",
+   "date": "2026-11-22T00:00:00+00:00",
+   "summary": "Concordia has appointed Philippe-Edwin Bélanger as associate vice-president for Valorisation du Français et la Francophonie, effective December 1, 2026.Bélanger brings more than two decades of . . ."
+  },
+  {
+   "source": "enc",
+   "source_name": "Education News Canada",
+   "category": "policy",
+   "region": "Canada",
+   "type": "news",
+   "title": "University of Victoria - Record ocean warming hundreds of metres below BC coast linked to El Niño",
+   "url": "https://educationnewscanada.com/article/education/level/university/1/1229437/record-ocean-warming-hundreds-of-metres-below-bc-coast-linked-to-el-nino.html",
+   "date": "2026-11-22T00:00:00+00:00",
+   "summary": "Scientists are observing record ocean temperatures off the British Columbia coast, with temperatures spiking as much as 2.5 degrees Celsius above the long-term averages recorded at Ocean Networks Cana. . ."
+  },
+  {
+   "source": "enc",
+   "source_name": "Education News Canada",
+   "category": "policy",
+   "region": "Canada",
+   "type": "news",
+   "title": "Mohawk College - Advertising Students Take Home Nine Medals from ADCC Awards",
+   "url": "https://educationnewscanada.com/article/education/level/colleges/2/1229447/advertising-students-take-home-nine-medals-from-adcc-awards.html",
+   "date": "2026-11-22T00:00:00+00:00",
+   "summary": "Congratulations to the Mohawk College Advertising students for taking home five bronze and four silver at last week's Advertising and Design Club of Canada's (ADCC) Student Awards.In. . ."
+  },
+  {
+   "source": "enc",
+   "source_name": "Education News Canada",
+   "category": "policy",
+   "region": "Canada",
+   "type": "news",
+   "title": "Confederation College - Confederation College recognizes three international students with $13,000 in entrance awards",
+   "url": "https://educationnewscanada.com/article/education/level/colleges/2/1229446/confederation-college-recognizes-three-international-students-with-13-000-in-entrance-awards.html",
+   "date": "2026-11-22T00:00:00+00:00",
+   "summary": "Confederation College presented three international students with entrance awards totalling $13,000 on November 13, recognizing their academic achievement, leadership, innovation and community service. . ."
+  },
+  {
+   "source": "enc",
+   "source_name": "Education News Canada",
+   "category": "policy",
+   "region": "Canada",
+   "type": "news",
+   "title": "Camosun College - Breaking down barriers: Camosun program connects Indigenous learners to technology careers",
+   "url": "https://educationnewscanada.com/article/education/level/colleges/2/1229740/breaking-down-barriers-camosun-program-connects-indigenous-learners-to-technology-careers.html",
+   "date": "2026-11-22T00:00:00+00:00",
+   "summary": "Indigenous learners interested in exploring pathways to a career in technology or engineering can access tuition-free education through the Indigenous Peoples in Technology Pathways (InTech) program. . ."
+  },
+  {
+   "source": "enc",
+   "source_name": "Education News Canada",
+   "category": "policy",
+   "region": "Canada",
+   "type": "news",
+   "title": "Algonquin College - Algonquin College co-leads Ontario initiative to expand post-secondary pathways for military-connected learners",
+   "url": "https://educationnewscanada.com/article/education/level/colleges/2/1229715/algonquin-college-co-leads-ontario-initiative-to-expand-post-secondary-pathways-for-military-connected-learners.html",
+   "date": "2026-11-22T00:00:00+00:00",
+   "summary": "Algonquin College is helping lead a new province-wide initiative designed to make it easier for current and former members of the Canadian Armed Forces to turn their military training and professional. . ."
+  },
   {
    "source": "nunatsiaq",
    "source_name": "Nunatsiaq News",
@@ -44,116 +198,6 @@
    "url": "https://hyperallergic.com/hail-to-the-squash-king/",
    "date": "2026-11-21T11:00:00+00:00",
    "summary": "Hilma af Klint painting shatters records, new Edward Said documentary, the politics of pigment, and how should we memorialize the Trump era?"
-  },
-  {
-   "source": "enc",
-   "source_name": "Education News Canada",
-   "category": "policy",
-   "region": "Canada",
-   "type": "news",
-   "title": "University of Prince Edward Island - UPEI student startup SeaHand Systems makes history with international win",
-   "url": "https://educationnewscanada.com/article/education/level/university/1/1229670/upei-student-startup-seahand-systems-makes-history-with-international-win.html",
-   "date": "2026-11-21T00:00:00+00:00",
-   "summary": "SeaHand Systems, founded by recent UPEI sustainable design engineering graduate Oluwatobi"
-  },
-  {
-   "source": "enc",
-   "source_name": "Education News Canada",
-   "category": "policy",
-   "region": "Canada",
-   "type": "news",
-   "title": "First Nations Executive Education - FNEE celebrates its 5th anniversary: A unique school, more relevant than ever",
-   "url": "https://educationnewscanada.com/article/education/level/university/1/1229622/fnee-celebrates-its-5th-anniversary-a-unique-school-more-relevant-than-ever.html",
-   "date": "2026-11-21T00:00:00+00:00",
-   "summary": "At a time when reconciliation and building relationships between governments and First Peoples are at the forefront of current events, First Nations Executive Education (FNEE) is celebrating its fifth. . ."
-  },
-  {
-   "source": "enc",
-   "source_name": "Education News Canada",
-   "category": "policy",
-   "region": "Canada",
-   "type": "news",
-   "title": "Brandon University - BU authors revisit Canada",
-   "url": "https://educationnewscanada.com/article/education/level/university/1/1229716/bu-authors-revisit-canada-s-first-cold-war-spy-crisis-in-new-book-from-university-of-toronto-press.html",
-   "date": "2026-11-21T00:00:00+00:00",
-   "summary": "Two Brandon University scholars have published a new history of one of the most dramatic episodes in Canada's postwar security history."
-  },
-  {
-   "source": "enc",
-   "source_name": "Education News Canada",
-   "category": "policy",
-   "region": "Canada",
-   "type": "news",
-   "title": "Memorial University - Virtual open house on Wednesday, November 25",
-   "url": "https://educationnewscanada.com/article/education/level/university/1/1229655/virtual-open-house-on-wednesday-november-25.html",
-   "date": "2026-11-21T00:00:00+00:00",
-   "summary": "Can't make it to campus? Bring Memorial to you.Join us for Memorial University's Virtual Open House on Wednesday, Nov. 25, from 4:30-8 p.m. NST and discover what your future at Memor. . ."
-  },
-  {
-   "source": "enc",
-   "source_name": "Education News Canada",
-   "category": "policy",
-   "region": "Canada",
-   "type": "news",
-   "title": "Concordia University - Concordia appoints Philippe-Edwin Bélanger to lead French-language and Francophonie initiatives",
-   "url": "https://educationnewscanada.com/article/education/level/university/1/1229418/concordia-appoints-philippe-edwin-belanger-to-lead-french-language-and-francophonie-initiatives.html",
-   "date": "2026-11-21T00:00:00+00:00",
-   "summary": "Concordia has appointed Philippe-Edwin Bélanger as associate vice-president for Valorisation du Français et la Francophonie, effective December 1, 2026.Bélanger brings more than two decades of . . ."
-  },
-  {
-   "source": "enc",
-   "source_name": "Education News Canada",
-   "category": "policy",
-   "region": "Canada",
-   "type": "news",
-   "title": "University of Victoria - Record ocean warming hundreds of metres below BC coast linked to El Niño",
-   "url": "https://educationnewscanada.com/article/education/level/university/1/1229437/record-ocean-warming-hundreds-of-metres-below-bc-coast-linked-to-el-nino.html",
-   "date": "2026-11-21T00:00:00+00:00",
-   "summary": "Scientists are observing record ocean temperatures off the British Columbia coast, with temperatures spiking as much as 2.5 degrees Celsius above the long-term averages recorded at Ocean Networks Cana. . ."
-  },
-  {
-   "source": "enc",
-   "source_name": "Education News Canada",
-   "category": "policy",
-   "region": "Canada",
-   "type": "news",
-   "title": "Mohawk College - Advertising Students Take Home Nine Medals from ADCC Awards",
-   "url": "https://educationnewscanada.com/article/education/level/colleges/2/1229447/advertising-students-take-home-nine-medals-from-adcc-awards.html",
-   "date": "2026-11-21T00:00:00+00:00",
-   "summary": "Congratulations to the Mohawk College Advertising students for taking home five bronze and four silver at last week's Advertising and Design Club of Canada's (ADCC) Student Awards.In. . ."
-  },
-  {
-   "source": "enc",
-   "source_name": "Education News Canada",
-   "category": "policy",
-   "region": "Canada",
-   "type": "news",
-   "title": "Confederation College - Confederation College recognizes three international students with $13,000 in entrance awards",
-   "url": "https://educationnewscanada.com/article/education/level/colleges/2/1229446/confederation-college-recognizes-three-international-students-with-13-000-in-entrance-awards.html",
-   "date": "2026-11-21T00:00:00+00:00",
-   "summary": "Confederation College presented three international students with entrance awards totalling $13,000 on November 13, recognizing their academic achievement, leadership, innovation and community service. . ."
-  },
-  {
-   "source": "enc",
-   "source_name": "Education News Canada",
-   "category": "policy",
-   "region": "Canada",
-   "type": "news",
-   "title": "Camosun College - Breaking down barriers: Camosun program connects Indigenous learners to technology careers",
-   "url": "https://educationnewscanada.com/article/education/level/colleges/2/1229740/breaking-down-barriers-camosun-program-connects-indigenous-learners-to-technology-careers.html",
-   "date": "2026-11-21T00:00:00+00:00",
-   "summary": "Indigenous learners interested in exploring pathways to a career in technology or engineering can access tuition-free education through the Indigenous Peoples in Technology Pathways (InTech) program. . ."
-  },
-  {
-   "source": "enc",
-   "source_name": "Education News Canada",
-   "category": "policy",
-   "region": "Canada",
-   "type": "news",
-   "title": "Algonquin College - Algonquin College co-leads Ontario initiative to expand post-secondary pathways for military-connected learners",
-   "url": "https://educationnewscanada.com/article/education/level/colleges/2/1229715/algonquin-college-co-leads-ontario-initiative-to-expand-post-secondary-pathways-for-military-connected-learners.html",
-   "date": "2026-11-21T00:00:00+00:00",
-   "summary": "Algonquin College is helping lead a new province-wide initiative designed to make it easier for current and former members of the Canadian Armed Forces to turn their military training and professional. . ."
   },
   {
    "source": "hyperallergic",
@@ -1421,6 +1465,17 @@
    "summary": "The stories shock as much for their frequency as their cruelty. A Jewish secondary school student reports that a classmate said he wanted to build a gas chamber and chain up Jews. Another describes classmates and teaching assistants making Holocaust jokes. Yet another was told “welcome to your gas chamber” by someone …"
   },
   {
+   "source": "dsjp",
+   "source_name": "Digital Skills & Jobs Platform (EU)",
+   "category": "policy",
+   "region": "EU",
+   "type": "news",
+   "title": "Cybersecurity Skills Academy: Mastercard offers free cyber hygiene webinar for EU SMEs on 26 November",
+   "url": "https://digital-skills-jobs.europa.eu/en/latest/news/cybersecurity-skills-academy-mastercard-offers-free-cyber-hygiene-webinar-eu-smes-26-0",
+   "date": "2026-11-18T10:16:55+00:00",
+   "summary": "Join Mastercard's webinar on 26 November, part of its Securing SMEs initiative and its pledge to the European Cybersecurity Skills Academy."
+  },
+  {
    "source": "edcan",
    "source_name": "EdCan Network",
    "category": "education",
@@ -1595,17 +1650,6 @@
    "url": "https://fsc-ccf.ca/engage/mobilizing-canadas-workforce/",
    "date": "2026-11-16T14:55:35+00:00",
    "summary": ""
-  },
-  {
-   "source": "conversation-ca-ai",
-   "source_name": "The Conversation Canada – AI",
-   "category": "policy",
-   "region": "Canada",
-   "type": "news",
-   "title": "Catching AI’s mistakes is a mental burden – and a drag on productivity",
-   "url": "https://theconversation.com/catching-ais-mistakes-is-a-mental-burden-and-a-drag-on-productivity-291748",
-   "date": "2026-11-16T13:36:56+00:00",
-   "summary": "The time, energy and skills needed to verify AI’s answers to your queries can erase any productivity gains that the technology provides."
   },
   {
    "source": "geist",
@@ -1872,17 +1916,6 @@
    "summary": "Image by Michi Turner, and taken from the cover of the report. The One Hundred Year Study on Artificial Intelligence (AI100) is a longitudinal study that assesses AI’s development and societal impact. Reports are released once every five years, with the 2026 edition being the third in the series. The title of this yea…"
   },
   {
-   "source": "lcfi",
-   "source_name": "Leverhulme Centre for the Future of Intelligence (Cambridge)",
-   "category": "institute",
-   "region": "UK",
-   "type": "blog",
-   "title": "Drone Harms and Investigative Aesthetics - LCFI",
-   "url": "https://www.lcfi.ac.uk/news-events/event/drone-harms-and-investigative-aesthetics",
-   "date": "2026-11-10T14:05:57+00:00",
-   "summary": "Centre for Drones and Culture hybrid seminar, 2 December 2026 How can we make visible the human consequences of increasingly automated and remote forms of warfare? Bringing together investigative journalism, open-source intelligence, and visual storytelling, this event explores how emerging weapons technologies and AI…"
-  },
-  {
    "source": "geist",
    "source_name": "Michael Geist (law & tech policy)",
    "category": "policy",
@@ -1980,17 +2013,6 @@
    "url": "https://aihub.org/2026/11/09/how-attackers-persuade-ai-agents-to-break-the-rules/",
    "date": "2026-11-09T12:17:17+00:00",
    "summary": "Elise Racine & The Bigger Picture / Web of Influence I / Licenced by CC-BY 4.0 By Tanya Petersen Today, most of us interact with AI assistants – reactive bots that wait for human instructions. Yet, AI assistants are rapidly being replaced by agentic AI agents, that can interact with external tools, browse the web, […]"
-  },
-  {
-   "source": "govuk-dfe",
-   "source_name": "GOV.UK – Department for Education news",
-   "category": "policy",
-   "region": "UK",
-   "type": "news",
-   "title": "Curriculum overhaul to re-engage pupils in vital early secondary years",
-   "url": "https://www.gov.uk/government/news/curriculum-overhaul-to-re-engage-pupils-in-vital-early-secondary-years",
-   "date": "2026-11-08T13:34:08+00:00",
-   "summary": "As part of the biggest shake up of the national curriculum in a generation, Key Stage 3 is set to become a more engaging, exciting and distinct part of child’s experience to boost participation and progression."
   },
   {
    "source": "techpolicy",
@@ -2774,6 +2796,17 @@
    "summary": "A new research project led by SRI Faculty Affiliate Syed Ishtiaque Ahmed is trying to fill that gap between how the world's leading AI models understand distress and how people actually experience it."
   },
   {
+   "source": "lcfi",
+   "source_name": "Leverhulme Centre for the Future of Intelligence (Cambridge)",
+   "category": "institute",
+   "region": "UK",
+   "type": "blog",
+   "title": "Report on AI in memorialisation - LCFI",
+   "url": "https://www.lcfi.ac.uk/news-events/news/report-on-ai-in-memorialisation",
+   "date": "2026-10-16T12:33:52+00:00",
+   "summary": "Recent advances in generative artificial intelligence (AI) have enabled new forms of memorialisation, testimony preservation and digital representation of the dead. While AI offers opportunities to improve access to testimony, strengthen archival work and support memorialisation efforts, it also introduces significant…"
+  },
+  {
    "source": "rpf",
    "source_name": "Raspberry Pi Foundation blog (Experience AI)",
    "category": "education",
@@ -2893,17 +2926,6 @@
    "url": "https://montrealethics.ai/ai-policy-corner-the-privatization-of-ai-security-competing-with-states-cooperating-with-firms/",
    "date": "2026-10-13T13:19:40+00:00",
    "summary": "✍️By Ogadinma Enwereazu Ogadinma is a PhD student in Political Science, as well as a Graduate Affiliate at the Governance and Responsible AI Lab (GRAIL) at Purdue University. 📌 Editor’s Note: This article is part of our AI Policy Corner series, a collaboration between the Montreal AI Ethics Institute (MAIEI) and the G…"
-  },
-  {
-   "source": "dsjp",
-   "source_name": "Digital Skills & Jobs Platform (EU)",
-   "category": "policy",
-   "region": "EU",
-   "type": "news",
-   "title": "European Cybersecurity Month 2026",
-   "url": "https://digital-skills-jobs.europa.eu/en/latest/news/european-cybersecurity-month-2026",
-   "date": "2026-10-13T11:00:29+00:00",
-   "summary": "Each year in October, the European Cybersecurity Month (ECSM) raises awareness about online threats and underlines the importance of digital safety."
   },
   {
    "source": "oecd-ai",
@@ -3192,6 +3214,28 @@
    "summary": "Discover how to build ethical AI in healthcare with Dr. Marzyeh Ghassemi. Learn how machine learning models can unintentionally replicate societal biases and how to fix them. In this Vector Institute research talk, Dr. Marzyeh Ghassemi explores the critical need for machine learning researchers and model developers to…"
   },
   {
+   "source": "dsjp",
+   "source_name": "Digital Skills & Jobs Platform (EU)",
+   "category": "policy",
+   "region": "EU",
+   "type": "news",
+   "title": "What Irish Tech Companies Need to Know About the EU Cyber Resilience Act",
+   "url": "https://digital-skills-jobs.europa.eu/en/latest/news/what-irish-tech-companies-need-know-about-eu-cyber-resilience-act",
+   "date": "2026-10-02T12:31:23+00:00",
+   "summary": "A major new EU regulation is set to reshape how software and technology products are designed, developed and maintained across Europe. The EU Cyber Resilience Act (CRA) introduces new cybersecurity requirements for companies developing and selling digital products, making cybersecurity a core business responsibility r…"
+  },
+  {
+   "source": "dsjp",
+   "source_name": "Digital Skills & Jobs Platform (EU)",
+   "category": "policy",
+   "region": "EU",
+   "type": "news",
+   "title": "Cybersecurity Skills More Important Than Ever as EU Workers Face Rising Digital Threats",
+   "url": "https://digital-skills-jobs.europa.eu/en/latest/news/cybersecurity-skills-more-important-ever-eu-workers-face-rising-digital-threats",
+   "date": "2026-10-02T12:22:14+00:00",
+   "summary": "As workplaces become increasingly digital, cybersecurity is no longer just an IT issue. A recent EU-wide survey highlights the growing need for employees across all sectors to develop the skills and awareness required to identify and respond to cyber threats."
+  },
+  {
    "source": "yt-rpf",
    "source_name": "Raspberry Pi Foundation (YouTube)",
    "category": "video",
@@ -3379,28 +3423,6 @@
    "summary": "From 6-10 July 2026 we were part of a team running a Public AI Voice and Engagement (PAVE) Booth at the AI For Good Global Summit Expo in Geneva, Switzerland. The Booth had been pulled together by a coalition of not-for-profit, research, and civil society organisations seeking an opportunity to promote (among the AI h…"
   },
   {
-   "source": "techpolicy",
-   "source_name": "Tech Policy Press",
-   "category": "policy",
-   "region": "International",
-   "type": "news",
-   "title": "Gil Durán Maps the Rise of the 'Nerd Reich'",
-   "url": "https://techpolicy.press/gil-duran-maps-the-rise-of-the-nerd-reich",
-   "date": "2026-09-27T13:15:00+00:00",
-   "summary": "On September 23, Tech Policy Press hosted an event at Betaworks in New York City with Gil Durán , the author of The Nerd Reich: Silicon Valley Fascism and the War on Democracy , the New York Times bestselling book published by Simon & Schuster. Alice Marwick , research director at Data & Society, joined the discussion…"
-  },
-  {
-   "source": "techpolicy",
-   "source_name": "Tech Policy Press",
-   "category": "policy",
-   "region": "International",
-   "type": "news",
-   "title": "The 'Jenga Politics' Threatening the US Census",
-   "url": "https://techpolicy.press/the-jenga-politics-threatening-the-us-census",
-   "date": "2026-09-27T13:00:00+00:00",
-   "summary": "In the United States, the census touches tech policy at more points than you might realize. It's a massive data collection operation and a piece of democratic infrastructure all at once. danah boyd is the author of Data Are Made, Not Found: A Story of Politics, Power, and the Civil Servants Who Saved the US Census , a…"
-  },
-  {
    "source": "oecd-ai",
    "source_name": "OECD.AI Policy Observatory blog",
    "category": "policy",
@@ -3443,28 +3465,6 @@
    "url": "https://newsriver.animikii.com/archive/first-of-its-kind-partnership-announced-at-all-in/",
    "date": "2026-09-23T19:00:00+00:00",
    "summary": "Boozhoo News River Readers, 🍂Seasonal shifts mean updated graphics on our digital touch points courtesy of our lead designer Tom Spetter. This week's Big Picture is also about our own Jeff Ward working with his nation Sandy Bay on an exciting partnership with CEIMIA. We look forward to sharing more as the project deve…"
-  },
-  {
-   "source": "amii",
-   "source_name": "Amii – Updates & Insights",
-   "category": "institute",
-   "region": "Canada",
-   "type": "blog",
-   "title": "Amii researcher Ross Mitchell secures $1-million CIHR grant for AI tool to advance IBD care",
-   "url": "https://www.amii.ca/updates-insights/amii-researcher-ross-mitchell-secures-1-million-chri-grant",
-   "date": "2026-09-23T15:49:45.756000+00:00",
-   "summary": "Amii Fellow and Canada CIFAR AI Chair Ross Mitchell and a team at the University of Alberta have secured a new $1-million grant from Canadian Institutes of Health Research (CIHR) to develop and test new AI tools that could help physicians diagnose and monitor inflammatory bowel diseases (IBD), like Crohn’s disease."
-  },
-  {
-   "source": "sri",
-   "source_name": "Schwartz Reisman Institute (U of T)",
-   "category": "institute",
-   "region": "Canada",
-   "type": "blog",
-   "title": "SRI submits recommendations to federal consultation on AI transparency",
-   "url": "https://srinstitute.utoronto.ca/news/sri-submits-recommendations-to-federal-consultation-on-ai-transparency",
-   "date": "2026-09-23T13:13:35+00:00",
-   "summary": "A new submission from the Schwartz Reisman Institute argues that transparency should be treated as information infrastructure and sets out nine recommendations for the Government of Canada. The submission draws on the work of 20 SRI-affiliated researchers across computer science, law, psychology, economics, and philos…"
   },
   {
    "source": "ajl",
