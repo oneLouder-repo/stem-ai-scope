@@ -1,6 +1,259 @@
 {
  "items": [
   {
+   "id": "4fdaa1c281",
+   "url": "https://theconversation.com/who-gets-to-decide-whether-an-ai-data-centre-has-a-social-licence-to-operate-295729",
+   "title": "Who gets to decide whether an AI data centre has a ‘social licence’ to operate?",
+   "publisher": "The Conversation Canada – AI",
+   "author": "",
+   "date": "2026-11-22",
+   "summary": "Community support is increasingly important to AI data centre development. But who gets to decide whether a project has earned it?",
+   "topics": [
+    "community"
+   ],
+   "region": "Canada",
+   "kind": "news",
+   "week": "2026-W47",
+   "via": "feed"
+  },
+  {
+   "id": "cfb34b03fb",
+   "url": "https://www.youtube.com/watch?v=CzqhmxOjEKY",
+   "title": "Why physical computing is still important in the age of AI | Physical Computing and Robotics | HWP",
+   "publisher": "Raspberry Pi Foundation (YouTube)",
+   "author": "",
+   "date": "2026-11-20",
+   "summary": "In this episode of the Hello World podcast, host James Robinson is joined by Raspberry Pi Foundation colleagues Andrew Csizmadia (Bebras Competition Manager) and Katharine Childs (Research Scientist and PhD student at the University of Glasgow) to explore why learning computing through touch, sight and experience is m…",
+   "topics": [
+    "education-k12",
+    "post-secondary",
+    "research",
+    "stem-outreach"
+   ],
+   "region": "UK",
+   "kind": "video",
+   "week": "2026-W47",
+   "via": "feed"
+  },
+  {
+   "id": "74234c4a71",
+   "url": "https://www.raspberrypi.org/blog/bringing-ai-education-to-300000-young-people-across-canada/",
+   "title": "Bringing AI education to 300,000 young people across Canada",
+   "publisher": "Raspberry Pi Foundation blog (Experience AI)",
+   "author": "",
+   "date": "2026-11-20",
+   "summary": "We’re pleased to share that we will expand Experience AI across Canada to train 7,000 educators who will reach an estimated 300,000 young people across the country by 2028. This is made possible through our partnerships with Canadian education organisations Actua and Digital Moment, and generously supported by $2 mill…",
+   "topics": [
+    "funding",
+    "teachers",
+    "youth"
+   ],
+   "region": "UK",
+   "kind": "news",
+   "week": "2026-W47",
+   "via": "feed"
+  },
+  {
+   "id": "aef792de75",
+   "url": "https://betakit.com/ottawa-establishes-ai-advisory-council-for-culture/",
+   "title": "Feds establish AI advisory council for culture",
+   "publisher": "BetaKit",
+   "author": "",
+   "date": "2026-11-20",
+   "summary": "The 14-member council will advise government and industry on navigating AI’s intersection with arts and culture. The post Feds establish AI advisory council for culture first appeared on BetaKit .",
+   "topics": [
+    "policy",
+    "creative"
+   ],
+   "region": "Canada",
+   "kind": "news",
+   "week": "2026-W47",
+   "via": "feed"
+  },
+  {
+   "id": "f8967f3aa1",
+   "url": "https://theconversation.com/with-ai-blamed-for-mass-layoffs-heres-how-we-can-ensure-workers-get-a-fairer-go-296948",
+   "title": "With AI blamed for mass layoffs, here’s how we can ensure workers get a fairer go",
+   "publisher": "The Conversation Canada – AI",
+   "author": "",
+   "date": "2026-11-19",
+   "summary": "A string of mass redundancies highlights the need to strengthen workers’ rights. Countries such as Germany and Denmark offer approaches that could work here, too.",
+   "topics": [
+    "ethics"
+   ],
+   "region": "Canada",
+   "kind": "news",
+   "week": "2026-W47",
+   "via": "feed"
+  },
+  {
+   "id": "4cb81a933a",
+   "url": "https://theconversation.com/the-us-china-ai-race-is-real-but-trumps-recent-moves-on-super-intelligence-are-unlikely-to-give-america-any-advantage-296219",
+   "title": "The US-China AI race is real – but Trump’s recent moves on ‘super intelligence’ are unlikely to give America any advantage",
+   "publisher": "The Conversation Canada – AI",
+   "author": "",
+   "date": "2026-11-19",
+   "summary": "The White House has set up a task force to coordinate policy on AI. Whether it matters depends on what sits behind the label.",
+   "topics": [
+    "policy"
+   ],
+   "region": "Canada",
+   "kind": "news",
+   "week": "2026-W47",
+   "via": "feed"
+  },
+  {
+   "id": "da23be4ca8",
+   "url": "https://theconversation.com/why-ai-enabled-scientific-research-is-a-double-edged-sword-295916",
+   "title": "Why AI-enabled scientific research is a double-edged sword",
+   "publisher": "The Conversation Canada – AI",
+   "author": "",
+   "date": "2026-11-19",
+   "summary": "Academic publications and conference submissions have risen sharply; is the situation sustainable?",
+   "topics": [
+    "research"
+   ],
+   "region": "Canada",
+   "kind": "news",
+   "week": "2026-W47",
+   "via": "feed"
+  },
+  {
+   "id": "f31ad27b52",
+   "url": "https://www.obvia.ca/actualites/quelle-place-pour-lia-a-luniversite-lobvia-accompagne-une-reflexion-collective-a-luniversite-laval",
+   "title": "Quelle place pour l'IA à l'université ? L'Obvia accompagne une réflexion collective à l'Université Laval",
+   "publisher": "OBVIA – Observatoire international sur les impacts sociétaux de l'IA",
+   "author": "",
+   "date": "2026-11-19",
+   "summary": "L’intégration de l'IA dans les pratiques universitaires soulève des questions qui appellent une réflexion collective. C’est dans cette optique que l’Université Laval a lancé le Forum sur l’intelligence artificielle, auquel l’Obvia a activement contribué.",
+   "topics": [
+    "post-secondary"
+   ],
+   "region": "Canada",
+   "kind": "news",
+   "week": "2026-W47",
+   "via": "feed"
+  },
+  {
+   "id": "8b6d05080a",
+   "url": "https://www.raspberrypi.org/blog/hello-world-31-out-now-physical-computing-and-robotics/",
+   "title": "Hello World #31 out now: Physical computing and robotics",
+   "publisher": "Raspberry Pi Foundation blog (Experience AI)",
+   "author": "",
+   "date": "2026-11-18",
+   "summary": "As we scramble to stay informed and ahead of AI’s place in education, is physical computing still important in computer science? According to the educators in our latest issue of Hello World, the answer is a resounding, “Yes!” Educators from all over the world shared how they use physical computing to make abstract co…",
+   "topics": [
+    "policy",
+    "teachers",
+    "stem-outreach"
+   ],
+   "region": "UK",
+   "kind": "news",
+   "week": "2026-W47",
+   "via": "feed"
+  },
+  {
+   "id": "ebaeee85fa",
+   "url": "https://theconversation.com/what-ai-regulation-could-learn-from-the-most-hazardous-industries-in-the-world-295475",
+   "title": "What AI regulation could learn from the most hazardous industries in the world",
+   "publisher": "The Conversation Canada – AI",
+   "author": "",
+   "date": "2026-11-17",
+   "summary": "Drawing lessons from other industries could help reinforce the safety of AI systems.",
+   "topics": [
+    "policy",
+    "safety"
+   ],
+   "region": "Canada",
+   "kind": "news",
+   "week": "2026-W47",
+   "via": "feed"
+  },
+  {
+   "id": "41f144cb44",
+   "url": "https://srinstitute.utoronto.ca/news/the-human-variable-psychology-for-the-ai-age",
+   "title": "The Human Variable explores psychology for the AI age",
+   "publisher": "Schwartz Reisman Institute (U of T)",
+   "author": "",
+   "date": "2026-11-17",
+   "summary": "Convened by SRI Research Lead Michael Inzlicht, The Human Variable brought psychologists, philosophers, and computer scientists together to ask what the human mind can tell us about AI—and what AI can tell us about the human mind.",
+   "topics": [
+    "research"
+   ],
+   "region": "Canada",
+   "kind": "news",
+   "week": "2026-W47",
+   "via": "feed"
+  },
+  {
+   "id": "16fb7f8abc",
+   "url": "https://theconversation.com/smarter-healthcare-unequal-outcomes-the-risks-of-ai-in-southern-africa-295757",
+   "title": "Smarter healthcare, unequal outcomes? The risks of AI in southern Africa",
+   "publisher": "The Conversation Canada – AI",
+   "author": "",
+   "date": "2026-11-17",
+   "summary": "What appears to be an objective assessment of health need may instead reflect who can reach clinics, and which facilities have functioning digital infrastructure.",
+   "topics": [
+    "safety"
+   ],
+   "region": "Canada",
+   "kind": "news",
+   "week": "2026-W47",
+   "via": "feed"
+  },
+  {
+   "id": "3492c64cfb",
+   "url": "https://www.edcan.ca/articles/bringing-ai-ethics-to-life-in-the-classroom/",
+   "title": "Bringing AI Ethics to Life in the Classroom | EdCan Network",
+   "publisher": "EdCan Network",
+   "author": "",
+   "date": "2026-11-16",
+   "summary": "As artificial intelligence becomes woven into everyday life, young people need more than an understanding of how the technology works. They need opportunities to reflect on the complex questions that […]",
+   "topics": [
+    "education-k12",
+    "ethics",
+    "youth"
+   ],
+   "region": "Canada",
+   "kind": "news",
+   "week": "2026-W47",
+   "via": "feed"
+  },
+  {
+   "id": "240d5e662b",
+   "url": "https://www.youtube.com/watch?v=kC5xqK03KXI",
+   "title": "How Computers will Master the Game of Bridge",
+   "publisher": "Amii (YouTube)",
+   "author": "",
+   "date": "2026-11-16",
+   "summary": "In this seminar from the Alberta Machine Intelligence Institute and the Department of Computing Science, Isaac Stone, PhD student at the University of Alberta, examines the limitations of traditional approaches to computer Bridge and presents alternatives based on comprehensive strategy selection. He describes algorit…",
+   "topics": [
+    "policy",
+    "education-k12",
+    "post-secondary"
+   ],
+   "region": "Canada",
+   "kind": "video",
+   "week": "2026-W47",
+   "via": "feed"
+  },
+  {
+   "id": "1c9da51ab8",
+   "url": "https://www.youtube.com/watch?v=JlY227lOoSg",
+   "title": "Seeing like an (Empowered) Agent",
+   "publisher": "Amii (YouTube)",
+   "author": "",
+   "date": "2026-11-16",
+   "summary": "In this seminar from the Alberta Machine Intelligence Institute and the Department of Computing Science, Benjamin Eysenbach (Assistant Professor, Princeton University) explains how empowerment, a way to measure the agency of an AI agent, provides new ways of seeing and exploring the world. BIO: Benjamin Eysenbach is a…",
+   "topics": [
+    "post-secondary"
+   ],
+   "region": "Canada",
+   "kind": "video",
+   "week": "2026-W47",
+   "via": "feed"
+  },
+  {
    "id": "d63ffe38b7",
    "url": "https://srinstitute.utoronto.ca/news/new-report-examines-ais-rapid-evolution-and-impact-on-society",
    "title": "New report examines AI's rapid evolution and impact on society",

@@ -1,5 +1,19 @@
 [
  {
+  "id": "2026-W47",
+  "start": "2026-11-16",
+  "end": "2026-11-22",
+  "headline": "15 signals: policy, post-secondary, education-k12",
+  "count": 15,
+  "themes": [
+   "policy",
+   "post-secondary",
+   "education-k12",
+   "research"
+  ],
+  "generated_by": "auto-feeds"
+ },
+ {
   "id": "2026-W46",
   "start": "2026-11-09",
   "end": "2026-11-15",

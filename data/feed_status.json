@@ -1,18 +1,18 @@
 {
- "generated": "2026-11-22T17:51:41+00:00",
+ "generated": "2026-11-23T22:04:26+00:00",
  "sources": {
   "mila": {
    "status": "ok",
    "method": "scraped",
    "feed": "https://mila.quebec/en/news",
-   "count": 5,
+   "count": 4,
    "undated": 0
   },
   "amii": {
    "status": "ok",
    "method": "scraped",
    "feed": "https://www.amii.ca/updates-insights",
-   "count": 5,
+   "count": 6,
    "undated": 0
   },
   "vector": {
@@ -37,7 +37,7 @@
    "status": "ok",
    "method": "feed",
    "feed": "https://montrealethics.ai/feed/",
-   "count": 8
+   "count": 9
   },
   "maiei-brief": {
    "status": "ok",
@@ -114,7 +114,7 @@
    "status": "ok",
    "method": "feed",
    "feed": "https://newsriver.animikii.com/rss",
-   "count": 9
+   "count": 8
   },
   "fnigc": {
    "status": "ok",
@@ -232,7 +232,7 @@
    "status": "ok",
    "method": "scraped",
    "feed": "https://www.lcfi.ac.uk/",
-   "count": 2,
+   "count": 3,
    "undated": 0
   },
   "efi": {
@@ -246,7 +246,7 @@
    "status": "ok",
    "method": "feed",
    "feed": "https://connectedbydata.org/feed.xml",
-   "count": 2
+   "count": 3
   },
   "rpf": {
    "status": "ok",
@@ -258,7 +258,7 @@
    "status": "ok",
    "method": "scraped",
    "feed": "https://www.computingatschool.org.uk/forum-news-blogs",
-   "count": 0,
+   "count": 9,
    "undated": 0
   },
   "govuk-dfe": {
@@ -283,7 +283,7 @@
    "status": "ok",
    "method": "scraped",
    "feed": "https://digital-skills-jobs.europa.eu/en/latest/news",
-   "count": 10,
+   "count": 9,
    "undated": 0
   },
   "kicampus": {
@@ -355,10 +355,11 @@
    "count": 15
   },
   "unesco-aied": {
-   "status": "error",
-   "feed": null,
-   "count": 0,
-   "error": "scrape: Remote end closed connection without response"
+   "status": "ok",
+   "method": "scraped",
+   "feed": "https://www.unesco.org/en/digital-education/artificial-intelligence",
+   "count": 1,
+   "undated": 0
   },
   "oecd-ai": {
    "status": "ok",
@@ -383,7 +384,7 @@
    "status": "ok",
    "method": "feed",
    "feed": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFCbqKIQ-8mca0zmMVziAfg",
-   "count": 5
+   "count": 6
   },
   "yt-cifar": {
    "status": "ok",
