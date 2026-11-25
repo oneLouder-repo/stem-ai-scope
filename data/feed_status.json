@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T20:41:09+00:00",
+ "generated": "2026-11-25T19:57:51+00:00",
  "sources": {
   "mila": {
    "status": "ok",
@@ -25,13 +25,13 @@
    "status": "ok",
    "method": "feed",
    "feed": "https://cifar.ca/feed/",
-   "count": 10
+   "count": 11
   },
   "sri": {
    "status": "ok",
    "method": "feed",
    "feed": "https://srinstitute.utoronto.ca/news?format=rss",
-   "count": 7
+   "count": 8
   },
   "maiei": {
    "status": "ok",
@@ -43,7 +43,7 @@
    "status": "ok",
    "method": "feed",
    "feed": "https://brief.montrealethics.ai/feed",
-   "count": 4
+   "count": 5
   },
   "obvia": {
    "status": "ok",
@@ -114,7 +114,7 @@
    "status": "ok",
    "method": "feed",
    "feed": "https://newsriver.animikii.com/rss",
-   "count": 8
+   "count": 9
   },
   "fnigc": {
    "status": "ok",
@@ -283,7 +283,7 @@
    "status": "ok",
    "method": "scraped",
    "feed": "https://digital-skills-jobs.europa.eu/en/latest/news",
-   "count": 7,
+   "count": 8,
    "undated": 0
   },
   "kicampus": {
@@ -319,9 +319,10 @@
   },
   "geist": {
    "status": "ok",
-   "method": "feed",
-   "feed": "https://www.michaelgeist.ca/feed/",
-   "count": 10
+   "method": "scraped",
+   "feed": "https://www.michaelgeist.ca/",
+   "count": 0,
+   "undated": 0
   },
   "betakit": {
    "status": "ok",
