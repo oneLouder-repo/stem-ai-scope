@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T19:57:51+00:00",
+ "generated": "2026-11-26T19:38:49+00:00",
  "sources": {
   "mila": {
    "status": "ok",
@@ -232,7 +232,7 @@
    "status": "ok",
    "method": "scraped",
    "feed": "https://www.lcfi.ac.uk/",
-   "count": 2,
+   "count": 1,
    "undated": 0
   },
   "efi": {
@@ -319,10 +319,9 @@
   },
   "geist": {
    "status": "ok",
-   "method": "scraped",
-   "feed": "https://www.michaelgeist.ca/",
-   "count": 0,
-   "undated": 0
+   "method": "feed",
+   "feed": "https://www.michaelgeist.ca/feed/",
+   "count": 10
   },
   "betakit": {
    "status": "ok",
