@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T19:38:49+00:00",
+ "generated": "2026-11-27T19:29:46+00:00",
  "sources": {
   "mila": {
    "status": "ok",
@@ -16,10 +16,10 @@
    "undated": 0
   },
   "vector": {
-   "status": "ok",
-   "method": "feed",
+   "status": "error",
    "feed": "https://vectorinstitute.ai/feed/",
-   "count": 2
+   "count": 0,
+   "error": "https://vectorinstitute.ai/feed/: HTTP Error 403: Forbidden; scrape: HTTP Error 403: Forbidden"
   },
   "cifar": {
    "status": "ok",
@@ -69,7 +69,7 @@
    "status": "ok",
    "method": "scraped",
    "feed": "https://fsc-ccf.ca/",
-   "count": 5,
+   "count": 6,
    "undated": 0
   },
   "ctf": {
@@ -89,7 +89,7 @@
    "status": "ok",
    "method": "scraped",
    "feed": "https://www.edcan.ca/",
-   "count": 7,
+   "count": 6,
    "undated": 0
   },
   "dayofai-ca": {
@@ -232,7 +232,7 @@
    "status": "ok",
    "method": "scraped",
    "feed": "https://www.lcfi.ac.uk/",
-   "count": 1,
+   "count": 2,
    "undated": 0
   },
   "efi": {
@@ -246,7 +246,7 @@
    "status": "ok",
    "method": "feed",
    "feed": "https://connectedbydata.org/feed.xml",
-   "count": 3
+   "count": 2
   },
   "rpf": {
    "status": "ok",
@@ -283,7 +283,7 @@
    "status": "ok",
    "method": "scraped",
    "feed": "https://digital-skills-jobs.europa.eu/en/latest/news",
-   "count": 8,
+   "count": 5,
    "undated": 0
   },
   "kicampus": {
@@ -319,9 +319,10 @@
   },
   "geist": {
    "status": "ok",
-   "method": "feed",
-   "feed": "https://www.michaelgeist.ca/feed/",
-   "count": 10
+   "method": "scraped",
+   "feed": "https://www.michaelgeist.ca/",
+   "count": 1,
+   "undated": 0
   },
   "betakit": {
    "status": "ok",
@@ -389,7 +390,7 @@
    "status": "ok",
    "method": "feed",
    "feed": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZj1nnTIiutUjEg-22e8UTA",
-   "count": 0
+   "count": 1
   },
   "yt-sri": {
    "status": "ok",
